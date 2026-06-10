@@ -1,0 +1,4051 @@
+Player_ID,Player_Name,Team,Role,Age
+P0001,Player_1,MI,Batsman,26
+P0002,Player_2,KKR,Bowler,22
+P0003,Player_3,MI,Batsman,36
+P0004,Player_4,DC,Batsman,18
+P0005,Player_5,MI,Bowler,25
+P0006,Player_6,GT,Batsman,35
+P0007,Player_7,KKR,Wicket Keeper,25
+P0008,Player_8,PBKS,All-Rounder,18
+P0009,Player_9,CSK,Wicket Keeper,28
+P0010,Player_10,SRH,Bowler,24
+P0011,,RR,Batsman,20
+P0012,,DC,Batsman,29
+P0013,,RR,All-Rounder,19
+P0014,,PBKS,Batsman,30
+P0015,,MI,All-Rounder,38
+P0016,,LSG,All-Rounder,36
+P0017,,KKR,Batsman,19
+P0018,,KKR,All-Rounder,20
+P0019,,KKR,Batsman,30
+P0020,,SRH,Wicket Keeper,38
+P0021,,RR,Bowler,29
+P0022,,RR,Bowler,39
+P0023,,SRH,Batsman,37
+P0024,,CSK,Bowler,23
+P0025,,PBKS,Wicket Keeper,26
+P0026,,GT,Bowler,39
+P0027,,RR,Batsman,25
+P0028,,RCB,All-Rounder,30
+P0029,,SRH,Batsman,24
+P0030,,LSG,All-Rounder,24
+P0031,,PBKS,Wicket Keeper,38
+P0032,,PBKS,Bowler,26
+P0033,,CSK,Bowler,35
+P0034,,GT,All-Rounder,36
+P0035,,DC,Wicket Keeper,29
+P0036,,KKR,Bowler,34
+P0037,,PBKS,Batsman,19
+P0038,,MI,Bowler,38
+P0039,,CSK,Wicket Keeper,37
+P0040,,MI,Wicket Keeper,30
+P0041,,LSG,Wicket Keeper,34
+P0042,Player_42,SRH,Batsman,39
+P0043,Player_43,MI,All-Rounder,38
+P0044,Player_44,RR,Batsman,27
+P0045,Player_45,DC,Bowler,32
+P0046,Player_46,RCB,All-Rounder,34
+P0047,Player_47,CSK,Batsman,38
+P0048,Player_48,SRH,Bowler,22
+P0049,Player_49,RR,Bowler,35
+P0050,Player_50,GT,Batsman,37
+P0051,Player_51,RR,Wicket Keeper,18
+P0052,Player_52,MI,All-Rounder,27
+P0053,Player_53,KKR,Batsman,25
+P0054,Player_54,LSG,Batsman,20
+P0055,Player_55,PBKS,Batsman,35
+P0056,Player_56,CSK,Bowler,39
+P0057,Player_57,PBKS,Bowler,26
+P0058,Player_58,GT,Wicket Keeper,24
+P0059,Player_59,GT,Bowler,40
+P0060,Player_60,SRH,Wicket Keeper,39
+P0061,Player_61,RR,Wicket Keeper,34
+P0062,Player_62,PBKS,Batsman,25
+P0063,Player_63,KKR,Batsman,28
+P0064,Player_64,RCB,Bowler,36
+P0065,Player_65,KKR,Batsman,20
+P0066,Player_66,RCB,Bowler,20
+P0067,Player_67,RCB,All-Rounder,20
+P0068,Player_68,GT,Bowler,26
+P0069,Player_69,PBKS,Bowler,35
+P0070,Player_70,CSK,Wicket Keeper,25
+P0071,Player_71,PBKS,Wicket Keeper,24
+P0072,Player_72,MI,Batsman,39
+P0073,Player_73,DC,All-Rounder,31
+P0074,Player_74,DC,Wicket Keeper,19
+P0075,Player_75,MI,Batsman,30
+P0076,Player_76,RR,Batsman,25
+P0077,Player_77,KKR,Bowler,35
+P0078,Player_78,PBKS,Bowler,31
+P0079,Player_79,CSK,All-Rounder,32
+P0080,Player_80,KKR,Batsman,32
+P0081,Player_81,GT,Batsman,19
+P0082,Player_82,GT,Batsman,20
+P0083,Player_83,KKR,Bowler,31
+P0084,Player_84,PBKS,Wicket Keeper,24
+P0085,Player_85,DC,Batsman,23
+P0086,Player_86,DC,Batsman,30
+P0087,Player_87,SRH,Wicket Keeper,27
+P0088,Player_88,DC,Wicket Keeper,22
+P0089,Player_89,KKR,All-Rounder,24
+P0090,Player_90,RCB,Batsman,28
+P0091,Player_91,RCB,Batsman,36
+P0092,Player_92,PBKS,Bowler,19
+P0093,Player_93,GT,Batsman,23
+P0094,Player_94,MI,Batsman,39
+P0095,Player_95,KKR,Wicket Keeper,21
+P0096,Player_96,LSG,Bowler,36
+P0097,Player_97,LSG,Batsman,37
+P0098,Player_98,MI,Wicket Keeper,39
+P0099,Player_99,LSG,All-Rounder,26
+P0100,Player_100,KKR,All-Rounder,25
+P0101,Player_101,SRH,Wicket Keeper,-5
+P0102,Player_102,SRH,Wicket Keeper,-5
+P0103,Player_103,MI,Batsman,-5
+P0104,Player_104,LSG,Batsman,-5
+P0105,Player_105,GT,Bowler,-5
+P0106,Player_106,SRH,Bowler,-5
+P0107,Player_107,MI,Bowler,-5
+P0108,Player_108,SRH,Bowler,-5
+P0109,Player_109,GT,All-Rounder,-5
+P0110,Player_110,GT,Batsman,-5
+P0111,Player_111,GT,All-Rounder,-5
+P0112,Player_112,MI,Bowler,-5
+P0113,Player_113,MI,Batsman,-5
+P0114,Player_114,CSK,All-Rounder,-5
+P0115,Player_115,LSG,Bowler,-5
+P0116,Player_116,RR,Bowler,-5
+P0117,Player_117,SRH,Wicket Keeper,-5
+P0118,Player_118,RCB,Batsman,-5
+P0119,Player_119,DC,All-Rounder,-5
+P0120,Player_120,RCB,All-Rounder,-5
+P0121,Player_121,SRH,Bowler,-5
+P0122,Player_122,GT,Wicket Keeper,35
+P0123,Player_123,RCB,Batsman,20
+P0124,Player_124,CSK,Batsman,29
+P0125,Player_125,LSG,Bowler,31
+P0126,Player_126,CSK,Batsman,27
+P0127,Player_127,RR,Batsman,29
+P0128,Player_128,KKR,Bowler,39
+P0129,Player_129,MI,All-Rounder,35
+P0130,Player_130,DC,Bowler,25
+P0131,Player_131,CSK,Bowler,31
+P0132,Player_132,RCB,Bowler,28
+P0133,Player_133,DC,Bowler,26
+P0134,Player_134,CSK,Batsman,30
+P0135,Player_135,RCB,Wicket Keeper,25
+P0136,Player_136,KKR,Wicket Keeper,29
+P0137,Player_137,SRH,Bowler,25
+P0138,Player_138,RCB,Bowler,30
+P0139,Player_139,RR,All-Rounder,20
+P0140,Player_140,SRH,All-Rounder,38
+P0141,Player_141,GT,Wicket Keeper,39
+P0142,Player_142,GT,All-Rounder,18
+P0143,Player_143,MI,All-Rounder,23
+P0144,Player_144,LSG,All-Rounder,19
+P0145,Player_145,MI,Wicket Keeper,29
+P0146,Player_146,RR,Wicket Keeper,37
+P0147,Player_147,GT,Batsman,30
+P0148,Player_148,LSG,Bowler,26
+P0149,Player_149,RCB,Wicket Keeper,18
+P0150,Player_150,GT,Bowler,29
+P0151,Player_151,DC,Batsman,150
+P0152,Player_152,RR,All-Rounder,150
+P0153,Player_153,MI,All-Rounder,150
+P0154,Player_154,SRH,Wicket Keeper,150
+P0155,Player_155,DC,All-Rounder,150
+P0156,Player_156,CSK,Bowler,150
+P0157,Player_157,DC,Bowler,150
+P0158,Player_158,LSG,All-Rounder,150
+P0159,Player_159,GT,Batsman,150
+P0160,Player_160,SRH,Bowler,150
+P0161,Player_161,LSG,All-Rounder,150
+P0162,Player_162,PBKS,Wicket Keeper,150
+P0163,Player_163,KKR,Wicket Keeper,150
+P0164,Player_164,MI,All-Rounder,150
+P0165,Player_165,LSG,All-Rounder,150
+P0166,Player_166,KKR,All-Rounder,150
+P0167,Player_167,KKR,Bowler,150
+P0168,Player_168,RCB,Bowler,150
+P0169,Player_169,LSG,Batsman,150
+P0170,Player_170,DC,Bowler,150
+P0171,Player_171,DC,Wicket Keeper,150
+P0172,Player_172,KKR,Bowler,38
+P0173,Player_173,RCB,Batsman,31
+P0174,Player_174,KKR,Bowler,40
+P0175,Player_175,GT,Wicket Keeper,19
+P0176,Player_176,GT,Bowler,21
+P0177,Player_177,PBKS,Bowler,32
+P0178,Player_178,GT,All-Rounder,32
+P0179,Player_179,LSG,Wicket Keeper,35
+P0180,Player_180,PBKS,Bowler,33
+P0181,Player_181,PBKS,All-Rounder,25
+P0182,Player_182,SRH,Wicket Keeper,38
+P0183,Player_183,KKR,All-Rounder,32
+P0184,Player_184,MI,All-Rounder,25
+P0185,Player_185,SRH,All-Rounder,28
+P0186,Player_186,GT,Batsman,22
+P0187,Player_187,CSK,Bowler,30
+P0188,Player_188,CSK,Bowler,20
+P0189,Player_189,DC,Wicket Keeper,28
+P0190,Player_190,GT,Wicket Keeper,31
+P0191,Player_191,RCB,Bowler,31
+P0192,Player_192,DC,Batsman,36
+P0193,Player_193,DC,Wicket Keeper,18
+P0194,Player_194,RR,All-Rounder,30
+P0195,Player_195,DC,Bowler,33
+P0196,Player_196,KKR,All-Rounder,31
+P0197,Player_197,PBKS,Batsman,30
+P0198,Player_198,RR,Wicket Keeper,23
+P0199,Player_199,PBKS,Bowler,37
+P0200,Player_200,GT,Batsman,30
+P0201,Player_201,royal challengers,Batsman,20
+P0202,Player_202,royal challengers,Bowler,32
+P0203,Player_203,royal challengers,Batsman,26
+P0204,Player_204,royal challengers,All-Rounder,24
+P0205,Player_205,royal challengers,All-Rounder,28
+P0206,Player_206,royal challengers,All-Rounder,31
+P0207,Player_207,royal challengers,Batsman,33
+P0208,Player_208,royal challengers,Batsman,29
+P0209,Player_209,royal challengers,Batsman,38
+P0210,Player_210,royal challengers,Batsman,25
+P0211,Player_211,royal challengers,Batsman,37
+P0212,Player_212,royal challengers,Bowler,22
+P0213,Player_213,royal challengers,Batsman,36
+P0214,Player_214,royal challengers,Wicket Keeper,40
+P0215,Player_215,royal challengers,All-Rounder,23
+P0216,Player_216,royal challengers,Batsman,23
+P0217,Player_217,royal challengers,Batsman,36
+P0218,Player_218,royal challengers,All-Rounder,36
+P0219,Player_219,royal challengers,Wicket Keeper,40
+P0220,Player_220,royal challengers,Batsman,36
+P0221,Player_221,royal challengers,Batsman,40
+P0222,Player_222,royal challengers,Batsman,36
+P0223,Player_223,royal challengers,All-Rounder,35
+P0224,Player_224,royal challengers,All-Rounder,20
+P0225,Player_225,royal challengers,All-Rounder,18
+P0226,Player_226,royal challengers,Wicket Keeper,21
+P0227,Player_227,royal challengers,All-Rounder,38
+P0228,Player_228,royal challengers,Bowler,31
+P0229,Player_229,royal challengers,All-Rounder,37
+P0230,Player_230,royal challengers,Wicket Keeper,32
+P0231,Player_231,royal challengers,All-Rounder,28
+P0232,Player_232,rcb,Batsman,26
+P0233,Player_233,rcb,Bowler,32
+P0234,Player_234,rcb,Wicket Keeper,28
+P0235,Player_235,rcb,Wicket Keeper,28
+P0236,Player_236,rcb,Wicket Keeper,24
+P0237,Player_237,rcb,All-Rounder,28
+P0238,Player_238,rcb,All-Rounder,35
+P0239,Player_239,rcb,Bowler,20
+P0240,Player_240,rcb,Wicket Keeper,33
+P0241,Player_241,rcb,Bowler,40
+P0242,Player_242,rcb,Wicket Keeper,32
+P0243,Player_243,rcb,Batsman,27
+P0244,Player_244,rcb,Wicket Keeper,40
+P0245,Player_245,rcb,All-Rounder,39
+P0246,Player_246,rcb,All-Rounder,33
+P0247,Player_247,rcb,All-Rounder,31
+P0248,Player_248,rcb,All-Rounder,29
+P0249,Player_249,rcb,All-Rounder,27
+P0250,Player_250,rcb,Bowler,21
+P0251,Player_251,rcb,All-Rounder,21
+P0252,Player_252,rcb,Bowler,24
+P0253,Player_253,rcb,Wicket Keeper,26
+P0254,Player_254,rcb,All-Rounder,21
+P0255,Player_255,rcb,All-Rounder,25
+P0256,Player_256,rcb,Bowler,27
+P0257,Player_257,rcb,Bowler,26
+P0258,Player_258,rcb,Batsman,35
+P0259,Player_259,rcb,Bowler,38
+P0260,Player_260,rcb,Batsman,18
+P0261,Player_261,rcb,All-Rounder,33
+P0262,Player_262, RCB ,Wicket Keeper,28
+P0263,Player_263, RCB ,Batsman,26
+P0264,Player_264, RCB ,Batsman,20
+P0265,Player_265, RCB ,Wicket Keeper,20
+P0266,Player_266, RCB ,Batsman,22
+P0267,Player_267, RCB ,All-Rounder,20
+P0268,Player_268, RCB ,Batsman,35
+P0269,Player_269, RCB ,Bowler,34
+P0270,Player_270, RCB ,Wicket Keeper,32
+P0271,Player_271, RCB ,Wicket Keeper,27
+P0272,Player_272, RCB ,Batsman,37
+P0273,Player_273, RCB ,Bowler,38
+P0274,Player_274, RCB ,All-Rounder,39
+P0275,Player_275, RCB ,Bowler,25
+P0276,Player_276, RCB ,Batsman,23
+P0277,Player_277, RCB ,Wicket Keeper,32
+P0278,Player_278, RCB ,Wicket Keeper,27
+P0279,Player_279, RCB ,Bowler,27
+P0280,Player_280, RCB ,Wicket Keeper,20
+P0281,Player_281, RCB ,All-Rounder,38
+P0282,Player_282, RCB ,Bowler,31
+P0283,Player_283, RCB ,Bowler,38
+P0284,Player_284, RCB ,All-Rounder,22
+P0285,Player_285, RCB ,Batsman,23
+P0286,Player_286, RCB ,All-Rounder,32
+P0287,Player_287, RCB ,Wicket Keeper,40
+P0288,Player_288, RCB ,Wicket Keeper,26
+P0289,Player_289, RCB ,Wicket Keeper,32
+P0290,Player_290, RCB ,Batsman,31
+P0291,Player_291, RCB ,All-Rounder,18
+P0292,Player_292,MI,Bowler,39
+P0293,Player_293,LSG,Batsman,39
+P0294,Player_294,SRH,Batsman,23
+P0295,Player_295,PBKS,Wicket Keeper,26
+P0296,Player_296,CSK,Wicket Keeper,38
+P0297,Player_297,PBKS,Batsman,33
+P0298,Player_298,RR,Wicket Keeper,28
+P0299,Player_299,RR,Batsman,23
+P0300,Player_300,RR,Wicket Keeper,40
+P0301,Player_301,PBKS,All-Rounder,39
+P0302,Player_302,DC,Batsman,32
+P0303,Player_303,MI,All-Rounder,26
+P0304,Player_304,RR,Batsman,30
+P0305,Player_305,GT,Batsman,39
+P0306,Player_306,GT,Wicket Keeper,31
+P0307,Player_307,RCB,Bowler,34
+P0308,Player_308,RR,Wicket Keeper,38
+P0309,Player_309,PBKS,Batsman,24
+P0310,Player_310,SRH,Bowler,27
+P0311,Player_311,PBKS,Wicket Keeper,21
+P0312,Player_312,RCB,Bowler,40
+P0313,Player_313,CSK,All-Rounder,35
+P0314,Player_314,RCB,Wicket Keeper,20
+P0315,Player_315,KKR,Batsman,32
+P0316,Player_316,MI,Bowler,33
+P0317,Player_317,SRH,All-Rounder,31
+P0318,Player_318,PBKS,Wicket Keeper,25
+P0319,Player_319,PBKS,Bowler,30
+P0320,Player_320,KKR,Bowler,20
+P0321,Player_321,SRH,Wicket Keeper,28
+P0322,Player_322,GT,All-Rounder,18
+P0323,Player_323,SRH,All-Rounder,36
+P0324,Player_324,LSG,Wicket Keeper,22
+P0325,Player_325,PBKS,Wicket Keeper,29
+P0326,Player_326,RR,Wicket Keeper,32
+P0327,Player_327,RR,Bowler,40
+P0328,Player_328,KKR,Wicket Keeper,25
+P0329,Player_329,DC,Batsman,28
+P0330,Player_330,PBKS,Wicket Keeper,30
+P0331,Player_331,CSK,Wicket Keeper,19
+P0332,Player_332,CSK,All-Rounder,21
+P0333,Player_333,PBKS,Batsman,34
+P0334,Player_334,PBKS,Batsman,22
+P0335,Player_335,DC,Bowler,20
+P0336,Player_336,PBKS,All-Rounder,28
+P0337,Player_337,LSG,Wicket Keeper,38
+P0338,Player_338,MI,All-Rounder,39
+P0339,Player_339,GT,Wicket Keeper,28
+P0340,Player_340,PBKS,Batsman,37
+P0341,Player_341,MI,Bowler,38
+P0342,Player_342,SRH,Bowler,20
+P0343,Player_343,DC,Batsman,38
+P0344,Player_344,MI,Wicket Keeper,23
+P0345,Player_345,SRH,Batsman,19
+P0346,Player_346,RR,Batsman,27
+P0347,Player_347,RR,All-Rounder,31
+P0348,Player_348,CSK,Bowler,34
+P0349,Player_349,DC,Bowler,23
+P0350,Player_350,CSK,Batsman,37
+P0351,Player_351,DC,Bowler,33
+P0352,Player_352,LSG,Bowler,25
+P0353,Player_353,PBKS,All-Rounder,32
+P0354,Player_354,SRH,Batsman,32
+P0355,Player_355,SRH,Bowler,20
+P0356,Player_356,PBKS,All-Rounder,36
+P0357,Player_357,SRH,Wicket Keeper,40
+P0358,Player_358,SRH,Wicket Keeper,27
+P0359,Player_359,KKR,Wicket Keeper,33
+P0360,Player_360,MI,Bowler,30
+P0361,Player_361,LSG,All-Rounder,36
+P0362,Player_362,SRH,All-Rounder,18
+P0363,Player_363,DC,All-Rounder,18
+P0364,Player_364,LSG,Batsman,37
+P0365,Player_365,PBKS,All-Rounder,25
+P0366,Player_366,LSG,All-Rounder,25
+P0367,Player_367,KKR,All-Rounder,39
+P0368,Player_368,CSK,Batsman,38
+P0369,Player_369,RCB,All-Rounder,32
+P0370,Player_370,RCB,All-Rounder,22
+P0371,Player_371,MI,All-Rounder,28
+P0372,Player_372,DC,Bowler,24
+P0373,Player_373,CSK,All-Rounder,34
+P0374,Player_374,GT,All-Rounder,23
+P0375,Player_375,SRH,Wicket Keeper,27
+P0376,Player_376,RR,Batsman,32
+P0377,Player_377,MI,Bowler,25
+P0378,Player_378,DC,All-Rounder,20
+P0379,Player_379,DC,Batsman,26
+P0380,Player_380,GT,Batsman,32
+P0381,Player_381,RR,All-Rounder,36
+P0382,Player_382,DC,All-Rounder,21
+P0383,Player_383,KKR,Wicket Keeper,18
+P0384,Player_384,LSG,All-Rounder,37
+P0385,Player_385,KKR,Batsman,38
+P0386,Player_386,PBKS,All-Rounder,38
+P0387,Player_387,DC,Batsman,22
+P0388,Player_388,RCB,Batsman,27
+P0389,Player_389,PBKS,Batsman,21
+P0390,Player_390,KKR,Bowler,30
+P0391,Player_391,PBKS,All-Rounder,39
+P0392,Player_392,GT,Wicket Keeper,36
+P0393,Player_393,CSK,Wicket Keeper,38
+P0394,Player_394,MI,Wicket Keeper,37
+P0395,Player_395,DC,All-Rounder,19
+P0396,Player_396,RR,Bowler,32
+P0397,Player_397,PBKS,Bowler,29
+P0398,Player_398,MI,All-Rounder,35
+P0399,Player_399,RR,Batsman,30
+P0400,Player_400,SRH,Bowler,21
+P0401,Player_401,PBKS,Batsman,39
+P0402,Player_402,KKR,Batsman,19
+P0403,Player_403,RR,Bowler,22
+P0404,Player_404,LSG,Bowler,20
+P0405,Player_405,GT,Bowler,36
+P0406,Player_406,KKR,Bowler,28
+P0407,Player_407,CSK,Batsman,26
+P0408,Player_408,CSK,Bowler,35
+P0409,Player_409,SRH,Bowler,21
+P0410,Player_410,RCB,Bowler,18
+P0411,Player_411,RR,Bowler,36
+P0412,Player_412,RR,Batsman,23
+P0413,Player_413,SRH,Batsman,22
+P0414,Player_414,DC,Batsman,20
+P0415,Player_415,PBKS,Wicket Keeper,29
+P0416,Player_416,GT,Batsman,32
+P0417,Player_417,GT,Bowler,37
+P0418,Player_418,RCB,All-Rounder,32
+P0419,Player_419,RCB,Batsman,33
+P0420,Player_420,DC,Wicket Keeper,39
+P0421,Player_421,MI,Wicket Keeper,40
+P0422,Player_422,PBKS,Batsman,20
+P0423,Player_423,RR,Bowler,20
+P0424,Player_424,CSK,All-Rounder,37
+P0425,Player_425,LSG,All-Rounder,30
+P0426,Player_426,LSG,All-Rounder,32
+P0427,Player_427,GT,Wicket Keeper,21
+P0428,Player_428,MI,Bowler,31
+P0429,Player_429,PBKS,Bowler,31
+P0430,Player_430,RR,Wicket Keeper,30
+P0431,Player_431,DC,Batsman,28
+P0432,Player_432,DC,All-Rounder,39
+P0433,Player_433,SRH,All-Rounder,22
+P0434,Player_434,PBKS,Batsman,20
+P0435,Player_435,MI,Batsman,31
+P0436,Player_436,MI,All-Rounder,22
+P0437,Player_437,GT,Batsman,36
+P0438,Player_438,GT,All-Rounder,39
+P0439,Player_439,MI,Wicket Keeper,29
+P0440,Player_440,DC,Batsman,27
+P0441,Player_441,LSG,All-Rounder,29
+P0442,Player_442,MI,Bowler,22
+P0443,Player_443,PBKS,Bowler,21
+P0444,Player_444,RR,All-Rounder,21
+P0445,Player_445,SRH,Bowler,31
+P0446,Player_446,GT,Batsman,37
+P0447,Player_447,SRH,Batsman,23
+P0448,Player_448,SRH,All-Rounder,28
+P0449,Player_449,RR,Batsman,23
+P0450,Player_450,CSK,Wicket Keeper,20
+P0451,Player_451,CSK,Batsman,20
+P0452,Player_452,GT,Bowler,30
+P0453,Player_453,DC,Wicket Keeper,28
+P0454,Player_454,CSK,All-Rounder,27
+P0455,Player_455,RR,Batsman,19
+P0456,Player_456,CSK,Bowler,37
+P0457,Player_457,RCB,Batsman,26
+P0458,Player_458,PBKS,Wicket Keeper,33
+P0459,Player_459,LSG,Wicket Keeper,31
+P0460,Player_460,SRH,Bowler,34
+P0461,Player_461,MI,All-Rounder,31
+P0462,Player_462,MI,All-Rounder,39
+P0463,Player_463,LSG,Wicket Keeper,34
+P0464,Player_464,SRH,Batsman,25
+P0465,Player_465,DC,Batsman,18
+P0466,Player_466,KKR,All-Rounder,24
+P0467,Player_467,CSK,All-Rounder,27
+P0468,Player_468,RR,Batsman,18
+P0469,Player_469,PBKS,Wicket Keeper,23
+P0470,Player_470,CSK,Wicket Keeper,35
+P0471,Player_471,KKR,All-Rounder,20
+P0472,Player_472,DC,Batsman,31
+P0473,Player_473,RCB,Wicket Keeper,20
+P0474,Player_474,RR,Wicket Keeper,36
+P0475,Player_475,DC,Wicket Keeper,27
+P0476,Player_476,MI,Wicket Keeper,18
+P0477,Player_477,RR,Bowler,37
+P0478,Player_478,PBKS,All-Rounder,20
+P0479,Player_479,DC,Batsman,25
+P0480,Player_480,DC,Wicket Keeper,34
+P0481,Player_481,MI,Wicket Keeper,27
+P0482,Player_482,RR,Bowler,28
+P0483,Player_483,CSK,Batsman,34
+P0484,Player_484,MI,Bowler,29
+P0485,Player_485,RR,Bowler,25
+P0486,Player_486,MI,Bowler,26
+P0487,Player_487,KKR,Bowler,37
+P0488,Player_488,CSK,Batsman,23
+P0489,Player_489,PBKS,Wicket Keeper,36
+P0490,Player_490,LSG,Wicket Keeper,39
+P0491,Player_491,LSG,All-Rounder,38
+P0492,Player_492,RR,Bowler,32
+P0493,Player_493,MI,Wicket Keeper,32
+P0494,Player_494,SRH,All-Rounder,36
+P0495,Player_495,RCB,All-Rounder,34
+P0496,Player_496,MI,All-Rounder,32
+P0497,Player_497,PBKS,Batsman,19
+P0498,Player_498,RR,All-Rounder,20
+P0499,Player_499,MI,Wicket Keeper,32
+P0500,Player_500,LSG,Batsman,32
+P0501,Player_501,LSG,Bowler,28
+P0502,Player_502,LSG,Wicket Keeper,34
+P0503,Player_503,CSK,Batsman,32
+P0504,Player_504,MI,All-Rounder,40
+P0505,Player_505,MI,Bowler,19
+P0506,Player_506,KKR,Wicket Keeper,32
+P0507,Player_507,GT,Bowler,29
+P0508,Player_508,RR,All-Rounder,30
+P0509,Player_509,DC,All-Rounder,39
+P0510,Player_510,LSG,Batsman,38
+P0511,Player_511,RR,Batsman,28
+P0512,Player_512,MI,Wicket Keeper,27
+P0513,Player_513,SRH,Bowler,28
+P0514,Player_514,MI,Bowler,29
+P0515,Player_515,SRH,Wicket Keeper,22
+P0516,Player_516,LSG,Batsman,27
+P0517,Player_517,GT,Wicket Keeper,38
+P0518,Player_518,RR,Bowler,39
+P0519,Player_519,GT,Batsman,38
+P0520,Player_520,DC,All-Rounder,18
+P0521,Player_521,RR,All-Rounder,23
+P0522,Player_522,KKR,All-Rounder,33
+P0523,Player_523,KKR,Bowler,22
+P0524,Player_524,CSK,Batsman,27
+P0525,Player_525,MI,Batsman,39
+P0526,Player_526,RR,Bowler,37
+P0527,Player_527,DC,Bowler,23
+P0528,Player_528,CSK,Bowler,32
+P0529,Player_529,RCB,Wicket Keeper,29
+P0530,Player_530,KKR,Wicket Keeper,37
+P0531,Player_531,SRH,Wicket Keeper,25
+P0532,Player_532,GT,Bowler,27
+P0533,Player_533,PBKS,Bowler,29
+P0534,Player_534,LSG,Wicket Keeper,32
+P0535,Player_535,SRH,Wicket Keeper,34
+P0536,Player_536,GT,Wicket Keeper,23
+P0537,Player_537,KKR,Bowler,26
+P0538,Player_538,RCB,Wicket Keeper,29
+P0539,Player_539,GT,Batsman,40
+P0540,Player_540,GT,Batsman,27
+P0541,Player_541,MI,Bowler,26
+P0542,Player_542,PBKS,Bowler,31
+P0543,Player_543,MI,Bowler,32
+P0544,Player_544,RR,Batsman,31
+P0545,Player_545,RCB,Wicket Keeper,34
+P0546,Player_546,RR,Bowler,30
+P0547,Player_547,MI,All-Rounder,25
+P0548,Player_548,RCB,All-Rounder,21
+P0549,Player_549,RR,Bowler,22
+P0550,Player_550,RCB,All-Rounder,33
+P0551,Player_551,CSK,Wicket Keeper,32
+P0552,Player_552,LSG,Batsman,20
+P0553,Player_553,RCB,All-Rounder,24
+P0554,Player_554,CSK,Wicket Keeper,21
+P0555,Player_555,SRH,Bowler,27
+P0556,Player_556,MI,Batsman,25
+P0557,Player_557,DC,Wicket Keeper,20
+P0558,Player_558,MI,Wicket Keeper,37
+P0559,Player_559,GT,Batsman,38
+P0560,Player_560,GT,Bowler,40
+P0561,Player_561,CSK,All-Rounder,31
+P0562,Player_562,RCB,All-Rounder,25
+P0563,Player_563,LSG,Wicket Keeper,23
+P0564,Player_564,MI,All-Rounder,20
+P0565,Player_565,GT,Batsman,30
+P0566,Player_566,PBKS,Batsman,38
+P0567,Player_567,DC,All-Rounder,26
+P0568,Player_568,RCB,All-Rounder,20
+P0569,Player_569,RR,Bowler,39
+P0570,Player_570,MI,All-Rounder,22
+P0571,Player_571,RCB,All-Rounder,35
+P0572,Player_572,RR,Bowler,39
+P0573,Player_573,PBKS,Wicket Keeper,38
+P0574,Player_574,CSK,Bowler,20
+P0575,Player_575,PBKS,Batsman,27
+P0576,Player_576,KKR,Batsman,24
+P0577,Player_577,RCB,All-Rounder,27
+P0578,Player_578,GT,Wicket Keeper,35
+P0579,Player_579,PBKS,All-Rounder,19
+P0580,Player_580,KKR,All-Rounder,29
+P0581,Player_581,RCB,All-Rounder,26
+P0582,Player_582,MI,All-Rounder,31
+P0583,Player_583,DC,Wicket Keeper,30
+P0584,Player_584,RR,Bowler,33
+P0585,Player_585,PBKS,All-Rounder,34
+P0586,Player_586,SRH,Batsman,31
+P0587,Player_587,MI,Wicket Keeper,37
+P0588,Player_588,CSK,All-Rounder,28
+P0589,Player_589,MI,Batsman,28
+P0590,Player_590,SRH,All-Rounder,32
+P0591,Player_591,LSG,Wicket Keeper,23
+P0592,Player_592,PBKS,All-Rounder,32
+P0593,Player_593,RCB,All-Rounder,37
+P0594,Player_594,DC,All-Rounder,38
+P0595,Player_595,RCB,Batsman,39
+P0596,Player_596,DC,All-Rounder,34
+P0597,Player_597,CSK,Batsman,22
+P0598,Player_598,LSG,Wicket Keeper,19
+P0599,Player_599,CSK,Batsman,25
+P0600,Player_600,RR,All-Rounder,30
+P0601,Player_601,LSG,Batsman,37
+P0602,Player_602,CSK,Wicket Keeper,29
+P0603,Player_603,RR,Wicket Keeper,20
+P0604,Player_604,LSG,Bowler,34
+P0605,Player_605,RR,Wicket Keeper,28
+P0606,Player_606,SRH,Bowler,21
+P0607,Player_607,RCB,Bowler,33
+P0608,Player_608,GT,Wicket Keeper,35
+P0609,Player_609,MI,All-Rounder,26
+P0610,Player_610,PBKS,Bowler,37
+P0611,Player_611,SRH,Wicket Keeper,24
+P0612,Player_612,MI,Bowler,20
+P0613,Player_613,PBKS,Bowler,40
+P0614,Player_614,PBKS,Batsman,39
+P0615,Player_615,RR,All-Rounder,40
+P0616,Player_616,MI,All-Rounder,27
+P0617,Player_617,CSK,Bowler,29
+P0618,Player_618,GT,Bowler,21
+P0619,Player_619,KKR,Bowler,25
+P0620,Player_620,PBKS,Batsman,29
+P0621,Player_621,GT,All-Rounder,32
+P0622,Player_622,GT,Bowler,37
+P0623,Player_623,MI,Batsman,27
+P0624,Player_624,DC,Wicket Keeper,34
+P0625,Player_625,DC,Wicket Keeper,36
+P0626,Player_626,MI,Bowler,28
+P0627,Player_627,MI,Wicket Keeper,32
+P0628,Player_628,GT,All-Rounder,22
+P0629,Player_629,GT,Bowler,22
+P0630,Player_630,DC,Batsman,21
+P0631,Player_631,GT,Bowler,27
+P0632,Player_632,CSK,Bowler,28
+P0633,Player_633,KKR,All-Rounder,34
+P0634,Player_634,SRH,Batsman,26
+P0635,Player_635,KKR,All-Rounder,22
+P0636,Player_636,SRH,Batsman,34
+P0637,Player_637,CSK,Bowler,23
+P0638,Player_638,LSG,All-Rounder,36
+P0639,Player_639,RCB,Batsman,20
+P0640,Player_640,RCB,All-Rounder,38
+P0641,Player_641,KKR,Wicket Keeper,37
+P0642,Player_642,RCB,Wicket Keeper,38
+P0643,Player_643,GT,All-Rounder,38
+P0644,Player_644,SRH,Wicket Keeper,25
+P0645,Player_645,DC,All-Rounder,32
+P0646,Player_646,MI,Batsman,23
+P0647,Player_647,PBKS,Wicket Keeper,33
+P0648,Player_648,PBKS,Bowler,28
+P0649,Player_649,LSG,Bowler,28
+P0650,Player_650,RR,All-Rounder,30
+P0651,Player_651,CSK,All-Rounder,34
+P0652,Player_652,GT,Batsman,28
+P0653,Player_653,KKR,Wicket Keeper,21
+P0654,Player_654,SRH,Wicket Keeper,25
+P0655,Player_655,CSK,Batsman,19
+P0656,Player_656,SRH,Wicket Keeper,37
+P0657,Player_657,DC,Bowler,23
+P0658,Player_658,RR,All-Rounder,24
+P0659,Player_659,CSK,Wicket Keeper,34
+P0660,Player_660,PBKS,Wicket Keeper,27
+P0661,Player_661,PBKS,Batsman,20
+P0662,Player_662,DC,Wicket Keeper,25
+P0663,Player_663,KKR,All-Rounder,19
+P0664,Player_664,RCB,All-Rounder,33
+P0665,Player_665,LSG,Wicket Keeper,27
+P0666,Player_666,GT,Batsman,21
+P0667,Player_667,DC,Bowler,26
+P0668,Player_668,RR,Wicket Keeper,29
+P0669,Player_669,RCB,Wicket Keeper,19
+P0670,Player_670,LSG,Bowler,29
+P0671,Player_671,GT,All-Rounder,20
+P0672,Player_672,DC,Wicket Keeper,35
+P0673,Player_673,SRH,Batsman,22
+P0674,Player_674,MI,Wicket Keeper,29
+P0675,Player_675,RR,All-Rounder,22
+P0676,Player_676,KKR,Wicket Keeper,34
+P0677,Player_677,RCB,Batsman,19
+P0678,Player_678,CSK,All-Rounder,33
+P0679,Player_679,GT,Wicket Keeper,22
+P0680,Player_680,LSG,Bowler,28
+P0681,Player_681,LSG,All-Rounder,23
+P0682,Player_682,DC,All-Rounder,36
+P0683,Player_683,RR,Wicket Keeper,40
+P0684,Player_684,LSG,All-Rounder,33
+P0685,Player_685,RCB,All-Rounder,28
+P0686,Player_686,MI,Wicket Keeper,36
+P0687,Player_687,SRH,Batsman,37
+P0688,Player_688,PBKS,All-Rounder,38
+P0689,Player_689,LSG,Bowler,19
+P0690,Player_690,LSG,Wicket Keeper,23
+P0691,Player_691,GT,Wicket Keeper,22
+P0692,Player_692,KKR,Batsman,36
+P0693,Player_693,MI,Bowler,18
+P0694,Player_694,PBKS,All-Rounder,31
+P0695,Player_695,CSK,Wicket Keeper,40
+P0696,Player_696,KKR,Wicket Keeper,34
+P0697,Player_697,LSG,Wicket Keeper,19
+P0698,Player_698,CSK,Bowler,35
+P0699,Player_699,RR,Wicket Keeper,34
+P0700,Player_700,DC,All-Rounder,23
+P0701,Player_701,PBKS,All-Rounder,35
+P0702,Player_702,RR,All-Rounder,37
+P0703,Player_703,PBKS,Bowler,25
+P0704,Player_704,SRH,All-Rounder,25
+P0705,Player_705,SRH,All-Rounder,40
+P0706,Player_706,KKR,Wicket Keeper,28
+P0707,Player_707,PBKS,All-Rounder,35
+P0708,Player_708,SRH,All-Rounder,21
+P0709,Player_709,LSG,Wicket Keeper,30
+P0710,Player_710,RR,Bowler,27
+P0711,Player_711,RCB,All-Rounder,40
+P0712,Player_712,MI,All-Rounder,32
+P0713,Player_713,SRH,Wicket Keeper,24
+P0714,Player_714,KKR,All-Rounder,35
+P0715,Player_715,SRH,Bowler,21
+P0716,Player_716,LSG,Bowler,25
+P0717,Player_717,RCB,Bowler,38
+P0718,Player_718,KKR,Batsman,21
+P0719,Player_719,DC,All-Rounder,40
+P0720,Player_720,PBKS,Batsman,39
+P0721,Player_721,CSK,Batsman,35
+P0722,Player_722,CSK,Wicket Keeper,38
+P0723,Player_723,PBKS,Wicket Keeper,38
+P0724,Player_724,KKR,All-Rounder,28
+P0725,Player_725,SRH,Batsman,20
+P0726,Player_726,LSG,Bowler,35
+P0727,Player_727,RCB,Bowler,31
+P0728,Player_728,CSK,Batsman,30
+P0729,Player_729,PBKS,Bowler,27
+P0730,Player_730,RCB,Batsman,27
+P0731,Player_731,LSG,Batsman,28
+P0732,Player_732,SRH,Wicket Keeper,38
+P0733,Player_733,GT,Wicket Keeper,22
+P0734,Player_734,GT,Wicket Keeper,26
+P0735,Player_735,KKR,Batsman,28
+P0736,Player_736,CSK,Wicket Keeper,38
+P0737,Player_737,SRH,Bowler,18
+P0738,Player_738,RR,All-Rounder,36
+P0739,Player_739,KKR,Bowler,37
+P0740,Player_740,DC,Wicket Keeper,34
+P0741,Player_741,RR,Batsman,30
+P0742,Player_742,MI,Bowler,22
+P0743,Player_743,PBKS,All-Rounder,25
+P0744,Player_744,RCB,All-Rounder,30
+P0745,Player_745,KKR,Wicket Keeper,26
+P0746,Player_746,RR,All-Rounder,36
+P0747,Player_747,LSG,Batsman,26
+P0748,Player_748,RR,Bowler,19
+P0749,Player_749,MI,Wicket Keeper,27
+P0750,Player_750,CSK,Wicket Keeper,39
+P0751,Player_751,GT,All-Rounder,40
+P0752,Player_752,MI,All-Rounder,29
+P0753,Player_753,LSG,Bowler,25
+P0754,Player_754,CSK,Wicket Keeper,22
+P0755,Player_755,PBKS,All-Rounder,31
+P0756,Player_756,GT,Wicket Keeper,35
+P0757,Player_757,KKR,Bowler,39
+P0758,Player_758,LSG,Batsman,34
+P0759,Player_759,PBKS,All-Rounder,20
+P0760,Player_760,LSG,Batsman,19
+P0761,Player_761,GT,Bowler,36
+P0762,Player_762,GT,Bowler,23
+P0763,Player_763,RR,Wicket Keeper,21
+P0764,Player_764,KKR,Wicket Keeper,20
+P0765,Player_765,GT,Wicket Keeper,19
+P0766,Player_766,PBKS,Bowler,34
+P0767,Player_767,DC,Wicket Keeper,36
+P0768,Player_768,RCB,Wicket Keeper,39
+P0769,Player_769,SRH,Batsman,30
+P0770,Player_770,SRH,Batsman,24
+P0771,Player_771,LSG,Batsman,19
+P0772,Player_772,DC,All-Rounder,40
+P0773,Player_773,MI,Batsman,20
+P0774,Player_774,PBKS,Batsman,27
+P0775,Player_775,DC,Bowler,22
+P0776,Player_776,DC,All-Rounder,30
+P0777,Player_777,PBKS,Wicket Keeper,30
+P0778,Player_778,MI,Bowler,38
+P0779,Player_779,RR,Batsman,23
+P0780,Player_780,GT,Wicket Keeper,34
+P0781,Player_781,CSK,Bowler,18
+P0782,Player_782,RCB,All-Rounder,32
+P0783,Player_783,GT,Wicket Keeper,35
+P0784,Player_784,DC,Bowler,25
+P0785,Player_785,PBKS,All-Rounder,22
+P0786,Player_786,SRH,Bowler,21
+P0787,Player_787,RCB,Wicket Keeper,37
+P0788,Player_788,RCB,Bowler,24
+P0789,Player_789,MI,Batsman,37
+P0790,Player_790,RCB,Wicket Keeper,37
+P0791,Player_791,RCB,Bowler,19
+P0792,Player_792,DC,Wicket Keeper,25
+P0793,Player_793,GT,Bowler,19
+P0794,Player_794,CSK,All-Rounder,25
+P0795,Player_795,LSG,All-Rounder,36
+P0796,Player_796,LSG,All-Rounder,25
+P0797,Player_797,SRH,Bowler,39
+P0798,Player_798,GT,Bowler,31
+P0799,Player_799,SRH,All-Rounder,19
+P0800,Player_800,GT,Bowler,38
+P0801,Player_801,DC,Wicket Keeper,19
+P0802,Player_802,RR,Wicket Keeper,34
+P0803,Player_803,RR,Wicket Keeper,31
+P0804,Player_804,CSK,All-Rounder,30
+P0805,Player_805,CSK,Wicket Keeper,25
+P0806,Player_806,KKR,All-Rounder,40
+P0807,Player_807,CSK,Wicket Keeper,19
+P0808,Player_808,GT,Wicket Keeper,31
+P0809,Player_809,GT,Bowler,30
+P0810,Player_810,KKR,All-Rounder,24
+P0811,Player_811,RR,Batsman,32
+P0812,Player_812,RR,Batsman,35
+P0813,Player_813,KKR,Batsman,26
+P0814,Player_814,DC,Batsman,20
+P0815,Player_815,KKR,Bowler,33
+P0816,Player_816,KKR,All-Rounder,27
+P0817,Player_817,RCB,Bowler,24
+P0818,Player_818,MI,Wicket Keeper,25
+P0819,Player_819,LSG,Bowler,30
+P0820,Player_820,KKR,All-Rounder,27
+P0821,Player_821,DC,Wicket Keeper,35
+P0822,Player_822,RR,All-Rounder,26
+P0823,Player_823,RR,Wicket Keeper,32
+P0824,Player_824,MI,Wicket Keeper,28
+P0825,Player_825,KKR,All-Rounder,28
+P0826,Player_826,DC,Batsman,36
+P0827,Player_827,KKR,Bowler,18
+P0828,Player_828,SRH,Wicket Keeper,27
+P0829,Player_829,CSK,Bowler,28
+P0830,Player_830,KKR,Wicket Keeper,36
+P0831,Player_831,KKR,Wicket Keeper,35
+P0832,Player_832,RR,All-Rounder,33
+P0833,Player_833,PBKS,Wicket Keeper,23
+P0834,Player_834,RR,Bowler,22
+P0835,Player_835,GT,Wicket Keeper,23
+P0836,Player_836,GT,Batsman,34
+P0837,Player_837,RCB,Batsman,39
+P0838,Player_838,RCB,Batsman,31
+P0839,Player_839,CSK,Bowler,20
+P0840,Player_840,CSK,Batsman,24
+P0841,Player_841,GT,Wicket Keeper,29
+P0842,Player_842,RCB,Wicket Keeper,39
+P0843,Player_843,PBKS,Batsman,18
+P0844,Player_844,GT,Wicket Keeper,18
+P0845,Player_845,RCB,All-Rounder,35
+P0846,Player_846,SRH,Batsman,34
+P0847,Player_847,DC,Bowler,21
+P0848,Player_848,MI,Bowler,25
+P0849,Player_849,KKR,All-Rounder,29
+P0850,Player_850,SRH,Wicket Keeper,20
+P0851,Player_851,RR,Wicket Keeper,32
+P0852,Player_852,LSG,Bowler,40
+P0853,Player_853,KKR,All-Rounder,39
+P0854,Player_854,MI,Batsman,20
+P0855,Player_855,DC,Wicket Keeper,30
+P0856,Player_856,GT,Wicket Keeper,19
+P0857,Player_857,RCB,Bowler,20
+P0858,Player_858,PBKS,Wicket Keeper,38
+P0859,Player_859,RR,Batsman,34
+P0860,Player_860,RCB,Bowler,24
+P0861,Player_861,LSG,Wicket Keeper,26
+P0862,Player_862,RCB,Batsman,39
+P0863,Player_863,SRH,Batsman,23
+P0864,Player_864,RR,Batsman,24
+P0865,Player_865,LSG,Bowler,40
+P0866,Player_866,DC,Batsman,27
+P0867,Player_867,CSK,Bowler,36
+P0868,Player_868,DC,All-Rounder,30
+P0869,Player_869,CSK,Batsman,34
+P0870,Player_870,RR,Batsman,21
+P0871,Player_871,DC,Bowler,20
+P0872,Player_872,RR,Wicket Keeper,28
+P0873,Player_873,RCB,All-Rounder,32
+P0874,Player_874,PBKS,Bowler,29
+P0875,Player_875,GT,Wicket Keeper,31
+P0876,Player_876,CSK,Wicket Keeper,20
+P0877,Player_877,LSG,All-Rounder,25
+P0878,Player_878,MI,Batsman,26
+P0879,Player_879,CSK,Wicket Keeper,40
+P0880,Player_880,CSK,Wicket Keeper,28
+P0881,Player_881,RR,Batsman,20
+P0882,Player_882,RCB,All-Rounder,32
+P0883,Player_883,RR,All-Rounder,21
+P0884,Player_884,CSK,Batsman,23
+P0885,Player_885,DC,Wicket Keeper,35
+P0886,Player_886,GT,Wicket Keeper,21
+P0887,Player_887,RCB,Batsman,29
+P0888,Player_888,GT,Batsman,37
+P0889,Player_889,LSG,All-Rounder,30
+P0890,Player_890,RCB,All-Rounder,31
+P0891,Player_891,DC,Batsman,35
+P0892,Player_892,KKR,Bowler,39
+P0893,Player_893,DC,Bowler,22
+P0894,Player_894,SRH,All-Rounder,26
+P0895,Player_895,PBKS,Bowler,20
+P0896,Player_896,CSK,Wicket Keeper,26
+P0897,Player_897,DC,All-Rounder,33
+P0898,Player_898,MI,All-Rounder,26
+P0899,Player_899,KKR,Wicket Keeper,37
+P0900,Player_900,LSG,Bowler,32
+P0901,Player_901,MI,Bowler,27
+P0902,Player_902,RCB,Wicket Keeper,28
+P0903,Player_903,LSG,Wicket Keeper,28
+P0904,Player_904,PBKS,All-Rounder,31
+P0905,Player_905,LSG,Bowler,27
+P0906,Player_906,RR,Bowler,33
+P0907,Player_907,RR,Bowler,30
+P0908,Player_908,RR,All-Rounder,40
+P0909,Player_909,PBKS,Bowler,28
+P0910,Player_910,DC,All-Rounder,30
+P0911,Player_911,RR,Batsman,36
+P0912,Player_912,KKR,Bowler,39
+P0913,Player_913,GT,Batsman,32
+P0914,Player_914,KKR,Wicket Keeper,27
+P0915,Player_915,MI,Wicket Keeper,39
+P0916,Player_916,PBKS,Bowler,38
+P0917,Player_917,SRH,Bowler,26
+P0918,Player_918,CSK,Wicket Keeper,30
+P0919,Player_919,MI,Wicket Keeper,37
+P0920,Player_920,PBKS,Wicket Keeper,35
+P0921,Player_921,GT,Wicket Keeper,35
+P0922,Player_922,RCB,All-Rounder,40
+P0923,Player_923,GT,Batsman,21
+P0924,Player_924,KKR,All-Rounder,23
+P0925,Player_925,LSG,Batsman,36
+P0926,Player_926,DC,All-Rounder,31
+P0927,Player_927,MI,Batsman,21
+P0928,Player_928,SRH,Bowler,34
+P0929,Player_929,GT,Bowler,32
+P0930,Player_930,RR,Wicket Keeper,32
+P0931,Player_931,LSG,Bowler,29
+P0932,Player_932,RCB,Wicket Keeper,21
+P0933,Player_933,SRH,Wicket Keeper,20
+P0934,Player_934,MI,Bowler,29
+P0935,Player_935,SRH,All-Rounder,32
+P0936,Player_936,KKR,Wicket Keeper,29
+P0937,Player_937,PBKS,Batsman,32
+P0938,Player_938,PBKS,All-Rounder,20
+P0939,Player_939,SRH,Batsman,40
+P0940,Player_940,MI,Batsman,28
+P0941,Player_941,MI,Bowler,25
+P0942,Player_942,GT,Bowler,35
+P0943,Player_943,CSK,All-Rounder,35
+P0944,Player_944,DC,Wicket Keeper,25
+P0945,Player_945,DC,Bowler,23
+P0946,Player_946,DC,Wicket Keeper,18
+P0947,Player_947,LSG,Bowler,32
+P0948,Player_948,LSG,Wicket Keeper,30
+P0949,Player_949,RCB,Bowler,24
+P0950,Player_950,SRH,Batsman,36
+P0951,Player_951,MI,Bowler,29
+P0952,Player_952,RR,Bowler,32
+P0953,Player_953,MI,All-Rounder,39
+P0954,Player_954,PBKS,All-Rounder,37
+P0955,Player_955,DC,Wicket Keeper,36
+P0956,Player_956,MI,All-Rounder,29
+P0957,Player_957,PBKS,Bowler,39
+P0958,Player_958,SRH,Batsman,39
+P0959,Player_959,CSK,All-Rounder,21
+P0960,Player_960,KKR,All-Rounder,21
+P0961,Player_961,CSK,All-Rounder,40
+P0962,Player_962,CSK,Wicket Keeper,31
+P0963,Player_963,LSG,Bowler,36
+P0964,Player_964,DC,Wicket Keeper,23
+P0965,Player_965,PBKS,Bowler,35
+P0966,Player_966,CSK,Wicket Keeper,27
+P0967,Player_967,CSK,Bowler,28
+P0968,Player_968,PBKS,Batsman,29
+P0969,Player_969,RCB,Wicket Keeper,22
+P0970,Player_970,KKR,Wicket Keeper,35
+P0971,Player_971,GT,Wicket Keeper,31
+P0972,Player_972,PBKS,Wicket Keeper,40
+P0973,Player_973,PBKS,Wicket Keeper,23
+P0974,Player_974,MI,Batsman,25
+P0975,Player_975,SRH,Batsman,26
+P0976,Player_976,KKR,All-Rounder,23
+P0977,Player_977,PBKS,Wicket Keeper,35
+P0978,Player_978,GT,Batsman,36
+P0979,Player_979,MI,All-Rounder,35
+P0980,Player_980,RR,Batsman,32
+P0981,Player_981,GT,Bowler,31
+P0982,Player_982,MI,Bowler,27
+P0983,Player_983,RCB,Wicket Keeper,26
+P0984,Player_984,RR,Batsman,32
+P0985,Player_985,MI,Bowler,24
+P0986,Player_986,LSG,All-Rounder,40
+P0987,Player_987,LSG,Wicket Keeper,23
+P0988,Player_988,LSG,Bowler,24
+P0989,Player_989,KKR,Batsman,36
+P0990,Player_990,RR,All-Rounder,37
+P0991,Player_991,GT,Bowler,28
+P0992,Player_992,SRH,All-Rounder,36
+P0993,Player_993,SRH,Batsman,22
+P0994,Player_994,DC,Batsman,26
+P0995,Player_995,CSK,Bowler,25
+P0996,Player_996,CSK,All-Rounder,25
+P0997,Player_997,DC,Wicket Keeper,22
+P0998,Player_998,LSG,All-Rounder,38
+P0999,Player_999,DC,Wicket Keeper,32
+P1000,Player_1000,MI,Batsman,30
+P1001,Player_1001,GT,All-Rounder,40
+P1002,Player_1002,RR,Wicket Keeper,33
+P1003,Player_1003,RR,Batsman,20
+P1004,Player_1004,PBKS,All-Rounder,20
+P1005,Player_1005,GT,Wicket Keeper,24
+P1006,Player_1006,DC,Bowler,33
+P1007,Player_1007,SRH,All-Rounder,27
+P1008,Player_1008,RR,Bowler,36
+P1009,Player_1009,PBKS,All-Rounder,39
+P1010,Player_1010,RCB,Batsman,21
+P1011,Player_1011,PBKS,Batsman,21
+P1012,Player_1012,CSK,Wicket Keeper,32
+P1013,Player_1013,RCB,Wicket Keeper,24
+P1014,Player_1014,CSK,All-Rounder,23
+P1015,Player_1015,SRH,Batsman,38
+P1016,Player_1016,RR,All-Rounder,20
+P1017,Player_1017,RR,Bowler,19
+P1018,Player_1018,DC,All-Rounder,40
+P1019,Player_1019,KKR,Wicket Keeper,38
+P1020,Player_1020,MI,Batsman,18
+P1021,Player_1021,KKR,Wicket Keeper,20
+P1022,Player_1022,CSK,Bowler,34
+P1023,Player_1023,PBKS,Batsman,18
+P1024,Player_1024,RR,Batsman,31
+P1025,Player_1025,CSK,Wicket Keeper,20
+P1026,Player_1026,KKR,Wicket Keeper,20
+P1027,Player_1027,MI,Batsman,28
+P1028,Player_1028,RR,All-Rounder,22
+P1029,Player_1029,DC,Bowler,38
+P1030,Player_1030,CSK,Batsman,34
+P1031,Player_1031,LSG,Batsman,37
+P1032,Player_1032,CSK,Wicket Keeper,29
+P1033,Player_1033,KKR,Bowler,31
+P1034,Player_1034,LSG,Wicket Keeper,24
+P1035,Player_1035,MI,Batsman,22
+P1036,Player_1036,MI,Wicket Keeper,29
+P1037,Player_1037,DC,All-Rounder,22
+P1038,Player_1038,KKR,All-Rounder,38
+P1039,Player_1039,MI,Bowler,35
+P1040,Player_1040,LSG,All-Rounder,40
+P1041,Player_1041,RCB,All-Rounder,24
+P1042,Player_1042,GT,Bowler,30
+P1043,Player_1043,SRH,Batsman,25
+P1044,Player_1044,PBKS,Wicket Keeper,21
+P1045,Player_1045,KKR,Wicket Keeper,38
+P1046,Player_1046,LSG,Batsman,34
+P1047,Player_1047,RCB,All-Rounder,28
+P1048,Player_1048,CSK,Wicket Keeper,36
+P1049,Player_1049,DC,All-Rounder,35
+P1050,Player_1050,CSK,Wicket Keeper,20
+P1051,Player_1051,RCB,Batsman,18
+P1052,Player_1052,SRH,Bowler,19
+P1053,Player_1053,RCB,Wicket Keeper,34
+P1054,Player_1054,SRH,Wicket Keeper,31
+P1055,Player_1055,DC,Batsman,38
+P1056,Player_1056,GT,Bowler,26
+P1057,Player_1057,MI,All-Rounder,20
+P1058,Player_1058,GT,Bowler,22
+P1059,Player_1059,GT,All-Rounder,30
+P1060,Player_1060,LSG,Batsman,27
+P1061,Player_1061,DC,Bowler,19
+P1062,Player_1062,KKR,Batsman,31
+P1063,Player_1063,MI,Wicket Keeper,37
+P1064,Player_1064,LSG,Batsman,27
+P1065,Player_1065,CSK,Batsman,18
+P1066,Player_1066,CSK,Batsman,23
+P1067,Player_1067,PBKS,All-Rounder,34
+P1068,Player_1068,GT,All-Rounder,23
+P1069,Player_1069,RR,Bowler,26
+P1070,Player_1070,MI,Batsman,28
+P1071,Player_1071,DC,All-Rounder,34
+P1072,Player_1072,MI,All-Rounder,40
+P1073,Player_1073,LSG,Batsman,33
+P1074,Player_1074,PBKS,All-Rounder,19
+P1075,Player_1075,PBKS,Bowler,29
+P1076,Player_1076,CSK,All-Rounder,21
+P1077,Player_1077,LSG,Batsman,25
+P1078,Player_1078,GT,Batsman,19
+P1079,Player_1079,RCB,Bowler,19
+P1080,Player_1080,PBKS,All-Rounder,30
+P1081,Player_1081,CSK,Bowler,19
+P1082,Player_1082,GT,Wicket Keeper,25
+P1083,Player_1083,RR,Bowler,31
+P1084,Player_1084,RR,All-Rounder,20
+P1085,Player_1085,LSG,All-Rounder,21
+P1086,Player_1086,GT,Batsman,23
+P1087,Player_1087,KKR,Batsman,30
+P1088,Player_1088,MI,Wicket Keeper,27
+P1089,Player_1089,SRH,All-Rounder,20
+P1090,Player_1090,GT,Wicket Keeper,18
+P1091,Player_1091,RR,Bowler,27
+P1092,Player_1092,LSG,All-Rounder,37
+P1093,Player_1093,KKR,Wicket Keeper,29
+P1094,Player_1094,LSG,Wicket Keeper,24
+P1095,Player_1095,GT,Bowler,22
+P1096,Player_1096,RCB,Wicket Keeper,18
+P1097,Player_1097,KKR,All-Rounder,38
+P1098,Player_1098,RCB,All-Rounder,18
+P1099,Player_1099,DC,All-Rounder,21
+P1100,Player_1100,KKR,Bowler,31
+P1101,Player_1101,PBKS,Batsman,22
+P1102,Player_1102,SRH,Batsman,19
+P1103,Player_1103,KKR,Wicket Keeper,40
+P1104,Player_1104,RR,Wicket Keeper,20
+P1105,Player_1105,LSG,Batsman,34
+P1106,Player_1106,CSK,Wicket Keeper,20
+P1107,Player_1107,LSG,Batsman,31
+P1108,Player_1108,CSK,Bowler,27
+P1109,Player_1109,SRH,All-Rounder,30
+P1110,Player_1110,RR,All-Rounder,32
+P1111,Player_1111,SRH,Bowler,20
+P1112,Player_1112,KKR,Bowler,36
+P1113,Player_1113,MI,Bowler,21
+P1114,Player_1114,CSK,Wicket Keeper,32
+P1115,Player_1115,RR,Wicket Keeper,21
+P1116,Player_1116,GT,All-Rounder,24
+P1117,Player_1117,PBKS,All-Rounder,32
+P1118,Player_1118,SRH,Batsman,20
+P1119,Player_1119,CSK,All-Rounder,40
+P1120,Player_1120,LSG,Batsman,24
+P1121,Player_1121,RR,Bowler,20
+P1122,Player_1122,KKR,All-Rounder,30
+P1123,Player_1123,GT,Batsman,39
+P1124,Player_1124,SRH,All-Rounder,23
+P1125,Player_1125,RCB,Wicket Keeper,32
+P1126,Player_1126,GT,Bowler,21
+P1127,Player_1127,PBKS,Batsman,22
+P1128,Player_1128,MI,Batsman,19
+P1129,Player_1129,KKR,Bowler,24
+P1130,Player_1130,DC,All-Rounder,39
+P1131,Player_1131,MI,All-Rounder,20
+P1132,Player_1132,RCB,Batsman,24
+P1133,Player_1133,PBKS,Bowler,20
+P1134,Player_1134,RR,Batsman,19
+P1135,Player_1135,PBKS,Batsman,23
+P1136,Player_1136,LSG,Wicket Keeper,30
+P1137,Player_1137,PBKS,Batsman,30
+P1138,Player_1138,DC,Bowler,29
+P1139,Player_1139,KKR,Bowler,26
+P1140,Player_1140,SRH,Wicket Keeper,22
+P1141,Player_1141,RCB,Bowler,38
+P1142,Player_1142,SRH,Wicket Keeper,31
+P1143,Player_1143,GT,Wicket Keeper,19
+P1144,Player_1144,MI,All-Rounder,30
+P1145,Player_1145,CSK,Wicket Keeper,24
+P1146,Player_1146,GT,Bowler,38
+P1147,Player_1147,GT,Batsman,30
+P1148,Player_1148,RR,Wicket Keeper,35
+P1149,Player_1149,PBKS,All-Rounder,36
+P1150,Player_1150,GT,All-Rounder,30
+P1151,Player_1151,SRH,Bowler,18
+P1152,Player_1152,RR,Bowler,18
+P1153,Player_1153,SRH,Batsman,33
+P1154,Player_1154,GT,All-Rounder,36
+P1155,Player_1155,KKR,Bowler,21
+P1156,Player_1156,KKR,Bowler,26
+P1157,Player_1157,GT,Batsman,25
+P1158,Player_1158,LSG,Wicket Keeper,29
+P1159,Player_1159,CSK,Bowler,25
+P1160,Player_1160,LSG,All-Rounder,40
+P1161,Player_1161,RR,Batsman,40
+P1162,Player_1162,RR,Bowler,36
+P1163,Player_1163,KKR,Wicket Keeper,35
+P1164,Player_1164,SRH,Bowler,33
+P1165,Player_1165,RCB,Batsman,19
+P1166,Player_1166,KKR,Bowler,18
+P1167,Player_1167,GT,Wicket Keeper,18
+P1168,Player_1168,RR,Bowler,22
+P1169,Player_1169,RR,Bowler,28
+P1170,Player_1170,RCB,Batsman,22
+P1171,Player_1171,LSG,Bowler,21
+P1172,Player_1172,GT,All-Rounder,20
+P1173,Player_1173,RR,Wicket Keeper,36
+P1174,Player_1174,MI,All-Rounder,27
+P1175,Player_1175,RR,Bowler,23
+P1176,Player_1176,DC,Wicket Keeper,38
+P1177,Player_1177,RR,Bowler,40
+P1178,Player_1178,GT,All-Rounder,25
+P1179,Player_1179,LSG,Bowler,30
+P1180,Player_1180,SRH,All-Rounder,22
+P1181,Player_1181,CSK,Batsman,40
+P1182,Player_1182,LSG,Wicket Keeper,36
+P1183,Player_1183,RCB,Bowler,37
+P1184,Player_1184,RR,Bowler,38
+P1185,Player_1185,LSG,Batsman,33
+P1186,Player_1186,CSK,All-Rounder,20
+P1187,Player_1187,KKR,All-Rounder,28
+P1188,Player_1188,CSK,Batsman,40
+P1189,Player_1189,RR,Wicket Keeper,18
+P1190,Player_1190,SRH,Bowler,25
+P1191,Player_1191,MI,All-Rounder,26
+P1192,Player_1192,MI,Batsman,19
+P1193,Player_1193,DC,Wicket Keeper,31
+P1194,Player_1194,CSK,Wicket Keeper,33
+P1195,Player_1195,DC,All-Rounder,35
+P1196,Player_1196,DC,Batsman,33
+P1197,Player_1197,LSG,Bowler,23
+P1198,Player_1198,PBKS,Batsman,19
+P1199,Player_1199,SRH,Batsman,28
+P1200,Player_1200,SRH,Batsman,20
+P1201,Player_1201,RR,Bowler,30
+P1202,Player_1202,CSK,Batsman,35
+P1203,Player_1203,MI,All-Rounder,37
+P1204,Player_1204,LSG,Wicket Keeper,40
+P1205,Player_1205,RCB,Wicket Keeper,38
+P1206,Player_1206,CSK,Wicket Keeper,23
+P1207,Player_1207,RCB,Batsman,28
+P1208,Player_1208,KKR,Bowler,31
+P1209,Player_1209,GT,All-Rounder,39
+P1210,Player_1210,SRH,All-Rounder,25
+P1211,Player_1211,MI,Batsman,30
+P1212,Player_1212,LSG,Wicket Keeper,22
+P1213,Player_1213,RCB,All-Rounder,18
+P1214,Player_1214,DC,Batsman,27
+P1215,Player_1215,LSG,Wicket Keeper,24
+P1216,Player_1216,MI,Batsman,24
+P1217,Player_1217,CSK,All-Rounder,20
+P1218,Player_1218,PBKS,Batsman,27
+P1219,Player_1219,DC,Wicket Keeper,33
+P1220,Player_1220,SRH,Batsman,38
+P1221,Player_1221,GT,Wicket Keeper,23
+P1222,Player_1222,RR,Wicket Keeper,29
+P1223,Player_1223,CSK,Wicket Keeper,19
+P1224,Player_1224,SRH,Wicket Keeper,32
+P1225,Player_1225,SRH,Bowler,26
+P1226,Player_1226,LSG,Batsman,22
+P1227,Player_1227,MI,Batsman,39
+P1228,Player_1228,RR,Wicket Keeper,36
+P1229,Player_1229,KKR,Batsman,30
+P1230,Player_1230,GT,Wicket Keeper,35
+P1231,Player_1231,PBKS,Bowler,33
+P1232,Player_1232,SRH,Batsman,30
+P1233,Player_1233,RCB,Bowler,21
+P1234,Player_1234,PBKS,Bowler,23
+P1235,Player_1235,KKR,Bowler,22
+P1236,Player_1236,RCB,Wicket Keeper,20
+P1237,Player_1237,DC,Bowler,38
+P1238,Player_1238,CSK,All-Rounder,28
+P1239,Player_1239,MI,Batsman,30
+P1240,Player_1240,GT,Wicket Keeper,35
+P1241,Player_1241,RR,All-Rounder,34
+P1242,Player_1242,PBKS,Batsman,40
+P1243,Player_1243,LSG,Wicket Keeper,21
+P1244,Player_1244,DC,Bowler,22
+P1245,Player_1245,LSG,Batsman,21
+P1246,Player_1246,LSG,Batsman,27
+P1247,Player_1247,GT,All-Rounder,31
+P1248,Player_1248,SRH,Wicket Keeper,38
+P1249,Player_1249,PBKS,Wicket Keeper,19
+P1250,Player_1250,CSK,All-Rounder,30
+P1251,Player_1251,CSK,Wicket Keeper,19
+P1252,Player_1252,DC,All-Rounder,40
+P1253,Player_1253,KKR,Batsman,33
+P1254,Player_1254,SRH,All-Rounder,18
+P1255,Player_1255,RR,All-Rounder,27
+P1256,Player_1256,SRH,Wicket Keeper,40
+P1257,Player_1257,MI,Bowler,22
+P1258,Player_1258,SRH,Wicket Keeper,28
+P1259,Player_1259,SRH,Wicket Keeper,37
+P1260,Player_1260,MI,Bowler,32
+P1261,Player_1261,KKR,Wicket Keeper,33
+P1262,Player_1262,GT,All-Rounder,19
+P1263,Player_1263,GT,Bowler,20
+P1264,Player_1264,SRH,Wicket Keeper,22
+P1265,Player_1265,GT,Batsman,23
+P1266,Player_1266,KKR,Bowler,19
+P1267,Player_1267,KKR,Batsman,32
+P1268,Player_1268,RCB,All-Rounder,40
+P1269,Player_1269,KKR,All-Rounder,29
+P1270,Player_1270,PBKS,Wicket Keeper,38
+P1271,Player_1271,MI,Batsman,25
+P1272,Player_1272,RR,Wicket Keeper,37
+P1273,Player_1273,PBKS,Bowler,33
+P1274,Player_1274,LSG,All-Rounder,29
+P1275,Player_1275,CSK,All-Rounder,40
+P1276,Player_1276,MI,All-Rounder,18
+P1277,Player_1277,DC,Batsman,23
+P1278,Player_1278,LSG,Bowler,25
+P1279,Player_1279,KKR,Bowler,26
+P1280,Player_1280,DC,Batsman,39
+P1281,Player_1281,RCB,Wicket Keeper,22
+P1282,Player_1282,CSK,Batsman,25
+P1283,Player_1283,SRH,All-Rounder,40
+P1284,Player_1284,SRH,Wicket Keeper,30
+P1285,Player_1285,RR,Wicket Keeper,26
+P1286,Player_1286,KKR,Wicket Keeper,27
+P1287,Player_1287,GT,Wicket Keeper,36
+P1288,Player_1288,MI,Batsman,34
+P1289,Player_1289,RR,All-Rounder,27
+P1290,Player_1290,MI,Wicket Keeper,20
+P1291,Player_1291,RR,All-Rounder,38
+P1292,Player_1292,RR,All-Rounder,26
+P1293,Player_1293,SRH,Bowler,22
+P1294,Player_1294,GT,Bowler,19
+P1295,Player_1295,LSG,Wicket Keeper,39
+P1296,Player_1296,RR,Bowler,18
+P1297,Player_1297,PBKS,All-Rounder,26
+P1298,Player_1298,DC,Wicket Keeper,30
+P1299,Player_1299,RCB,Bowler,28
+P1300,Player_1300,KKR,Wicket Keeper,39
+P1301,Player_1301,RR,All-Rounder,23
+P1302,Player_1302,GT,Bowler,27
+P1303,Player_1303,MI,Wicket Keeper,22
+P1304,Player_1304,SRH,Bowler,39
+P1305,Player_1305,RR,Batsman,25
+P1306,Player_1306,RR,Bowler,27
+P1307,Player_1307,DC,All-Rounder,29
+P1308,Player_1308,SRH,All-Rounder,32
+P1309,Player_1309,MI,Wicket Keeper,19
+P1310,Player_1310,LSG,Batsman,33
+P1311,Player_1311,KKR,Batsman,39
+P1312,Player_1312,DC,All-Rounder,31
+P1313,Player_1313,RCB,Bowler,22
+P1314,Player_1314,KKR,All-Rounder,31
+P1315,Player_1315,LSG,Wicket Keeper,22
+P1316,Player_1316,RR,Bowler,20
+P1317,Player_1317,PBKS,All-Rounder,38
+P1318,Player_1318,CSK,All-Rounder,38
+P1319,Player_1319,RCB,Batsman,32
+P1320,Player_1320,SRH,Bowler,23
+P1321,Player_1321,LSG,Bowler,33
+P1322,Player_1322,MI,Bowler,37
+P1323,Player_1323,DC,Wicket Keeper,30
+P1324,Player_1324,DC,Wicket Keeper,30
+P1325,Player_1325,RCB,Batsman,35
+P1326,Player_1326,KKR,All-Rounder,18
+P1327,Player_1327,RR,Bowler,18
+P1328,Player_1328,RCB,Bowler,25
+P1329,Player_1329,RR,All-Rounder,22
+P1330,Player_1330,MI,Wicket Keeper,34
+P1331,Player_1331,LSG,All-Rounder,23
+P1332,Player_1332,MI,Batsman,27
+P1333,Player_1333,SRH,Wicket Keeper,34
+P1334,Player_1334,LSG,All-Rounder,31
+P1335,Player_1335,CSK,All-Rounder,33
+P1336,Player_1336,RR,Bowler,23
+P1337,Player_1337,DC,Batsman,25
+P1338,Player_1338,KKR,Bowler,24
+P1339,Player_1339,RCB,Bowler,21
+P1340,Player_1340,RR,Batsman,30
+P1341,Player_1341,SRH,Batsman,37
+P1342,Player_1342,RCB,Batsman,38
+P1343,Player_1343,RCB,Batsman,40
+P1344,Player_1344,MI,Wicket Keeper,32
+P1345,Player_1345,DC,Batsman,35
+P1346,Player_1346,SRH,Wicket Keeper,40
+P1347,Player_1347,CSK,Bowler,40
+P1348,Player_1348,RCB,All-Rounder,31
+P1349,Player_1349,MI,All-Rounder,37
+P1350,Player_1350,LSG,Bowler,31
+P1351,Player_1351,MI,Batsman,27
+P1352,Player_1352,MI,Batsman,33
+P1353,Player_1353,KKR,Bowler,26
+P1354,Player_1354,GT,Bowler,29
+P1355,Player_1355,DC,All-Rounder,23
+P1356,Player_1356,RCB,Wicket Keeper,24
+P1357,Player_1357,PBKS,All-Rounder,25
+P1358,Player_1358,RCB,Batsman,39
+P1359,Player_1359,MI,Batsman,36
+P1360,Player_1360,PBKS,Bowler,20
+P1361,Player_1361,GT,Batsman,21
+P1362,Player_1362,SRH,Bowler,32
+P1363,Player_1363,SRH,All-Rounder,32
+P1364,Player_1364,RCB,Batsman,23
+P1365,Player_1365,RCB,All-Rounder,29
+P1366,Player_1366,RR,Wicket Keeper,21
+P1367,Player_1367,MI,Batsman,18
+P1368,Player_1368,CSK,Bowler,28
+P1369,Player_1369,RR,Wicket Keeper,37
+P1370,Player_1370,SRH,Batsman,29
+P1371,Player_1371,RR,Bowler,21
+P1372,Player_1372,DC,Wicket Keeper,32
+P1373,Player_1373,SRH,Wicket Keeper,40
+P1374,Player_1374,PBKS,Wicket Keeper,38
+P1375,Player_1375,CSK,Batsman,22
+P1376,Player_1376,RCB,Bowler,21
+P1377,Player_1377,DC,Wicket Keeper,36
+P1378,Player_1378,PBKS,Bowler,37
+P1379,Player_1379,DC,All-Rounder,37
+P1380,Player_1380,RCB,Bowler,33
+P1381,Player_1381,PBKS,Batsman,31
+P1382,Player_1382,PBKS,Batsman,20
+P1383,Player_1383,SRH,All-Rounder,18
+P1384,Player_1384,GT,Bowler,39
+P1385,Player_1385,RR,Batsman,31
+P1386,Player_1386,KKR,Wicket Keeper,29
+P1387,Player_1387,DC,Bowler,35
+P1388,Player_1388,LSG,Batsman,18
+P1389,Player_1389,CSK,Wicket Keeper,33
+P1390,Player_1390,CSK,Batsman,33
+P1391,Player_1391,RR,Bowler,28
+P1392,Player_1392,SRH,Batsman,34
+P1393,Player_1393,KKR,Wicket Keeper,30
+P1394,Player_1394,KKR,Batsman,32
+P1395,Player_1395,PBKS,Wicket Keeper,20
+P1396,Player_1396,PBKS,Wicket Keeper,28
+P1397,Player_1397,MI,Wicket Keeper,38
+P1398,Player_1398,RCB,Batsman,30
+P1399,Player_1399,DC,Batsman,35
+P1400,Player_1400,GT,Batsman,20
+P1401,Player_1401,LSG,All-Rounder,34
+P1402,Player_1402,GT,Bowler,38
+P1403,Player_1403,PBKS,All-Rounder,29
+P1404,Player_1404,RCB,Bowler,32
+P1405,Player_1405,RR,Wicket Keeper,40
+P1406,Player_1406,RR,Wicket Keeper,21
+P1407,Player_1407,MI,Bowler,18
+P1408,Player_1408,RR,All-Rounder,38
+P1409,Player_1409,SRH,All-Rounder,40
+P1410,Player_1410,MI,Batsman,23
+P1411,Player_1411,PBKS,Bowler,40
+P1412,Player_1412,DC,Batsman,26
+P1413,Player_1413,LSG,Bowler,24
+P1414,Player_1414,MI,Wicket Keeper,24
+P1415,Player_1415,PBKS,Bowler,40
+P1416,Player_1416,RR,Batsman,31
+P1417,Player_1417,RCB,Batsman,32
+P1418,Player_1418,PBKS,Bowler,33
+P1419,Player_1419,RCB,Batsman,35
+P1420,Player_1420,DC,Wicket Keeper,34
+P1421,Player_1421,CSK,Bowler,22
+P1422,Player_1422,MI,Wicket Keeper,39
+P1423,Player_1423,LSG,All-Rounder,34
+P1424,Player_1424,DC,Wicket Keeper,37
+P1425,Player_1425,KKR,All-Rounder,30
+P1426,Player_1426,RR,All-Rounder,32
+P1427,Player_1427,CSK,Bowler,31
+P1428,Player_1428,LSG,All-Rounder,40
+P1429,Player_1429,GT,All-Rounder,40
+P1430,Player_1430,GT,Bowler,24
+P1431,Player_1431,KKR,All-Rounder,39
+P1432,Player_1432,RR,Bowler,40
+P1433,Player_1433,CSK,All-Rounder,40
+P1434,Player_1434,MI,All-Rounder,35
+P1435,Player_1435,PBKS,Wicket Keeper,39
+P1436,Player_1436,GT,All-Rounder,31
+P1437,Player_1437,RCB,Batsman,18
+P1438,Player_1438,DC,Bowler,19
+P1439,Player_1439,RCB,Bowler,26
+P1440,Player_1440,CSK,All-Rounder,39
+P1441,Player_1441,SRH,Bowler,19
+P1442,Player_1442,SRH,Bowler,35
+P1443,Player_1443,RCB,All-Rounder,32
+P1444,Player_1444,MI,Bowler,38
+P1445,Player_1445,GT,Wicket Keeper,25
+P1446,Player_1446,GT,All-Rounder,40
+P1447,Player_1447,RCB,Wicket Keeper,30
+P1448,Player_1448,DC,All-Rounder,35
+P1449,Player_1449,RCB,Batsman,26
+P1450,Player_1450,KKR,Wicket Keeper,25
+P1451,Player_1451,RR,Bowler,24
+P1452,Player_1452,SRH,Wicket Keeper,23
+P1453,Player_1453,MI,Bowler,23
+P1454,Player_1454,GT,Batsman,30
+P1455,Player_1455,RCB,Wicket Keeper,26
+P1456,Player_1456,GT,All-Rounder,22
+P1457,Player_1457,CSK,All-Rounder,18
+P1458,Player_1458,RR,Wicket Keeper,40
+P1459,Player_1459,CSK,Batsman,22
+P1460,Player_1460,RR,Batsman,38
+P1461,Player_1461,LSG,All-Rounder,33
+P1462,Player_1462,LSG,All-Rounder,20
+P1463,Player_1463,RR,Bowler,23
+P1464,Player_1464,GT,Batsman,34
+P1465,Player_1465,CSK,Wicket Keeper,35
+P1466,Player_1466,GT,Wicket Keeper,20
+P1467,Player_1467,RR,Bowler,24
+P1468,Player_1468,RR,All-Rounder,29
+P1469,Player_1469,SRH,Bowler,37
+P1470,Player_1470,GT,Wicket Keeper,35
+P1471,Player_1471,RCB,Batsman,39
+P1472,Player_1472,RR,Wicket Keeper,25
+P1473,Player_1473,LSG,Bowler,19
+P1474,Player_1474,RR,Wicket Keeper,21
+P1475,Player_1475,DC,All-Rounder,35
+P1476,Player_1476,SRH,Batsman,34
+P1477,Player_1477,RR,Wicket Keeper,33
+P1478,Player_1478,RCB,All-Rounder,38
+P1479,Player_1479,KKR,All-Rounder,34
+P1480,Player_1480,MI,Batsman,23
+P1481,Player_1481,GT,Batsman,38
+P1482,Player_1482,MI,Bowler,39
+P1483,Player_1483,KKR,Wicket Keeper,21
+P1484,Player_1484,KKR,Wicket Keeper,38
+P1485,Player_1485,MI,Bowler,18
+P1486,Player_1486,PBKS,All-Rounder,19
+P1487,Player_1487,MI,Batsman,19
+P1488,Player_1488,CSK,All-Rounder,35
+P1489,Player_1489,MI,Bowler,26
+P1490,Player_1490,DC,Wicket Keeper,32
+P1491,Player_1491,DC,Wicket Keeper,28
+P1492,Player_1492,RCB,Wicket Keeper,39
+P1493,Player_1493,MI,Batsman,38
+P1494,Player_1494,LSG,Batsman,36
+P1495,Player_1495,RCB,Batsman,29
+P1496,Player_1496,GT,Batsman,27
+P1497,Player_1497,SRH,Batsman,27
+P1498,Player_1498,PBKS,Wicket Keeper,30
+P1499,Player_1499,RCB,Wicket Keeper,23
+P1500,Player_1500,GT,Bowler,22
+P1501,Player_1501,DC,All-Rounder,38
+P1502,Player_1502,CSK,All-Rounder,39
+P1503,Player_1503,RR,Batsman,35
+P1504,Player_1504,GT,Bowler,21
+P1505,Player_1505,RCB,Batsman,36
+P1506,Player_1506,LSG,Wicket Keeper,35
+P1507,Player_1507,GT,Batsman,27
+P1508,Player_1508,KKR,All-Rounder,24
+P1509,Player_1509,DC,Bowler,23
+P1510,Player_1510,CSK,Bowler,37
+P1511,Player_1511,SRH,Bowler,21
+P1512,Player_1512,CSK,Batsman,35
+P1513,Player_1513,PBKS,Batsman,27
+P1514,Player_1514,MI,All-Rounder,21
+P1515,Player_1515,KKR,Wicket Keeper,28
+P1516,Player_1516,RR,Bowler,39
+P1517,Player_1517,KKR,Batsman,27
+P1518,Player_1518,LSG,Batsman,24
+P1519,Player_1519,RR,Wicket Keeper,32
+P1520,Player_1520,RR,All-Rounder,40
+P1521,Player_1521,LSG,Bowler,36
+P1522,Player_1522,LSG,All-Rounder,28
+P1523,Player_1523,DC,Bowler,18
+P1524,Player_1524,RR,Bowler,25
+P1525,Player_1525,DC,All-Rounder,29
+P1526,Player_1526,CSK,All-Rounder,33
+P1527,Player_1527,PBKS,Wicket Keeper,29
+P1528,Player_1528,SRH,Wicket Keeper,35
+P1529,Player_1529,MI,Bowler,38
+P1530,Player_1530,LSG,Batsman,26
+P1531,Player_1531,CSK,Bowler,26
+P1532,Player_1532,MI,Batsman,18
+P1533,Player_1533,GT,Batsman,36
+P1534,Player_1534,LSG,Wicket Keeper,36
+P1535,Player_1535,KKR,Batsman,35
+P1536,Player_1536,SRH,Wicket Keeper,38
+P1537,Player_1537,CSK,All-Rounder,30
+P1538,Player_1538,KKR,All-Rounder,22
+P1539,Player_1539,PBKS,Batsman,30
+P1540,Player_1540,RR,Batsman,39
+P1541,Player_1541,KKR,Bowler,34
+P1542,Player_1542,CSK,Wicket Keeper,23
+P1543,Player_1543,CSK,Bowler,33
+P1544,Player_1544,RR,Batsman,25
+P1545,Player_1545,PBKS,Bowler,20
+P1546,Player_1546,SRH,All-Rounder,25
+P1547,Player_1547,RCB,Bowler,34
+P1548,Player_1548,RR,Wicket Keeper,33
+P1549,Player_1549,PBKS,Batsman,19
+P1550,Player_1550,RR,Batsman,40
+P1551,Player_1551,GT,All-Rounder,26
+P1552,Player_1552,LSG,Bowler,30
+P1553,Player_1553,DC,All-Rounder,36
+P1554,Player_1554,MI,All-Rounder,30
+P1555,Player_1555,KKR,Wicket Keeper,29
+P1556,Player_1556,RR,Wicket Keeper,33
+P1557,Player_1557,LSG,Batsman,34
+P1558,Player_1558,CSK,Wicket Keeper,23
+P1559,Player_1559,KKR,Batsman,34
+P1560,Player_1560,SRH,Bowler,22
+P1561,Player_1561,CSK,Bowler,29
+P1562,Player_1562,LSG,Batsman,39
+P1563,Player_1563,KKR,Wicket Keeper,28
+P1564,Player_1564,MI,Wicket Keeper,39
+P1565,Player_1565,PBKS,Wicket Keeper,24
+P1566,Player_1566,LSG,Bowler,38
+P1567,Player_1567,DC,Batsman,25
+P1568,Player_1568,RCB,Bowler,36
+P1569,Player_1569,LSG,Bowler,22
+P1570,Player_1570,GT,Batsman,36
+P1571,Player_1571,CSK,Batsman,23
+P1572,Player_1572,SRH,Bowler,34
+P1573,Player_1573,DC,Batsman,39
+P1574,Player_1574,SRH,Batsman,24
+P1575,Player_1575,PBKS,Wicket Keeper,33
+P1576,Player_1576,CSK,Bowler,31
+P1577,Player_1577,LSG,Bowler,36
+P1578,Player_1578,CSK,All-Rounder,23
+P1579,Player_1579,RR,Wicket Keeper,37
+P1580,Player_1580,LSG,Batsman,25
+P1581,Player_1581,DC,Wicket Keeper,22
+P1582,Player_1582,MI,Batsman,24
+P1583,Player_1583,GT,Wicket Keeper,22
+P1584,Player_1584,LSG,Batsman,23
+P1585,Player_1585,PBKS,Batsman,35
+P1586,Player_1586,GT,Batsman,20
+P1587,Player_1587,PBKS,Bowler,37
+P1588,Player_1588,GT,Batsman,39
+P1589,Player_1589,DC,Wicket Keeper,29
+P1590,Player_1590,RCB,Wicket Keeper,25
+P1591,Player_1591,PBKS,Wicket Keeper,29
+P1592,Player_1592,LSG,Batsman,31
+P1593,Player_1593,CSK,All-Rounder,33
+P1594,Player_1594,KKR,Batsman,27
+P1595,Player_1595,LSG,Wicket Keeper,26
+P1596,Player_1596,KKR,Batsman,40
+P1597,Player_1597,RCB,Batsman,34
+P1598,Player_1598,RCB,Wicket Keeper,38
+P1599,Player_1599,KKR,All-Rounder,31
+P1600,Player_1600,RR,Batsman,22
+P1601,Player_1601,DC,All-Rounder,26
+P1602,Player_1602,GT,Wicket Keeper,36
+P1603,Player_1603,RR,All-Rounder,39
+P1604,Player_1604,DC,Bowler,31
+P1605,Player_1605,GT,Wicket Keeper,23
+P1606,Player_1606,RR,Wicket Keeper,26
+P1607,Player_1607,SRH,All-Rounder,40
+P1608,Player_1608,DC,Bowler,39
+P1609,Player_1609,MI,Bowler,32
+P1610,Player_1610,CSK,Batsman,24
+P1611,Player_1611,GT,Wicket Keeper,28
+P1612,Player_1612,GT,Batsman,23
+P1613,Player_1613,DC,Batsman,20
+P1614,Player_1614,CSK,Wicket Keeper,37
+P1615,Player_1615,DC,Batsman,20
+P1616,Player_1616,SRH,Bowler,29
+P1617,Player_1617,MI,Batsman,30
+P1618,Player_1618,DC,All-Rounder,40
+P1619,Player_1619,LSG,Batsman,23
+P1620,Player_1620,PBKS,Wicket Keeper,18
+P1621,Player_1621,KKR,All-Rounder,24
+P1622,Player_1622,RCB,Bowler,37
+P1623,Player_1623,CSK,Batsman,29
+P1624,Player_1624,KKR,Batsman,23
+P1625,Player_1625,MI,All-Rounder,30
+P1626,Player_1626,RR,Wicket Keeper,30
+P1627,Player_1627,LSG,Bowler,34
+P1628,Player_1628,RCB,Batsman,20
+P1629,Player_1629,GT,All-Rounder,35
+P1630,Player_1630,LSG,All-Rounder,29
+P1631,Player_1631,SRH,Bowler,37
+P1632,Player_1632,KKR,Wicket Keeper,30
+P1633,Player_1633,LSG,Batsman,26
+P1634,Player_1634,CSK,Wicket Keeper,34
+P1635,Player_1635,MI,Batsman,34
+P1636,Player_1636,SRH,All-Rounder,21
+P1637,Player_1637,GT,All-Rounder,35
+P1638,Player_1638,LSG,All-Rounder,40
+P1639,Player_1639,PBKS,Wicket Keeper,36
+P1640,Player_1640,PBKS,Bowler,28
+P1641,Player_1641,PBKS,Wicket Keeper,36
+P1642,Player_1642,RCB,Wicket Keeper,21
+P1643,Player_1643,SRH,Batsman,30
+P1644,Player_1644,KKR,Bowler,28
+P1645,Player_1645,DC,All-Rounder,34
+P1646,Player_1646,GT,Batsman,40
+P1647,Player_1647,SRH,Bowler,27
+P1648,Player_1648,MI,Wicket Keeper,39
+P1649,Player_1649,RR,Batsman,35
+P1650,Player_1650,CSK,Wicket Keeper,28
+P1651,Player_1651,RR,Bowler,36
+P1652,Player_1652,SRH,Bowler,39
+P1653,Player_1653,KKR,Wicket Keeper,24
+P1654,Player_1654,KKR,Bowler,26
+P1655,Player_1655,KKR,Bowler,24
+P1656,Player_1656,KKR,All-Rounder,22
+P1657,Player_1657,MI,Batsman,20
+P1658,Player_1658,PBKS,Batsman,35
+P1659,Player_1659,RCB,Wicket Keeper,29
+P1660,Player_1660,LSG,All-Rounder,33
+P1661,Player_1661,LSG,All-Rounder,33
+P1662,Player_1662,CSK,All-Rounder,30
+P1663,Player_1663,KKR,Bowler,19
+P1664,Player_1664,GT,Wicket Keeper,33
+P1665,Player_1665,GT,Batsman,34
+P1666,Player_1666,RR,Wicket Keeper,39
+P1667,Player_1667,CSK,Wicket Keeper,21
+P1668,Player_1668,GT,Wicket Keeper,28
+P1669,Player_1669,RCB,Batsman,39
+P1670,Player_1670,KKR,Wicket Keeper,36
+P1671,Player_1671,MI,All-Rounder,29
+P1672,Player_1672,LSG,All-Rounder,23
+P1673,Player_1673,GT,All-Rounder,25
+P1674,Player_1674,SRH,Wicket Keeper,37
+P1675,Player_1675,RR,All-Rounder,23
+P1676,Player_1676,PBKS,Wicket Keeper,24
+P1677,Player_1677,DC,All-Rounder,29
+P1678,Player_1678,DC,All-Rounder,32
+P1679,Player_1679,CSK,Bowler,36
+P1680,Player_1680,KKR,Batsman,26
+P1681,Player_1681,KKR,Wicket Keeper,30
+P1682,Player_1682,KKR,Bowler,22
+P1683,Player_1683,PBKS,Batsman,23
+P1684,Player_1684,DC,Wicket Keeper,22
+P1685,Player_1685,GT,All-Rounder,33
+P1686,Player_1686,SRH,All-Rounder,35
+P1687,Player_1687,LSG,Batsman,30
+P1688,Player_1688,MI,Bowler,19
+P1689,Player_1689,KKR,All-Rounder,33
+P1690,Player_1690,MI,Wicket Keeper,28
+P1691,Player_1691,SRH,All-Rounder,29
+P1692,Player_1692,GT,All-Rounder,29
+P1693,Player_1693,RCB,Wicket Keeper,21
+P1694,Player_1694,RR,Bowler,36
+P1695,Player_1695,LSG,Bowler,27
+P1696,Player_1696,RR,All-Rounder,39
+P1697,Player_1697,GT,Wicket Keeper,32
+P1698,Player_1698,MI,Wicket Keeper,37
+P1699,Player_1699,SRH,Wicket Keeper,38
+P1700,Player_1700,CSK,Bowler,38
+P1701,Player_1701,RR,Wicket Keeper,38
+P1702,Player_1702,LSG,Wicket Keeper,20
+P1703,Player_1703,MI,Bowler,28
+P1704,Player_1704,KKR,All-Rounder,28
+P1705,Player_1705,SRH,All-Rounder,37
+P1706,Player_1706,DC,All-Rounder,32
+P1707,Player_1707,RR,Wicket Keeper,31
+P1708,Player_1708,CSK,Bowler,18
+P1709,Player_1709,CSK,Bowler,39
+P1710,Player_1710,SRH,Batsman,24
+P1711,Player_1711,CSK,Wicket Keeper,21
+P1712,Player_1712,MI,Batsman,33
+P1713,Player_1713,GT,Batsman,18
+P1714,Player_1714,DC,Batsman,21
+P1715,Player_1715,SRH,Bowler,20
+P1716,Player_1716,DC,All-Rounder,25
+P1717,Player_1717,KKR,All-Rounder,32
+P1718,Player_1718,CSK,Bowler,34
+P1719,Player_1719,CSK,Batsman,19
+P1720,Player_1720,RR,All-Rounder,33
+P1721,Player_1721,PBKS,All-Rounder,35
+P1722,Player_1722,PBKS,Bowler,40
+P1723,Player_1723,GT,Bowler,36
+P1724,Player_1724,LSG,Wicket Keeper,38
+P1725,Player_1725,LSG,Wicket Keeper,34
+P1726,Player_1726,GT,All-Rounder,29
+P1727,Player_1727,PBKS,Bowler,20
+P1728,Player_1728,PBKS,All-Rounder,29
+P1729,Player_1729,DC,All-Rounder,22
+P1730,Player_1730,SRH,Batsman,18
+P1731,Player_1731,GT,Bowler,29
+P1732,Player_1732,SRH,Wicket Keeper,35
+P1733,Player_1733,RCB,Wicket Keeper,33
+P1734,Player_1734,SRH,Batsman,31
+P1735,Player_1735,SRH,Bowler,18
+P1736,Player_1736,GT,All-Rounder,24
+P1737,Player_1737,DC,Wicket Keeper,30
+P1738,Player_1738,KKR,Bowler,40
+P1739,Player_1739,DC,Wicket Keeper,25
+P1740,Player_1740,SRH,Batsman,31
+P1741,Player_1741,KKR,All-Rounder,27
+P1742,Player_1742,GT,All-Rounder,31
+P1743,Player_1743,KKR,Batsman,23
+P1744,Player_1744,CSK,All-Rounder,21
+P1745,Player_1745,PBKS,Wicket Keeper,26
+P1746,Player_1746,LSG,Wicket Keeper,24
+P1747,Player_1747,RR,Batsman,22
+P1748,Player_1748,RCB,Batsman,23
+P1749,Player_1749,MI,All-Rounder,26
+P1750,Player_1750,CSK,Wicket Keeper,18
+P1751,Player_1751,KKR,Batsman,22
+P1752,Player_1752,RCB,Wicket Keeper,24
+P1753,Player_1753,RR,Wicket Keeper,27
+P1754,Player_1754,PBKS,All-Rounder,32
+P1755,Player_1755,RCB,All-Rounder,20
+P1756,Player_1756,CSK,Batsman,26
+P1757,Player_1757,DC,Batsman,35
+P1758,Player_1758,PBKS,Bowler,24
+P1759,Player_1759,SRH,Wicket Keeper,18
+P1760,Player_1760,MI,Bowler,30
+P1761,Player_1761,PBKS,Bowler,19
+P1762,Player_1762,KKR,Wicket Keeper,21
+P1763,Player_1763,GT,Bowler,33
+P1764,Player_1764,DC,All-Rounder,28
+P1765,Player_1765,CSK,Batsman,35
+P1766,Player_1766,GT,Batsman,26
+P1767,Player_1767,PBKS,All-Rounder,24
+P1768,Player_1768,RR,Batsman,39
+P1769,Player_1769,KKR,Batsman,25
+P1770,Player_1770,DC,All-Rounder,18
+P1771,Player_1771,CSK,All-Rounder,36
+P1772,Player_1772,MI,Wicket Keeper,25
+P1773,Player_1773,RCB,Batsman,36
+P1774,Player_1774,PBKS,Bowler,29
+P1775,Player_1775,MI,Bowler,23
+P1776,Player_1776,PBKS,Batsman,39
+P1777,Player_1777,LSG,All-Rounder,38
+P1778,Player_1778,RCB,Batsman,29
+P1779,Player_1779,CSK,Batsman,22
+P1780,Player_1780,PBKS,Bowler,28
+P1781,Player_1781,GT,All-Rounder,32
+P1782,Player_1782,KKR,Batsman,40
+P1783,Player_1783,DC,All-Rounder,22
+P1784,Player_1784,SRH,Batsman,33
+P1785,Player_1785,PBKS,All-Rounder,35
+P1786,Player_1786,PBKS,Bowler,36
+P1787,Player_1787,CSK,All-Rounder,28
+P1788,Player_1788,PBKS,All-Rounder,37
+P1789,Player_1789,GT,Bowler,20
+P1790,Player_1790,GT,Bowler,32
+P1791,Player_1791,SRH,All-Rounder,35
+P1792,Player_1792,RR,Wicket Keeper,18
+P1793,Player_1793,GT,Wicket Keeper,23
+P1794,Player_1794,RCB,All-Rounder,37
+P1795,Player_1795,KKR,All-Rounder,20
+P1796,Player_1796,GT,Wicket Keeper,24
+P1797,Player_1797,GT,Wicket Keeper,35
+P1798,Player_1798,CSK,All-Rounder,28
+P1799,Player_1799,DC,All-Rounder,21
+P1800,Player_1800,MI,Batsman,19
+P1801,Player_1801,CSK,Bowler,19
+P1802,Player_1802,KKR,Batsman,33
+P1803,Player_1803,KKR,Batsman,19
+P1804,Player_1804,LSG,Wicket Keeper,39
+P1805,Player_1805,PBKS,All-Rounder,19
+P1806,Player_1806,RR,Bowler,37
+P1807,Player_1807,MI,Batsman,24
+P1808,Player_1808,PBKS,Batsman,32
+P1809,Player_1809,RCB,All-Rounder,35
+P1810,Player_1810,DC,All-Rounder,40
+P1811,Player_1811,RCB,All-Rounder,34
+P1812,Player_1812,RCB,Batsman,27
+P1813,Player_1813,MI,Bowler,34
+P1814,Player_1814,MI,Batsman,25
+P1815,Player_1815,GT,Wicket Keeper,24
+P1816,Player_1816,KKR,Bowler,36
+P1817,Player_1817,CSK,Wicket Keeper,21
+P1818,Player_1818,LSG,All-Rounder,39
+P1819,Player_1819,PBKS,Wicket Keeper,21
+P1820,Player_1820,CSK,Bowler,35
+P1821,Player_1821,DC,All-Rounder,39
+P1822,Player_1822,CSK,Wicket Keeper,29
+P1823,Player_1823,RR,All-Rounder,29
+P1824,Player_1824,DC,Wicket Keeper,28
+P1825,Player_1825,LSG,Bowler,36
+P1826,Player_1826,GT,Bowler,30
+P1827,Player_1827,GT,All-Rounder,29
+P1828,Player_1828,PBKS,Wicket Keeper,30
+P1829,Player_1829,RCB,Batsman,27
+P1830,Player_1830,LSG,Batsman,34
+P1831,Player_1831,CSK,All-Rounder,18
+P1832,Player_1832,SRH,Bowler,24
+P1833,Player_1833,RR,Batsman,40
+P1834,Player_1834,SRH,Bowler,21
+P1835,Player_1835,RCB,Wicket Keeper,29
+P1836,Player_1836,CSK,Bowler,26
+P1837,Player_1837,RR,Bowler,25
+P1838,Player_1838,SRH,All-Rounder,20
+P1839,Player_1839,LSG,Wicket Keeper,36
+P1840,Player_1840,KKR,Batsman,28
+P1841,Player_1841,PBKS,Bowler,33
+P1842,Player_1842,LSG,Batsman,37
+P1843,Player_1843,SRH,Batsman,36
+P1844,Player_1844,DC,Batsman,19
+P1845,Player_1845,RR,All-Rounder,31
+P1846,Player_1846,DC,Batsman,25
+P1847,Player_1847,LSG,Batsman,38
+P1848,Player_1848,DC,Batsman,27
+P1849,Player_1849,GT,Batsman,28
+P1850,Player_1850,GT,Bowler,28
+P1851,Player_1851,GT,Bowler,22
+P1852,Player_1852,RCB,Wicket Keeper,32
+P1853,Player_1853,LSG,Batsman,25
+P1854,Player_1854,DC,All-Rounder,30
+P1855,Player_1855,CSK,Bowler,28
+P1856,Player_1856,MI,Wicket Keeper,36
+P1857,Player_1857,RCB,Wicket Keeper,26
+P1858,Player_1858,MI,Wicket Keeper,34
+P1859,Player_1859,DC,Bowler,22
+P1860,Player_1860,PBKS,Bowler,33
+P1861,Player_1861,DC,Bowler,35
+P1862,Player_1862,LSG,Bowler,25
+P1863,Player_1863,MI,All-Rounder,31
+P1864,Player_1864,RR,Batsman,21
+P1865,Player_1865,DC,Wicket Keeper,29
+P1866,Player_1866,RR,Bowler,28
+P1867,Player_1867,RR,Batsman,27
+P1868,Player_1868,CSK,All-Rounder,37
+P1869,Player_1869,PBKS,Bowler,32
+P1870,Player_1870,RCB,Bowler,24
+P1871,Player_1871,RR,Bowler,20
+P1872,Player_1872,MI,Batsman,25
+P1873,Player_1873,LSG,Bowler,27
+P1874,Player_1874,RCB,All-Rounder,40
+P1875,Player_1875,MI,All-Rounder,32
+P1876,Player_1876,PBKS,Batsman,28
+P1877,Player_1877,KKR,Bowler,24
+P1878,Player_1878,GT,All-Rounder,35
+P1879,Player_1879,PBKS,Bowler,40
+P1880,Player_1880,RCB,Wicket Keeper,36
+P1881,Player_1881,GT,Batsman,26
+P1882,Player_1882,CSK,Batsman,27
+P1883,Player_1883,KKR,All-Rounder,19
+P1884,Player_1884,PBKS,Batsman,20
+P1885,Player_1885,DC,All-Rounder,39
+P1886,Player_1886,RR,Batsman,18
+P1887,Player_1887,SRH,Wicket Keeper,25
+P1888,Player_1888,DC,Batsman,28
+P1889,Player_1889,PBKS,Batsman,23
+P1890,Player_1890,KKR,Wicket Keeper,35
+P1891,Player_1891,RCB,Batsman,25
+P1892,Player_1892,GT,All-Rounder,28
+P1893,Player_1893,PBKS,Wicket Keeper,23
+P1894,Player_1894,RCB,All-Rounder,39
+P1895,Player_1895,RR,All-Rounder,38
+P1896,Player_1896,SRH,Bowler,34
+P1897,Player_1897,SRH,Batsman,38
+P1898,Player_1898,SRH,Wicket Keeper,18
+P1899,Player_1899,GT,All-Rounder,25
+P1900,Player_1900,CSK,All-Rounder,30
+P1901,Player_1901,CSK,Batsman,30
+P1902,Player_1902,GT,Bowler,31
+P1903,Player_1903,KKR,Bowler,31
+P1904,Player_1904,SRH,All-Rounder,32
+P1905,Player_1905,GT,Bowler,24
+P1906,Player_1906,CSK,Bowler,22
+P1907,Player_1907,SRH,Bowler,31
+P1908,Player_1908,CSK,Bowler,28
+P1909,Player_1909,MI,Batsman,23
+P1910,Player_1910,RR,Bowler,18
+P1911,Player_1911,RR,Wicket Keeper,31
+P1912,Player_1912,SRH,Wicket Keeper,38
+P1913,Player_1913,SRH,Bowler,24
+P1914,Player_1914,MI,Bowler,23
+P1915,Player_1915,RCB,All-Rounder,37
+P1916,Player_1916,LSG,Bowler,37
+P1917,Player_1917,KKR,Bowler,39
+P1918,Player_1918,RCB,All-Rounder,20
+P1919,Player_1919,PBKS,Bowler,34
+P1920,Player_1920,LSG,Wicket Keeper,40
+P1921,Player_1921,RR,Bowler,30
+P1922,Player_1922,PBKS,Wicket Keeper,22
+P1923,Player_1923,CSK,Bowler,25
+P1924,Player_1924,RCB,Wicket Keeper,18
+P1925,Player_1925,SRH,Wicket Keeper,25
+P1926,Player_1926,KKR,Bowler,20
+P1927,Player_1927,CSK,Wicket Keeper,37
+P1928,Player_1928,PBKS,All-Rounder,32
+P1929,Player_1929,KKR,Wicket Keeper,30
+P1930,Player_1930,RCB,Wicket Keeper,28
+P1931,Player_1931,DC,Batsman,34
+P1932,Player_1932,MI,Wicket Keeper,32
+P1933,Player_1933,RCB,Bowler,34
+P1934,Player_1934,GT,Wicket Keeper,19
+P1935,Player_1935,GT,Wicket Keeper,34
+P1936,Player_1936,RCB,Bowler,27
+P1937,Player_1937,PBKS,Wicket Keeper,27
+P1938,Player_1938,SRH,Wicket Keeper,23
+P1939,Player_1939,DC,All-Rounder,37
+P1940,Player_1940,RCB,Bowler,32
+P1941,Player_1941,PBKS,Batsman,34
+P1942,Player_1942,MI,Bowler,36
+P1943,Player_1943,GT,Bowler,30
+P1944,Player_1944,DC,All-Rounder,32
+P1945,Player_1945,RCB,Bowler,32
+P1946,Player_1946,LSG,Bowler,32
+P1947,Player_1947,MI,All-Rounder,28
+P1948,Player_1948,CSK,Batsman,20
+P1949,Player_1949,MI,Wicket Keeper,38
+P1950,Player_1950,RR,Batsman,34
+P1951,Player_1951,DC,Bowler,30
+P1952,Player_1952,GT,Wicket Keeper,19
+P1953,Player_1953,CSK,All-Rounder,36
+P1954,Player_1954,CSK,Bowler,22
+P1955,Player_1955,CSK,Batsman,31
+P1956,Player_1956,SRH,All-Rounder,32
+P1957,Player_1957,SRH,Bowler,21
+P1958,Player_1958,CSK,Bowler,18
+P1959,Player_1959,LSG,All-Rounder,18
+P1960,Player_1960,PBKS,Wicket Keeper,33
+P1961,Player_1961,GT,Batsman,37
+P1962,Player_1962,PBKS,Bowler,24
+P1963,Player_1963,LSG,Wicket Keeper,32
+P1964,Player_1964,DC,Wicket Keeper,20
+P1965,Player_1965,LSG,Batsman,25
+P1966,Player_1966,GT,All-Rounder,37
+P1967,Player_1967,GT,Bowler,19
+P1968,Player_1968,CSK,Bowler,19
+P1969,Player_1969,RR,Batsman,22
+P1970,Player_1970,RCB,All-Rounder,28
+P1971,Player_1971,MI,Batsman,21
+P1972,Player_1972,DC,Bowler,23
+P1973,Player_1973,SRH,Bowler,32
+P1974,Player_1974,LSG,All-Rounder,19
+P1975,Player_1975,MI,All-Rounder,28
+P1976,Player_1976,RR,Wicket Keeper,20
+P1977,Player_1977,DC,Batsman,27
+P1978,Player_1978,PBKS,Bowler,21
+P1979,Player_1979,SRH,All-Rounder,34
+P1980,Player_1980,DC,Bowler,40
+P1981,Player_1981,KKR,Batsman,21
+P1982,Player_1982,LSG,Batsman,33
+P1983,Player_1983,LSG,All-Rounder,31
+P1984,Player_1984,LSG,All-Rounder,26
+P1985,Player_1985,GT,All-Rounder,22
+P1986,Player_1986,LSG,Wicket Keeper,34
+P1987,Player_1987,PBKS,Wicket Keeper,23
+P1988,Player_1988,LSG,Bowler,40
+P1989,Player_1989,SRH,Bowler,18
+P1990,Player_1990,MI,Batsman,32
+P1991,Player_1991,MI,Bowler,37
+P1992,Player_1992,DC,Wicket Keeper,19
+P1993,Player_1993,RR,All-Rounder,35
+P1994,Player_1994,KKR,Batsman,38
+P1995,Player_1995,KKR,All-Rounder,26
+P1996,Player_1996,MI,All-Rounder,27
+P1997,Player_1997,GT,All-Rounder,18
+P1998,Player_1998,MI,All-Rounder,28
+P1999,Player_1999,DC,Batsman,23
+P2000,Player_2000,KKR,All-Rounder,28
+P2001,Player_2001,PBKS,Wicket Keeper,19
+P2002,Player_2002,CSK,Wicket Keeper,22
+P2003,Player_2003,PBKS,All-Rounder,32
+P2004,Player_2004,DC,Batsman,34
+P2005,Player_2005,SRH,All-Rounder,35
+P2006,Player_2006,GT,Batsman,24
+P2007,Player_2007,LSG,All-Rounder,29
+P2008,Player_2008,MI,Bowler,26
+P2009,Player_2009,RCB,All-Rounder,30
+P2010,Player_2010,GT,Bowler,36
+P2011,Player_2011,LSG,Wicket Keeper,23
+P2012,Player_2012,LSG,Batsman,27
+P2013,Player_2013,RR,Batsman,26
+P2014,Player_2014,DC,Batsman,33
+P2015,Player_2015,KKR,All-Rounder,32
+P2016,Player_2016,SRH,Bowler,34
+P2017,Player_2017,SRH,Bowler,21
+P2018,Player_2018,RR,Batsman,24
+P2019,Player_2019,MI,Wicket Keeper,34
+P2020,Player_2020,RCB,Wicket Keeper,34
+P2021,Player_2021,CSK,Bowler,28
+P2022,Player_2022,PBKS,All-Rounder,28
+P2023,Player_2023,CSK,Batsman,34
+P2024,Player_2024,CSK,Bowler,19
+P2025,Player_2025,PBKS,Wicket Keeper,40
+P2026,Player_2026,GT,Batsman,18
+P2027,Player_2027,SRH,Batsman,39
+P2028,Player_2028,LSG,Batsman,28
+P2029,Player_2029,PBKS,Batsman,21
+P2030,Player_2030,GT,All-Rounder,18
+P2031,Player_2031,LSG,All-Rounder,38
+P2032,Player_2032,KKR,All-Rounder,24
+P2033,Player_2033,KKR,All-Rounder,26
+P2034,Player_2034,GT,All-Rounder,32
+P2035,Player_2035,MI,All-Rounder,22
+P2036,Player_2036,CSK,All-Rounder,21
+P2037,Player_2037,RCB,Batsman,24
+P2038,Player_2038,GT,All-Rounder,35
+P2039,Player_2039,RR,All-Rounder,22
+P2040,Player_2040,SRH,Bowler,23
+P2041,Player_2041,MI,All-Rounder,37
+P2042,Player_2042,RR,Wicket Keeper,19
+P2043,Player_2043,CSK,Batsman,33
+P2044,Player_2044,RCB,Batsman,30
+P2045,Player_2045,RCB,Batsman,31
+P2046,Player_2046,DC,Bowler,40
+P2047,Player_2047,LSG,Wicket Keeper,37
+P2048,Player_2048,RR,All-Rounder,28
+P2049,Player_2049,KKR,Batsman,32
+P2050,Player_2050,LSG,Bowler,20
+P2051,Player_2051,PBKS,Batsman,32
+P2052,Player_2052,SRH,Wicket Keeper,33
+P2053,Player_2053,KKR,Bowler,22
+P2054,Player_2054,LSG,All-Rounder,29
+P2055,Player_2055,DC,Bowler,40
+P2056,Player_2056,RR,All-Rounder,32
+P2057,Player_2057,PBKS,Batsman,20
+P2058,Player_2058,PBKS,Batsman,29
+P2059,Player_2059,PBKS,Wicket Keeper,23
+P2060,Player_2060,SRH,All-Rounder,37
+P2061,Player_2061,LSG,Bowler,34
+P2062,Player_2062,MI,Wicket Keeper,40
+P2063,Player_2063,MI,All-Rounder,35
+P2064,Player_2064,MI,All-Rounder,35
+P2065,Player_2065,PBKS,Wicket Keeper,36
+P2066,Player_2066,DC,Bowler,37
+P2067,Player_2067,KKR,Bowler,33
+P2068,Player_2068,DC,Batsman,28
+P2069,Player_2069,KKR,Wicket Keeper,31
+P2070,Player_2070,LSG,All-Rounder,35
+P2071,Player_2071,KKR,Bowler,39
+P2072,Player_2072,MI,Wicket Keeper,21
+P2073,Player_2073,LSG,Wicket Keeper,28
+P2074,Player_2074,GT,Batsman,32
+P2075,Player_2075,CSK,All-Rounder,30
+P2076,Player_2076,MI,Batsman,39
+P2077,Player_2077,LSG,Wicket Keeper,28
+P2078,Player_2078,PBKS,Batsman,20
+P2079,Player_2079,KKR,Bowler,36
+P2080,Player_2080,RCB,Bowler,39
+P2081,Player_2081,CSK,Wicket Keeper,35
+P2082,Player_2082,SRH,Wicket Keeper,37
+P2083,Player_2083,LSG,Wicket Keeper,24
+P2084,Player_2084,KKR,All-Rounder,27
+P2085,Player_2085,LSG,All-Rounder,31
+P2086,Player_2086,RR,Batsman,36
+P2087,Player_2087,RCB,Wicket Keeper,22
+P2088,Player_2088,SRH,Batsman,29
+P2089,Player_2089,GT,Batsman,18
+P2090,Player_2090,GT,All-Rounder,21
+P2091,Player_2091,SRH,Batsman,25
+P2092,Player_2092,DC,Wicket Keeper,38
+P2093,Player_2093,RR,Wicket Keeper,30
+P2094,Player_2094,DC,Wicket Keeper,35
+P2095,Player_2095,KKR,Bowler,33
+P2096,Player_2096,CSK,Bowler,35
+P2097,Player_2097,DC,All-Rounder,31
+P2098,Player_2098,CSK,All-Rounder,39
+P2099,Player_2099,CSK,Bowler,18
+P2100,Player_2100,MI,Batsman,22
+P2101,Player_2101,PBKS,Wicket Keeper,22
+P2102,Player_2102,MI,Bowler,38
+P2103,Player_2103,DC,Wicket Keeper,40
+P2104,Player_2104,LSG,Wicket Keeper,37
+P2105,Player_2105,CSK,Wicket Keeper,34
+P2106,Player_2106,DC,Wicket Keeper,30
+P2107,Player_2107,RR,Bowler,23
+P2108,Player_2108,DC,Batsman,36
+P2109,Player_2109,PBKS,Bowler,40
+P2110,Player_2110,GT,All-Rounder,31
+P2111,Player_2111,GT,All-Rounder,19
+P2112,Player_2112,RCB,Wicket Keeper,40
+P2113,Player_2113,RR,Batsman,36
+P2114,Player_2114,PBKS,Batsman,22
+P2115,Player_2115,GT,All-Rounder,32
+P2116,Player_2116,GT,Batsman,34
+P2117,Player_2117,LSG,Batsman,25
+P2118,Player_2118,PBKS,Batsman,39
+P2119,Player_2119,GT,All-Rounder,37
+P2120,Player_2120,RCB,All-Rounder,35
+P2121,Player_2121,RCB,Wicket Keeper,32
+P2122,Player_2122,GT,Wicket Keeper,36
+P2123,Player_2123,RR,Wicket Keeper,29
+P2124,Player_2124,SRH,All-Rounder,23
+P2125,Player_2125,RCB,All-Rounder,36
+P2126,Player_2126,SRH,Batsman,38
+P2127,Player_2127,PBKS,Bowler,36
+P2128,Player_2128,RCB,All-Rounder,37
+P2129,Player_2129,RCB,All-Rounder,33
+P2130,Player_2130,MI,Bowler,34
+P2131,Player_2131,MI,All-Rounder,26
+P2132,Player_2132,CSK,All-Rounder,26
+P2133,Player_2133,SRH,Batsman,21
+P2134,Player_2134,LSG,Bowler,36
+P2135,Player_2135,CSK,Wicket Keeper,29
+P2136,Player_2136,CSK,All-Rounder,40
+P2137,Player_2137,KKR,Wicket Keeper,23
+P2138,Player_2138,GT,Batsman,28
+P2139,Player_2139,MI,Bowler,37
+P2140,Player_2140,CSK,Wicket Keeper,31
+P2141,Player_2141,DC,Bowler,39
+P2142,Player_2142,PBKS,Bowler,24
+P2143,Player_2143,LSG,All-Rounder,19
+P2144,Player_2144,SRH,Batsman,19
+P2145,Player_2145,CSK,Wicket Keeper,30
+P2146,Player_2146,PBKS,All-Rounder,33
+P2147,Player_2147,GT,Bowler,30
+P2148,Player_2148,DC,Wicket Keeper,26
+P2149,Player_2149,CSK,Wicket Keeper,18
+P2150,Player_2150,SRH,Wicket Keeper,30
+P2151,Player_2151,RR,Batsman,21
+P2152,Player_2152,GT,All-Rounder,31
+P2153,Player_2153,LSG,All-Rounder,28
+P2154,Player_2154,SRH,All-Rounder,21
+P2155,Player_2155,SRH,Wicket Keeper,32
+P2156,Player_2156,KKR,Bowler,34
+P2157,Player_2157,RR,Bowler,28
+P2158,Player_2158,GT,Batsman,39
+P2159,Player_2159,RCB,Batsman,18
+P2160,Player_2160,DC,Batsman,34
+P2161,Player_2161,MI,Wicket Keeper,29
+P2162,Player_2162,KKR,All-Rounder,26
+P2163,Player_2163,KKR,Batsman,18
+P2164,Player_2164,LSG,Batsman,19
+P2165,Player_2165,LSG,Bowler,37
+P2166,Player_2166,MI,Batsman,20
+P2167,Player_2167,LSG,Bowler,30
+P2168,Player_2168,LSG,Bowler,21
+P2169,Player_2169,CSK,All-Rounder,27
+P2170,Player_2170,PBKS,Batsman,38
+P2171,Player_2171,PBKS,All-Rounder,31
+P2172,Player_2172,RR,All-Rounder,23
+P2173,Player_2173,MI,All-Rounder,19
+P2174,Player_2174,DC,Wicket Keeper,28
+P2175,Player_2175,RCB,All-Rounder,26
+P2176,Player_2176,CSK,Wicket Keeper,20
+P2177,Player_2177,PBKS,Bowler,37
+P2178,Player_2178,DC,Bowler,38
+P2179,Player_2179,PBKS,Batsman,22
+P2180,Player_2180,GT,Wicket Keeper,24
+P2181,Player_2181,LSG,Batsman,32
+P2182,Player_2182,SRH,Batsman,19
+P2183,Player_2183,MI,Batsman,36
+P2184,Player_2184,SRH,Wicket Keeper,18
+P2185,Player_2185,PBKS,Bowler,38
+P2186,Player_2186,RCB,Batsman,39
+P2187,Player_2187,DC,All-Rounder,22
+P2188,Player_2188,RR,Wicket Keeper,36
+P2189,Player_2189,RCB,Wicket Keeper,33
+P2190,Player_2190,DC,Wicket Keeper,20
+P2191,Player_2191,GT,Bowler,18
+P2192,Player_2192,DC,Wicket Keeper,21
+P2193,Player_2193,LSG,All-Rounder,28
+P2194,Player_2194,SRH,Wicket Keeper,19
+P2195,Player_2195,MI,All-Rounder,35
+P2196,Player_2196,RR,Batsman,32
+P2197,Player_2197,SRH,Bowler,23
+P2198,Player_2198,GT,Batsman,30
+P2199,Player_2199,KKR,All-Rounder,40
+P2200,Player_2200,DC,Batsman,38
+P2201,Player_2201,RR,Wicket Keeper,20
+P2202,Player_2202,PBKS,Bowler,22
+P2203,Player_2203,RCB,Bowler,18
+P2204,Player_2204,LSG,Bowler,33
+P2205,Player_2205,DC,Batsman,35
+P2206,Player_2206,SRH,Wicket Keeper,35
+P2207,Player_2207,PBKS,Batsman,19
+P2208,Player_2208,RR,Batsman,28
+P2209,Player_2209,RCB,Wicket Keeper,21
+P2210,Player_2210,KKR,Wicket Keeper,39
+P2211,Player_2211,GT,Bowler,36
+P2212,Player_2212,KKR,Batsman,19
+P2213,Player_2213,CSK,Wicket Keeper,38
+P2214,Player_2214,RCB,Wicket Keeper,37
+P2215,Player_2215,RCB,Bowler,40
+P2216,Player_2216,CSK,Batsman,23
+P2217,Player_2217,RCB,All-Rounder,21
+P2218,Player_2218,PBKS,Bowler,36
+P2219,Player_2219,MI,Batsman,21
+P2220,Player_2220,PBKS,Bowler,20
+P2221,Player_2221,KKR,Wicket Keeper,28
+P2222,Player_2222,DC,All-Rounder,21
+P2223,Player_2223,LSG,Bowler,28
+P2224,Player_2224,KKR,Batsman,36
+P2225,Player_2225,CSK,All-Rounder,20
+P2226,Player_2226,MI,All-Rounder,22
+P2227,Player_2227,DC,Bowler,40
+P2228,Player_2228,RR,Bowler,32
+P2229,Player_2229,KKR,Batsman,22
+P2230,Player_2230,MI,Wicket Keeper,23
+P2231,Player_2231,RCB,Wicket Keeper,20
+P2232,Player_2232,RCB,Batsman,23
+P2233,Player_2233,MI,All-Rounder,31
+P2234,Player_2234,PBKS,Bowler,24
+P2235,Player_2235,CSK,All-Rounder,34
+P2236,Player_2236,PBKS,Wicket Keeper,25
+P2237,Player_2237,CSK,Batsman,37
+P2238,Player_2238,CSK,Wicket Keeper,37
+P2239,Player_2239,MI,All-Rounder,29
+P2240,Player_2240,DC,Batsman,35
+P2241,Player_2241,KKR,Bowler,21
+P2242,Player_2242,GT,Batsman,37
+P2243,Player_2243,RR,Bowler,32
+P2244,Player_2244,KKR,All-Rounder,19
+P2245,Player_2245,KKR,Batsman,22
+P2246,Player_2246,PBKS,Wicket Keeper,23
+P2247,Player_2247,CSK,Batsman,19
+P2248,Player_2248,RR,All-Rounder,24
+P2249,Player_2249,DC,All-Rounder,28
+P2250,Player_2250,LSG,Wicket Keeper,19
+P2251,Player_2251,MI,Batsman,35
+P2252,Player_2252,CSK,Bowler,18
+P2253,Player_2253,PBKS,Batsman,20
+P2254,Player_2254,KKR,Wicket Keeper,36
+P2255,Player_2255,LSG,All-Rounder,31
+P2256,Player_2256,KKR,All-Rounder,25
+P2257,Player_2257,MI,All-Rounder,25
+P2258,Player_2258,MI,Bowler,31
+P2259,Player_2259,KKR,Wicket Keeper,25
+P2260,Player_2260,MI,Wicket Keeper,36
+P2261,Player_2261,PBKS,Batsman,31
+P2262,Player_2262,CSK,Bowler,37
+P2263,Player_2263,PBKS,Bowler,30
+P2264,Player_2264,RR,Bowler,32
+P2265,Player_2265,KKR,All-Rounder,26
+P2266,Player_2266,KKR,All-Rounder,22
+P2267,Player_2267,RCB,Batsman,26
+P2268,Player_2268,CSK,Batsman,32
+P2269,Player_2269,PBKS,Wicket Keeper,23
+P2270,Player_2270,RR,Bowler,27
+P2271,Player_2271,LSG,Bowler,38
+P2272,Player_2272,LSG,Bowler,36
+P2273,Player_2273,GT,Bowler,20
+P2274,Player_2274,DC,Wicket Keeper,24
+P2275,Player_2275,LSG,Wicket Keeper,32
+P2276,Player_2276,SRH,Batsman,31
+P2277,Player_2277,KKR,Bowler,28
+P2278,Player_2278,DC,Bowler,36
+P2279,Player_2279,CSK,Batsman,31
+P2280,Player_2280,RCB,Batsman,33
+P2281,Player_2281,GT,Batsman,31
+P2282,Player_2282,GT,Wicket Keeper,33
+P2283,Player_2283,MI,Wicket Keeper,33
+P2284,Player_2284,KKR,Batsman,35
+P2285,Player_2285,RCB,Wicket Keeper,24
+P2286,Player_2286,CSK,All-Rounder,27
+P2287,Player_2287,KKR,Batsman,18
+P2288,Player_2288,PBKS,All-Rounder,23
+P2289,Player_2289,PBKS,Batsman,32
+P2290,Player_2290,PBKS,Bowler,40
+P2291,Player_2291,DC,Bowler,29
+P2292,Player_2292,PBKS,Batsman,38
+P2293,Player_2293,MI,Wicket Keeper,40
+P2294,Player_2294,RR,Batsman,27
+P2295,Player_2295,DC,All-Rounder,40
+P2296,Player_2296,LSG,Bowler,39
+P2297,Player_2297,MI,All-Rounder,19
+P2298,Player_2298,GT,All-Rounder,19
+P2299,Player_2299,MI,Wicket Keeper,29
+P2300,Player_2300,PBKS,Batsman,29
+P2301,Player_2301,RR,Bowler,38
+P2302,Player_2302,GT,Batsman,35
+P2303,Player_2303,KKR,Bowler,28
+P2304,Player_2304,KKR,Batsman,38
+P2305,Player_2305,PBKS,Bowler,25
+P2306,Player_2306,RR,All-Rounder,26
+P2307,Player_2307,GT,Wicket Keeper,26
+P2308,Player_2308,RCB,Batsman,29
+P2309,Player_2309,RR,Wicket Keeper,33
+P2310,Player_2310,GT,Batsman,33
+P2311,Player_2311,GT,All-Rounder,32
+P2312,Player_2312,LSG,All-Rounder,39
+P2313,Player_2313,MI,Bowler,32
+P2314,Player_2314,MI,Batsman,30
+P2315,Player_2315,CSK,All-Rounder,20
+P2316,Player_2316,MI,Bowler,26
+P2317,Player_2317,MI,Bowler,33
+P2318,Player_2318,CSK,Bowler,34
+P2319,Player_2319,RCB,All-Rounder,31
+P2320,Player_2320,GT,Bowler,33
+P2321,Player_2321,RR,Wicket Keeper,32
+P2322,Player_2322,RCB,All-Rounder,24
+P2323,Player_2323,MI,Batsman,25
+P2324,Player_2324,GT,All-Rounder,31
+P2325,Player_2325,LSG,All-Rounder,38
+P2326,Player_2326,RR,Wicket Keeper,36
+P2327,Player_2327,GT,Wicket Keeper,32
+P2328,Player_2328,SRH,Bowler,27
+P2329,Player_2329,CSK,All-Rounder,25
+P2330,Player_2330,PBKS,All-Rounder,27
+P2331,Player_2331,RCB,Bowler,29
+P2332,Player_2332,SRH,Wicket Keeper,23
+P2333,Player_2333,LSG,Bowler,40
+P2334,Player_2334,GT,All-Rounder,23
+P2335,Player_2335,CSK,Bowler,23
+P2336,Player_2336,KKR,Batsman,19
+P2337,Player_2337,RR,Bowler,32
+P2338,Player_2338,SRH,All-Rounder,23
+P2339,Player_2339,KKR,Batsman,39
+P2340,Player_2340,RR,All-Rounder,22
+P2341,Player_2341,RR,Wicket Keeper,35
+P2342,Player_2342,CSK,All-Rounder,21
+P2343,Player_2343,RCB,Wicket Keeper,33
+P2344,Player_2344,CSK,Wicket Keeper,28
+P2345,Player_2345,CSK,Batsman,35
+P2346,Player_2346,GT,All-Rounder,38
+P2347,Player_2347,SRH,Wicket Keeper,27
+P2348,Player_2348,LSG,Bowler,36
+P2349,Player_2349,PBKS,All-Rounder,40
+P2350,Player_2350,MI,Wicket Keeper,19
+P2351,Player_2351,CSK,Batsman,27
+P2352,Player_2352,RCB,Wicket Keeper,37
+P2353,Player_2353,KKR,Wicket Keeper,29
+P2354,Player_2354,MI,All-Rounder,19
+P2355,Player_2355,LSG,Bowler,36
+P2356,Player_2356,GT,Bowler,26
+P2357,Player_2357,KKR,Batsman,20
+P2358,Player_2358,GT,Wicket Keeper,39
+P2359,Player_2359,MI,Wicket Keeper,24
+P2360,Player_2360,PBKS,All-Rounder,37
+P2361,Player_2361,LSG,Batsman,39
+P2362,Player_2362,RR,Wicket Keeper,22
+P2363,Player_2363,DC,All-Rounder,30
+P2364,Player_2364,RR,Batsman,27
+P2365,Player_2365,RR,All-Rounder,27
+P2366,Player_2366,PBKS,Batsman,24
+P2367,Player_2367,PBKS,Wicket Keeper,32
+P2368,Player_2368,SRH,Bowler,31
+P2369,Player_2369,DC,Bowler,36
+P2370,Player_2370,LSG,Batsman,22
+P2371,Player_2371,KKR,All-Rounder,33
+P2372,Player_2372,GT,All-Rounder,20
+P2373,Player_2373,LSG,Wicket Keeper,20
+P2374,Player_2374,RCB,Wicket Keeper,38
+P2375,Player_2375,SRH,Wicket Keeper,23
+P2376,Player_2376,GT,Wicket Keeper,40
+P2377,Player_2377,LSG,Bowler,24
+P2378,Player_2378,CSK,Wicket Keeper,27
+P2379,Player_2379,GT,Wicket Keeper,19
+P2380,Player_2380,SRH,All-Rounder,33
+P2381,Player_2381,GT,Wicket Keeper,25
+P2382,Player_2382,RCB,Batsman,22
+P2383,Player_2383,SRH,All-Rounder,38
+P2384,Player_2384,PBKS,Batsman,38
+P2385,Player_2385,SRH,Wicket Keeper,23
+P2386,Player_2386,PBKS,Bowler,18
+P2387,Player_2387,MI,All-Rounder,33
+P2388,Player_2388,MI,All-Rounder,36
+P2389,Player_2389,PBKS,Wicket Keeper,26
+P2390,Player_2390,PBKS,Batsman,29
+P2391,Player_2391,GT,Batsman,26
+P2392,Player_2392,CSK,Batsman,22
+P2393,Player_2393,RR,Wicket Keeper,40
+P2394,Player_2394,CSK,All-Rounder,23
+P2395,Player_2395,RCB,All-Rounder,29
+P2396,Player_2396,DC,All-Rounder,19
+P2397,Player_2397,SRH,All-Rounder,34
+P2398,Player_2398,MI,Bowler,38
+P2399,Player_2399,CSK,Batsman,37
+P2400,Player_2400,CSK,All-Rounder,28
+P2401,Player_2401,SRH,All-Rounder,39
+P2402,Player_2402,RR,Batsman,35
+P2403,Player_2403,LSG,All-Rounder,22
+P2404,Player_2404,RCB,Bowler,34
+P2405,Player_2405,SRH,All-Rounder,33
+P2406,Player_2406,DC,All-Rounder,23
+P2407,Player_2407,MI,Bowler,22
+P2408,Player_2408,GT,Bowler,24
+P2409,Player_2409,GT,Batsman,31
+P2410,Player_2410,PBKS,Batsman,21
+P2411,Player_2411,CSK,Batsman,33
+P2412,Player_2412,RR,All-Rounder,40
+P2413,Player_2413,RR,Bowler,32
+P2414,Player_2414,LSG,All-Rounder,23
+P2415,Player_2415,SRH,Batsman,21
+P2416,Player_2416,KKR,Bowler,40
+P2417,Player_2417,CSK,Bowler,27
+P2418,Player_2418,CSK,Bowler,22
+P2419,Player_2419,MI,Wicket Keeper,40
+P2420,Player_2420,MI,Batsman,18
+P2421,Player_2421,PBKS,Wicket Keeper,19
+P2422,Player_2422,KKR,Batsman,19
+P2423,Player_2423,GT,Batsman,33
+P2424,Player_2424,MI,All-Rounder,19
+P2425,Player_2425,MI,All-Rounder,39
+P2426,Player_2426,RCB,Batsman,21
+P2427,Player_2427,LSG,Bowler,36
+P2428,Player_2428,KKR,Bowler,39
+P2429,Player_2429,RR,Batsman,20
+P2430,Player_2430,CSK,All-Rounder,36
+P2431,Player_2431,RR,All-Rounder,23
+P2432,Player_2432,GT,Bowler,34
+P2433,Player_2433,LSG,Batsman,21
+P2434,Player_2434,LSG,Batsman,34
+P2435,Player_2435,KKR,Bowler,27
+P2436,Player_2436,CSK,Batsman,21
+P2437,Player_2437,KKR,Wicket Keeper,29
+P2438,Player_2438,LSG,Bowler,32
+P2439,Player_2439,MI,Bowler,29
+P2440,Player_2440,DC,Wicket Keeper,24
+P2441,Player_2441,GT,Bowler,31
+P2442,Player_2442,MI,All-Rounder,21
+P2443,Player_2443,PBKS,Batsman,34
+P2444,Player_2444,CSK,Wicket Keeper,29
+P2445,Player_2445,SRH,Batsman,20
+P2446,Player_2446,RR,Wicket Keeper,21
+P2447,Player_2447,DC,All-Rounder,32
+P2448,Player_2448,LSG,All-Rounder,39
+P2449,Player_2449,PBKS,Bowler,35
+P2450,Player_2450,DC,All-Rounder,31
+P2451,Player_2451,KKR,Batsman,33
+P2452,Player_2452,RR,Bowler,18
+P2453,Player_2453,PBKS,Batsman,30
+P2454,Player_2454,PBKS,Batsman,21
+P2455,Player_2455,CSK,Wicket Keeper,30
+P2456,Player_2456,LSG,Batsman,23
+P2457,Player_2457,MI,All-Rounder,24
+P2458,Player_2458,RR,Bowler,37
+P2459,Player_2459,DC,Batsman,25
+P2460,Player_2460,DC,Wicket Keeper,26
+P2461,Player_2461,LSG,All-Rounder,38
+P2462,Player_2462,DC,All-Rounder,33
+P2463,Player_2463,LSG,Wicket Keeper,33
+P2464,Player_2464,GT,All-Rounder,22
+P2465,Player_2465,PBKS,Batsman,21
+P2466,Player_2466,SRH,Wicket Keeper,33
+P2467,Player_2467,KKR,Bowler,18
+P2468,Player_2468,MI,Batsman,20
+P2469,Player_2469,PBKS,Batsman,23
+P2470,Player_2470,DC,All-Rounder,22
+P2471,Player_2471,SRH,Batsman,20
+P2472,Player_2472,GT,Wicket Keeper,32
+P2473,Player_2473,KKR,All-Rounder,39
+P2474,Player_2474,PBKS,Wicket Keeper,34
+P2475,Player_2475,SRH,All-Rounder,35
+P2476,Player_2476,GT,Batsman,19
+P2477,Player_2477,DC,Batsman,30
+P2478,Player_2478,PBKS,All-Rounder,30
+P2479,Player_2479,PBKS,Wicket Keeper,19
+P2480,Player_2480,RCB,Bowler,35
+P2481,Player_2481,SRH,Bowler,33
+P2482,Player_2482,DC,Bowler,27
+P2483,Player_2483,DC,Wicket Keeper,21
+P2484,Player_2484,LSG,Wicket Keeper,39
+P2485,Player_2485,GT,Wicket Keeper,33
+P2486,Player_2486,GT,Bowler,34
+P2487,Player_2487,RCB,Wicket Keeper,26
+P2488,Player_2488,PBKS,Wicket Keeper,37
+P2489,Player_2489,RR,All-Rounder,28
+P2490,Player_2490,RCB,Batsman,36
+P2491,Player_2491,RCB,Bowler,29
+P2492,Player_2492,RR,Batsman,38
+P2493,Player_2493,RR,Wicket Keeper,21
+P2494,Player_2494,DC,All-Rounder,29
+P2495,Player_2495,DC,All-Rounder,19
+P2496,Player_2496,KKR,Bowler,25
+P2497,Player_2497,SRH,Batsman,40
+P2498,Player_2498,MI,All-Rounder,21
+P2499,Player_2499,RR,Bowler,18
+P2500,Player_2500,GT,All-Rounder,19
+P2501,Player_2501,PBKS,Wicket Keeper,36
+P2502,Player_2502,GT,Wicket Keeper,26
+P2503,Player_2503,RCB,Wicket Keeper,36
+P2504,Player_2504,RCB,All-Rounder,30
+P2505,Player_2505,LSG,Wicket Keeper,28
+P2506,Player_2506,LSG,Batsman,33
+P2507,Player_2507,MI,Bowler,28
+P2508,Player_2508,PBKS,All-Rounder,23
+P2509,Player_2509,LSG,All-Rounder,29
+P2510,Player_2510,DC,Bowler,33
+P2511,Player_2511,MI,Bowler,27
+P2512,Player_2512,SRH,Batsman,27
+P2513,Player_2513,LSG,Wicket Keeper,25
+P2514,Player_2514,LSG,Batsman,40
+P2515,Player_2515,LSG,Batsman,36
+P2516,Player_2516,RR,All-Rounder,20
+P2517,Player_2517,LSG,Wicket Keeper,31
+P2518,Player_2518,KKR,All-Rounder,20
+P2519,Player_2519,SRH,All-Rounder,31
+P2520,Player_2520,GT,All-Rounder,24
+P2521,Player_2521,DC,Wicket Keeper,26
+P2522,Player_2522,LSG,Wicket Keeper,39
+P2523,Player_2523,GT,Bowler,18
+P2524,Player_2524,GT,Bowler,36
+P2525,Player_2525,PBKS,Bowler,39
+P2526,Player_2526,PBKS,All-Rounder,38
+P2527,Player_2527,GT,Wicket Keeper,36
+P2528,Player_2528,RCB,Bowler,29
+P2529,Player_2529,PBKS,Bowler,25
+P2530,Player_2530,CSK,All-Rounder,31
+P2531,Player_2531,DC,All-Rounder,20
+P2532,Player_2532,KKR,Wicket Keeper,26
+P2533,Player_2533,SRH,Bowler,26
+P2534,Player_2534,LSG,Bowler,30
+P2535,Player_2535,KKR,Batsman,22
+P2536,Player_2536,KKR,Batsman,25
+P2537,Player_2537,SRH,Wicket Keeper,33
+P2538,Player_2538,GT,Wicket Keeper,31
+P2539,Player_2539,RCB,Bowler,23
+P2540,Player_2540,SRH,Bowler,18
+P2541,Player_2541,SRH,All-Rounder,39
+P2542,Player_2542,GT,Bowler,38
+P2543,Player_2543,RCB,Wicket Keeper,18
+P2544,Player_2544,RCB,Batsman,28
+P2545,Player_2545,LSG,All-Rounder,20
+P2546,Player_2546,DC,All-Rounder,39
+P2547,Player_2547,MI,Wicket Keeper,22
+P2548,Player_2548,KKR,Batsman,36
+P2549,Player_2549,GT,Batsman,34
+P2550,Player_2550,LSG,All-Rounder,33
+P2551,Player_2551,MI,Bowler,37
+P2552,Player_2552,MI,All-Rounder,28
+P2553,Player_2553,LSG,Wicket Keeper,25
+P2554,Player_2554,DC,Bowler,22
+P2555,Player_2555,MI,Bowler,24
+P2556,Player_2556,SRH,Wicket Keeper,31
+P2557,Player_2557,SRH,Batsman,33
+P2558,Player_2558,GT,All-Rounder,40
+P2559,Player_2559,MI,All-Rounder,35
+P2560,Player_2560,DC,Wicket Keeper,39
+P2561,Player_2561,KKR,All-Rounder,22
+P2562,Player_2562,RR,Wicket Keeper,40
+P2563,Player_2563,RR,All-Rounder,18
+P2564,Player_2564,LSG,Batsman,39
+P2565,Player_2565,RCB,Bowler,26
+P2566,Player_2566,GT,Wicket Keeper,27
+P2567,Player_2567,RR,Batsman,35
+P2568,Player_2568,KKR,Wicket Keeper,30
+P2569,Player_2569,RCB,Wicket Keeper,26
+P2570,Player_2570,SRH,Batsman,25
+P2571,Player_2571,SRH,Bowler,23
+P2572,Player_2572,PBKS,All-Rounder,38
+P2573,Player_2573,DC,Batsman,26
+P2574,Player_2574,MI,Wicket Keeper,33
+P2575,Player_2575,DC,All-Rounder,40
+P2576,Player_2576,DC,Batsman,23
+P2577,Player_2577,SRH,Batsman,29
+P2578,Player_2578,DC,All-Rounder,32
+P2579,Player_2579,RCB,Batsman,38
+P2580,Player_2580,CSK,Wicket Keeper,38
+P2581,Player_2581,CSK,Batsman,30
+P2582,Player_2582,KKR,All-Rounder,28
+P2583,Player_2583,LSG,Batsman,21
+P2584,Player_2584,CSK,Bowler,34
+P2585,Player_2585,CSK,Wicket Keeper,28
+P2586,Player_2586,PBKS,Wicket Keeper,22
+P2587,Player_2587,SRH,Bowler,39
+P2588,Player_2588,LSG,All-Rounder,27
+P2589,Player_2589,KKR,Batsman,31
+P2590,Player_2590,RR,Bowler,30
+P2591,Player_2591,DC,Bowler,18
+P2592,Player_2592,RCB,Bowler,20
+P2593,Player_2593,PBKS,Bowler,26
+P2594,Player_2594,CSK,Batsman,30
+P2595,Player_2595,LSG,Wicket Keeper,37
+P2596,Player_2596,SRH,Bowler,20
+P2597,Player_2597,RR,Bowler,36
+P2598,Player_2598,MI,Batsman,40
+P2599,Player_2599,GT,Wicket Keeper,32
+P2600,Player_2600,PBKS,Batsman,25
+P2601,Player_2601,KKR,Bowler,26
+P2602,Player_2602,SRH,Wicket Keeper,30
+P2603,Player_2603,CSK,Wicket Keeper,24
+P2604,Player_2604,LSG,Bowler,27
+P2605,Player_2605,KKR,Wicket Keeper,23
+P2606,Player_2606,DC,Bowler,18
+P2607,Player_2607,SRH,All-Rounder,25
+P2608,Player_2608,LSG,Wicket Keeper,25
+P2609,Player_2609,RR,Wicket Keeper,20
+P2610,Player_2610,RCB,Wicket Keeper,22
+P2611,Player_2611,RR,Wicket Keeper,39
+P2612,Player_2612,KKR,Wicket Keeper,40
+P2613,Player_2613,DC,All-Rounder,20
+P2614,Player_2614,MI,Batsman,19
+P2615,Player_2615,RR,Bowler,33
+P2616,Player_2616,RR,Batsman,18
+P2617,Player_2617,SRH,Wicket Keeper,27
+P2618,Player_2618,DC,All-Rounder,22
+P2619,Player_2619,GT,Batsman,36
+P2620,Player_2620,CSK,All-Rounder,23
+P2621,Player_2621,GT,Wicket Keeper,28
+P2622,Player_2622,PBKS,Bowler,20
+P2623,Player_2623,RR,Wicket Keeper,22
+P2624,Player_2624,SRH,Batsman,28
+P2625,Player_2625,RCB,Bowler,33
+P2626,Player_2626,SRH,All-Rounder,31
+P2627,Player_2627,SRH,All-Rounder,37
+P2628,Player_2628,SRH,All-Rounder,31
+P2629,Player_2629,CSK,All-Rounder,33
+P2630,Player_2630,CSK,Wicket Keeper,19
+P2631,Player_2631,KKR,Bowler,19
+P2632,Player_2632,KKR,Bowler,19
+P2633,Player_2633,PBKS,All-Rounder,23
+P2634,Player_2634,PBKS,Wicket Keeper,21
+P2635,Player_2635,PBKS,Batsman,32
+P2636,Player_2636,RR,Wicket Keeper,32
+P2637,Player_2637,PBKS,Batsman,22
+P2638,Player_2638,MI,All-Rounder,20
+P2639,Player_2639,KKR,All-Rounder,23
+P2640,Player_2640,CSK,All-Rounder,36
+P2641,Player_2641,LSG,Bowler,36
+P2642,Player_2642,RCB,Bowler,31
+P2643,Player_2643,MI,Bowler,33
+P2644,Player_2644,MI,All-Rounder,18
+P2645,Player_2645,SRH,Batsman,30
+P2646,Player_2646,RR,Batsman,28
+P2647,Player_2647,CSK,Batsman,20
+P2648,Player_2648,PBKS,Wicket Keeper,32
+P2649,Player_2649,SRH,Batsman,28
+P2650,Player_2650,RCB,Wicket Keeper,28
+P2651,Player_2651,LSG,Bowler,24
+P2652,Player_2652,RCB,All-Rounder,28
+P2653,Player_2653,RCB,Batsman,35
+P2654,Player_2654,LSG,Wicket Keeper,20
+P2655,Player_2655,DC,All-Rounder,23
+P2656,Player_2656,KKR,Wicket Keeper,20
+P2657,Player_2657,RCB,Bowler,23
+P2658,Player_2658,DC,Wicket Keeper,27
+P2659,Player_2659,CSK,Batsman,27
+P2660,Player_2660,PBKS,Wicket Keeper,27
+P2661,Player_2661,LSG,Bowler,29
+P2662,Player_2662,MI,All-Rounder,34
+P2663,Player_2663,KKR,Wicket Keeper,32
+P2664,Player_2664,DC,Wicket Keeper,26
+P2665,Player_2665,LSG,Wicket Keeper,20
+P2666,Player_2666,DC,All-Rounder,37
+P2667,Player_2667,CSK,Wicket Keeper,38
+P2668,Player_2668,DC,Batsman,19
+P2669,Player_2669,GT,All-Rounder,32
+P2670,Player_2670,KKR,Bowler,33
+P2671,Player_2671,GT,Batsman,27
+P2672,Player_2672,PBKS,Wicket Keeper,20
+P2673,Player_2673,PBKS,All-Rounder,22
+P2674,Player_2674,CSK,All-Rounder,25
+P2675,Player_2675,GT,Wicket Keeper,27
+P2676,Player_2676,LSG,Batsman,35
+P2677,Player_2677,MI,Batsman,34
+P2678,Player_2678,MI,Wicket Keeper,31
+P2679,Player_2679,MI,Wicket Keeper,39
+P2680,Player_2680,LSG,All-Rounder,29
+P2681,Player_2681,SRH,Batsman,34
+P2682,Player_2682,RCB,Batsman,39
+P2683,Player_2683,PBKS,Bowler,23
+P2684,Player_2684,DC,Batsman,20
+P2685,Player_2685,DC,All-Rounder,28
+P2686,Player_2686,LSG,Wicket Keeper,39
+P2687,Player_2687,PBKS,All-Rounder,28
+P2688,Player_2688,CSK,Bowler,23
+P2689,Player_2689,MI,All-Rounder,39
+P2690,Player_2690,MI,Wicket Keeper,35
+P2691,Player_2691,RCB,Batsman,30
+P2692,Player_2692,MI,Batsman,23
+P2693,Player_2693,PBKS,Wicket Keeper,40
+P2694,Player_2694,DC,Wicket Keeper,27
+P2695,Player_2695,LSG,All-Rounder,40
+P2696,Player_2696,DC,All-Rounder,20
+P2697,Player_2697,CSK,Bowler,18
+P2698,Player_2698,KKR,Batsman,18
+P2699,Player_2699,KKR,Batsman,24
+P2700,Player_2700,PBKS,Bowler,38
+P2701,Player_2701,KKR,Wicket Keeper,38
+P2702,Player_2702,GT,Bowler,20
+P2703,Player_2703,SRH,Wicket Keeper,22
+P2704,Player_2704,PBKS,Wicket Keeper,18
+P2705,Player_2705,MI,Bowler,22
+P2706,Player_2706,PBKS,Wicket Keeper,33
+P2707,Player_2707,RCB,Wicket Keeper,36
+P2708,Player_2708,KKR,Bowler,27
+P2709,Player_2709,LSG,Wicket Keeper,19
+P2710,Player_2710,RR,Batsman,21
+P2711,Player_2711,DC,Wicket Keeper,33
+P2712,Player_2712,LSG,All-Rounder,19
+P2713,Player_2713,PBKS,Wicket Keeper,33
+P2714,Player_2714,GT,Wicket Keeper,25
+P2715,Player_2715,RCB,Batsman,31
+P2716,Player_2716,LSG,All-Rounder,35
+P2717,Player_2717,MI,All-Rounder,38
+P2718,Player_2718,DC,Wicket Keeper,21
+P2719,Player_2719,PBKS,All-Rounder,32
+P2720,Player_2720,DC,Batsman,23
+P2721,Player_2721,SRH,Bowler,33
+P2722,Player_2722,RR,Wicket Keeper,25
+P2723,Player_2723,GT,Bowler,36
+P2724,Player_2724,RR,Wicket Keeper,22
+P2725,Player_2725,SRH,Wicket Keeper,31
+P2726,Player_2726,RR,Wicket Keeper,23
+P2727,Player_2727,LSG,Bowler,27
+P2728,Player_2728,MI,Wicket Keeper,22
+P2729,Player_2729,CSK,Bowler,23
+P2730,Player_2730,LSG,Wicket Keeper,21
+P2731,Player_2731,DC,Wicket Keeper,27
+P2732,Player_2732,KKR,Bowler,35
+P2733,Player_2733,RCB,Batsman,29
+P2734,Player_2734,SRH,All-Rounder,39
+P2735,Player_2735,CSK,Bowler,34
+P2736,Player_2736,RCB,Batsman,28
+P2737,Player_2737,DC,Batsman,37
+P2738,Player_2738,KKR,Batsman,35
+P2739,Player_2739,KKR,Wicket Keeper,26
+P2740,Player_2740,RR,All-Rounder,19
+P2741,Player_2741,GT,All-Rounder,22
+P2742,Player_2742,GT,Batsman,40
+P2743,Player_2743,RCB,Wicket Keeper,32
+P2744,Player_2744,MI,Batsman,37
+P2745,Player_2745,LSG,Batsman,35
+P2746,Player_2746,RCB,Batsman,23
+P2747,Player_2747,MI,Bowler,29
+P2748,Player_2748,CSK,All-Rounder,40
+P2749,Player_2749,PBKS,Wicket Keeper,21
+P2750,Player_2750,CSK,All-Rounder,28
+P2751,Player_2751,CSK,Batsman,24
+P2752,Player_2752,PBKS,Wicket Keeper,18
+P2753,Player_2753,KKR,Wicket Keeper,28
+P2754,Player_2754,SRH,Bowler,20
+P2755,Player_2755,SRH,All-Rounder,40
+P2756,Player_2756,DC,All-Rounder,38
+P2757,Player_2757,KKR,Bowler,34
+P2758,Player_2758,DC,Bowler,22
+P2759,Player_2759,DC,Wicket Keeper,31
+P2760,Player_2760,PBKS,All-Rounder,18
+P2761,Player_2761,PBKS,Bowler,18
+P2762,Player_2762,GT,Batsman,20
+P2763,Player_2763,RR,All-Rounder,30
+P2764,Player_2764,CSK,Wicket Keeper,19
+P2765,Player_2765,DC,Batsman,39
+P2766,Player_2766,CSK,Batsman,38
+P2767,Player_2767,GT,All-Rounder,31
+P2768,Player_2768,DC,All-Rounder,28
+P2769,Player_2769,RR,Batsman,26
+P2770,Player_2770,GT,Bowler,40
+P2771,Player_2771,DC,Wicket Keeper,38
+P2772,Player_2772,KKR,Wicket Keeper,40
+P2773,Player_2773,RR,Wicket Keeper,24
+P2774,Player_2774,SRH,Batsman,19
+P2775,Player_2775,GT,All-Rounder,30
+P2776,Player_2776,CSK,All-Rounder,24
+P2777,Player_2777,MI,All-Rounder,34
+P2778,Player_2778,RR,Bowler,18
+P2779,Player_2779,RCB,All-Rounder,25
+P2780,Player_2780,SRH,Wicket Keeper,34
+P2781,Player_2781,MI,Batsman,29
+P2782,Player_2782,SRH,All-Rounder,21
+P2783,Player_2783,RCB,Batsman,32
+P2784,Player_2784,SRH,Batsman,32
+P2785,Player_2785,RR,Bowler,36
+P2786,Player_2786,LSG,Bowler,29
+P2787,Player_2787,SRH,All-Rounder,39
+P2788,Player_2788,LSG,Bowler,40
+P2789,Player_2789,DC,Bowler,21
+P2790,Player_2790,RR,Bowler,29
+P2791,Player_2791,PBKS,Batsman,22
+P2792,Player_2792,DC,Wicket Keeper,20
+P2793,Player_2793,MI,Batsman,31
+P2794,Player_2794,CSK,Wicket Keeper,24
+P2795,Player_2795,PBKS,Batsman,29
+P2796,Player_2796,GT,Wicket Keeper,36
+P2797,Player_2797,GT,Wicket Keeper,26
+P2798,Player_2798,LSG,Wicket Keeper,38
+P2799,Player_2799,DC,Wicket Keeper,40
+P2800,Player_2800,PBKS,Wicket Keeper,23
+P2801,Player_2801,CSK,Bowler,33
+P2802,Player_2802,PBKS,Bowler,40
+P2803,Player_2803,GT,Batsman,40
+P2804,Player_2804,KKR,Wicket Keeper,33
+P2805,Player_2805,RCB,Bowler,35
+P2806,Player_2806,RR,Batsman,37
+P2807,Player_2807,DC,Batsman,21
+P2808,Player_2808,RR,All-Rounder,19
+P2809,Player_2809,GT,Bowler,21
+P2810,Player_2810,RR,All-Rounder,29
+P2811,Player_2811,SRH,All-Rounder,33
+P2812,Player_2812,RCB,Bowler,22
+P2813,Player_2813,LSG,Wicket Keeper,19
+P2814,Player_2814,SRH,All-Rounder,24
+P2815,Player_2815,CSK,Wicket Keeper,18
+P2816,Player_2816,MI,All-Rounder,20
+P2817,Player_2817,RCB,Wicket Keeper,33
+P2818,Player_2818,LSG,All-Rounder,36
+P2819,Player_2819,PBKS,All-Rounder,30
+P2820,Player_2820,PBKS,Bowler,22
+P2821,Player_2821,GT,Wicket Keeper,32
+P2822,Player_2822,PBKS,Bowler,28
+P2823,Player_2823,MI,Wicket Keeper,30
+P2824,Player_2824,KKR,Wicket Keeper,28
+P2825,Player_2825,GT,Batsman,39
+P2826,Player_2826,PBKS,All-Rounder,38
+P2827,Player_2827,MI,Bowler,40
+P2828,Player_2828,RCB,All-Rounder,35
+P2829,Player_2829,MI,Batsman,24
+P2830,Player_2830,LSG,Batsman,36
+P2831,Player_2831,GT,Bowler,33
+P2832,Player_2832,GT,Batsman,21
+P2833,Player_2833,GT,Bowler,18
+P2834,Player_2834,SRH,Bowler,25
+P2835,Player_2835,LSG,Wicket Keeper,20
+P2836,Player_2836,GT,All-Rounder,30
+P2837,Player_2837,LSG,Batsman,33
+P2838,Player_2838,RCB,All-Rounder,31
+P2839,Player_2839,CSK,Wicket Keeper,18
+P2840,Player_2840,GT,All-Rounder,30
+P2841,Player_2841,SRH,Batsman,21
+P2842,Player_2842,MI,Bowler,27
+P2843,Player_2843,CSK,Bowler,26
+P2844,Player_2844,MI,Bowler,27
+P2845,Player_2845,DC,Bowler,19
+P2846,Player_2846,LSG,All-Rounder,23
+P2847,Player_2847,RCB,Batsman,27
+P2848,Player_2848,DC,Batsman,28
+P2849,Player_2849,CSK,Wicket Keeper,28
+P2850,Player_2850,SRH,Wicket Keeper,21
+P2851,Player_2851,RCB,Bowler,25
+P2852,Player_2852,LSG,Bowler,33
+P2853,Player_2853,GT,Wicket Keeper,21
+P2854,Player_2854,SRH,Batsman,28
+P2855,Player_2855,PBKS,Wicket Keeper,20
+P2856,Player_2856,PBKS,Batsman,31
+P2857,Player_2857,KKR,Batsman,26
+P2858,Player_2858,GT,Batsman,25
+P2859,Player_2859,GT,Bowler,27
+P2860,Player_2860,LSG,Wicket Keeper,32
+P2861,Player_2861,MI,Bowler,22
+P2862,Player_2862,RR,Bowler,25
+P2863,Player_2863,GT,Wicket Keeper,35
+P2864,Player_2864,PBKS,Batsman,18
+P2865,Player_2865,PBKS,All-Rounder,38
+P2866,Player_2866,CSK,Batsman,19
+P2867,Player_2867,PBKS,All-Rounder,37
+P2868,Player_2868,SRH,Wicket Keeper,29
+P2869,Player_2869,KKR,All-Rounder,19
+P2870,Player_2870,CSK,Batsman,27
+P2871,Player_2871,MI,Wicket Keeper,40
+P2872,Player_2872,MI,Bowler,35
+P2873,Player_2873,SRH,Wicket Keeper,24
+P2874,Player_2874,LSG,All-Rounder,39
+P2875,Player_2875,RR,All-Rounder,40
+P2876,Player_2876,PBKS,All-Rounder,25
+P2877,Player_2877,RR,All-Rounder,24
+P2878,Player_2878,PBKS,All-Rounder,18
+P2879,Player_2879,CSK,Batsman,37
+P2880,Player_2880,PBKS,Batsman,18
+P2881,Player_2881,CSK,Wicket Keeper,35
+P2882,Player_2882,PBKS,Wicket Keeper,35
+P2883,Player_2883,MI,Batsman,35
+P2884,Player_2884,RCB,Wicket Keeper,39
+P2885,Player_2885,MI,All-Rounder,30
+P2886,Player_2886,LSG,All-Rounder,30
+P2887,Player_2887,CSK,Batsman,21
+P2888,Player_2888,PBKS,All-Rounder,24
+P2889,Player_2889,PBKS,Batsman,25
+P2890,Player_2890,RCB,All-Rounder,39
+P2891,Player_2891,RR,Bowler,20
+P2892,Player_2892,LSG,All-Rounder,40
+P2893,Player_2893,KKR,Bowler,33
+P2894,Player_2894,RR,Batsman,26
+P2895,Player_2895,PBKS,Bowler,18
+P2896,Player_2896,KKR,Wicket Keeper,21
+P2897,Player_2897,SRH,Wicket Keeper,23
+P2898,Player_2898,GT,Bowler,39
+P2899,Player_2899,LSG,Bowler,20
+P2900,Player_2900,LSG,Bowler,20
+P2901,Player_2901,CSK,All-Rounder,36
+P2902,Player_2902,KKR,All-Rounder,24
+P2903,Player_2903,RCB,All-Rounder,39
+P2904,Player_2904,GT,Wicket Keeper,18
+P2905,Player_2905,DC,Batsman,28
+P2906,Player_2906,DC,Wicket Keeper,26
+P2907,Player_2907,MI,Wicket Keeper,33
+P2908,Player_2908,RR,Batsman,25
+P2909,Player_2909,RCB,All-Rounder,31
+P2910,Player_2910,GT,Wicket Keeper,28
+P2911,Player_2911,RCB,Wicket Keeper,24
+P2912,Player_2912,RR,Batsman,36
+P2913,Player_2913,RCB,Bowler,40
+P2914,Player_2914,DC,Batsman,25
+P2915,Player_2915,KKR,Bowler,28
+P2916,Player_2916,SRH,Batsman,38
+P2917,Player_2917,MI,Batsman,33
+P2918,Player_2918,DC,Batsman,36
+P2919,Player_2919,RR,All-Rounder,25
+P2920,Player_2920,MI,Wicket Keeper,25
+P2921,Player_2921,RR,Batsman,28
+P2922,Player_2922,GT,Bowler,20
+P2923,Player_2923,LSG,Wicket Keeper,21
+P2924,Player_2924,PBKS,Batsman,20
+P2925,Player_2925,RCB,Batsman,30
+P2926,Player_2926,RR,Batsman,22
+P2927,Player_2927,RCB,Wicket Keeper,19
+P2928,Player_2928,SRH,Wicket Keeper,20
+P2929,Player_2929,MI,Batsman,35
+P2930,Player_2930,RCB,All-Rounder,30
+P2931,Player_2931,DC,Batsman,37
+P2932,Player_2932,DC,Bowler,37
+P2933,Player_2933,LSG,Batsman,32
+P2934,Player_2934,DC,Wicket Keeper,31
+P2935,Player_2935,LSG,Batsman,28
+P2936,Player_2936,RCB,Wicket Keeper,34
+P2937,Player_2937,RR,Bowler,21
+P2938,Player_2938,MI,Batsman,37
+P2939,Player_2939,MI,Bowler,36
+P2940,Player_2940,CSK,All-Rounder,29
+P2941,Player_2941,DC,Wicket Keeper,37
+P2942,Player_2942,PBKS,Bowler,25
+P2943,Player_2943,CSK,Batsman,19
+P2944,Player_2944,CSK,All-Rounder,36
+P2945,Player_2945,DC,All-Rounder,27
+P2946,Player_2946,LSG,Bowler,22
+P2947,Player_2947,PBKS,All-Rounder,37
+P2948,Player_2948,RR,All-Rounder,29
+P2949,Player_2949,RCB,Bowler,19
+P2950,Player_2950,KKR,Batsman,31
+P2951,Player_2951,RR,Bowler,24
+P2952,Player_2952,KKR,Batsman,28
+P2953,Player_2953,KKR,Wicket Keeper,40
+P2954,Player_2954,PBKS,All-Rounder,36
+P2955,Player_2955,LSG,All-Rounder,37
+P2956,Player_2956,SRH,Wicket Keeper,28
+P2957,Player_2957,CSK,Batsman,32
+P2958,Player_2958,RCB,Wicket Keeper,25
+P2959,Player_2959,RCB,Bowler,40
+P2960,Player_2960,KKR,Wicket Keeper,37
+P2961,Player_2961,KKR,Bowler,33
+P2962,Player_2962,RR,Wicket Keeper,24
+P2963,Player_2963,DC,Bowler,18
+P2964,Player_2964,RR,Batsman,20
+P2965,Player_2965,RR,Batsman,35
+P2966,Player_2966,MI,Bowler,27
+P2967,Player_2967,PBKS,Bowler,38
+P2968,Player_2968,LSG,All-Rounder,19
+P2969,Player_2969,RCB,Bowler,24
+P2970,Player_2970,SRH,Bowler,25
+P2971,Player_2971,SRH,Bowler,28
+P2972,Player_2972,GT,Bowler,23
+P2973,Player_2973,KKR,Batsman,23
+P2974,Player_2974,SRH,Batsman,18
+P2975,Player_2975,CSK,Wicket Keeper,38
+P2976,Player_2976,MI,All-Rounder,24
+P2977,Player_2977,SRH,Wicket Keeper,25
+P2978,Player_2978,RR,All-Rounder,39
+P2979,Player_2979,CSK,Wicket Keeper,40
+P2980,Player_2980,MI,Batsman,22
+P2981,Player_2981,CSK,Bowler,24
+P2982,Player_2982,GT,Wicket Keeper,40
+P2983,Player_2983,RR,All-Rounder,37
+P2984,Player_2984,DC,Bowler,19
+P2985,Player_2985,LSG,Bowler,35
+P2986,Player_2986,SRH,Bowler,28
+P2987,Player_2987,KKR,Batsman,38
+P2988,Player_2988,SRH,Bowler,34
+P2989,Player_2989,LSG,Wicket Keeper,24
+P2990,Player_2990,MI,Wicket Keeper,39
+P2991,Player_2991,LSG,Batsman,23
+P2992,Player_2992,GT,Wicket Keeper,38
+P2993,Player_2993,GT,All-Rounder,33
+P2994,Player_2994,GT,Wicket Keeper,23
+P2995,Player_2995,RR,All-Rounder,34
+P2996,Player_2996,PBKS,Wicket Keeper,33
+P2997,Player_2997,SRH,Wicket Keeper,38
+P2998,Player_2998,LSG,Batsman,24
+P2999,Player_2999,KKR,Bowler,32
+P3000,Player_3000,KKR,Wicket Keeper,24
+P3001,Player_3001,SRH,Wicket Keeper,30
+P3002,Player_3002,LSG,Bowler,29
+P3003,Player_3003,SRH,Batsman,22
+P3004,Player_3004,MI,All-Rounder,32
+P3005,Player_3005,GT,All-Rounder,25
+P3006,Player_3006,LSG,Batsman,32
+P3007,Player_3007,GT,All-Rounder,31
+P3008,Player_3008,PBKS,Wicket Keeper,31
+P3009,Player_3009,DC,All-Rounder,33
+P3010,Player_3010,RR,All-Rounder,30
+P3011,Player_3011,RCB,Bowler,32
+P3012,Player_3012,KKR,All-Rounder,38
+P3013,Player_3013,MI,All-Rounder,20
+P3014,Player_3014,SRH,Batsman,26
+P3015,Player_3015,KKR,Batsman,21
+P3016,Player_3016,MI,All-Rounder,19
+P3017,Player_3017,GT,Bowler,28
+P3018,Player_3018,KKR,All-Rounder,26
+P3019,Player_3019,SRH,All-Rounder,24
+P3020,Player_3020,LSG,Bowler,40
+P3021,Player_3021,GT,All-Rounder,18
+P3022,Player_3022,SRH,All-Rounder,29
+P3023,Player_3023,DC,Wicket Keeper,36
+P3024,Player_3024,RCB,Wicket Keeper,38
+P3025,Player_3025,GT,Bowler,30
+P3026,Player_3026,KKR,Bowler,24
+P3027,Player_3027,PBKS,Bowler,34
+P3028,Player_3028,LSG,Wicket Keeper,32
+P3029,Player_3029,RR,Batsman,28
+P3030,Player_3030,KKR,Wicket Keeper,40
+P3031,Player_3031,DC,Bowler,32
+P3032,Player_3032,PBKS,Batsman,29
+P3033,Player_3033,CSK,Bowler,27
+P3034,Player_3034,RCB,Wicket Keeper,39
+P3035,Player_3035,RR,All-Rounder,25
+P3036,Player_3036,DC,Wicket Keeper,39
+P3037,Player_3037,DC,All-Rounder,28
+P3038,Player_3038,LSG,Batsman,36
+P3039,Player_3039,RCB,Bowler,22
+P3040,Player_3040,RR,Wicket Keeper,30
+P3041,Player_3041,KKR,Wicket Keeper,20
+P3042,Player_3042,GT,Wicket Keeper,24
+P3043,Player_3043,PBKS,Batsman,28
+P3044,Player_3044,LSG,Wicket Keeper,38
+P3045,Player_3045,SRH,Batsman,23
+P3046,Player_3046,MI,Bowler,19
+P3047,Player_3047,LSG,Wicket Keeper,18
+P3048,Player_3048,CSK,Bowler,20
+P3049,Player_3049,DC,All-Rounder,24
+P3050,Player_3050,KKR,All-Rounder,39
+P3051,Player_3051,GT,Batsman,32
+P3052,Player_3052,RCB,All-Rounder,34
+P3053,Player_3053,RCB,Bowler,28
+P3054,Player_3054,DC,Wicket Keeper,23
+P3055,Player_3055,MI,Bowler,35
+P3056,Player_3056,DC,Wicket Keeper,20
+P3057,Player_3057,DC,Bowler,22
+P3058,Player_3058,KKR,All-Rounder,31
+P3059,Player_3059,PBKS,Bowler,37
+P3060,Player_3060,LSG,All-Rounder,36
+P3061,Player_3061,KKR,Wicket Keeper,26
+P3062,Player_3062,KKR,Batsman,22
+P3063,Player_3063,PBKS,Batsman,30
+P3064,Player_3064,LSG,Bowler,34
+P3065,Player_3065,RR,Wicket Keeper,32
+P3066,Player_3066,PBKS,Batsman,20
+P3067,Player_3067,SRH,Wicket Keeper,29
+P3068,Player_3068,SRH,Wicket Keeper,37
+P3069,Player_3069,CSK,Wicket Keeper,25
+P3070,Player_3070,CSK,Wicket Keeper,32
+P3071,Player_3071,DC,Bowler,40
+P3072,Player_3072,LSG,Batsman,30
+P3073,Player_3073,RCB,Bowler,23
+P3074,Player_3074,SRH,All-Rounder,39
+P3075,Player_3075,MI,Bowler,33
+P3076,Player_3076,DC,Batsman,29
+P3077,Player_3077,MI,Batsman,34
+P3078,Player_3078,RR,Wicket Keeper,32
+P3079,Player_3079,CSK,All-Rounder,24
+P3080,Player_3080,GT,Batsman,32
+P3081,Player_3081,RCB,Batsman,38
+P3082,Player_3082,PBKS,Wicket Keeper,28
+P3083,Player_3083,DC,Bowler,30
+P3084,Player_3084,RCB,Batsman,26
+P3085,Player_3085,MI,Bowler,28
+P3086,Player_3086,PBKS,Wicket Keeper,32
+P3087,Player_3087,MI,Batsman,35
+P3088,Player_3088,KKR,Wicket Keeper,22
+P3089,Player_3089,PBKS,All-Rounder,23
+P3090,Player_3090,CSK,Batsman,37
+P3091,Player_3091,MI,Bowler,27
+P3092,Player_3092,MI,Wicket Keeper,23
+P3093,Player_3093,MI,Batsman,39
+P3094,Player_3094,SRH,Bowler,32
+P3095,Player_3095,RR,Bowler,24
+P3096,Player_3096,RCB,Bowler,32
+P3097,Player_3097,RCB,Batsman,30
+P3098,Player_3098,SRH,Wicket Keeper,19
+P3099,Player_3099,LSG,Batsman,19
+P3100,Player_3100,DC,Bowler,25
+P3101,Player_3101,RR,Bowler,24
+P3102,Player_3102,MI,Batsman,31
+P3103,Player_3103,RCB,Batsman,28
+P3104,Player_3104,KKR,Batsman,25
+P3105,Player_3105,MI,Bowler,23
+P3106,Player_3106,RCB,Wicket Keeper,34
+P3107,Player_3107,MI,All-Rounder,28
+P3108,Player_3108,GT,Bowler,37
+P3109,Player_3109,KKR,Wicket Keeper,31
+P3110,Player_3110,MI,Bowler,24
+P3111,Player_3111,MI,All-Rounder,28
+P3112,Player_3112,CSK,Batsman,30
+P3113,Player_3113,RR,Batsman,30
+P3114,Player_3114,KKR,Wicket Keeper,25
+P3115,Player_3115,MI,All-Rounder,38
+P3116,Player_3116,LSG,All-Rounder,19
+P3117,Player_3117,MI,Bowler,31
+P3118,Player_3118,SRH,Wicket Keeper,21
+P3119,Player_3119,GT,Bowler,26
+P3120,Player_3120,MI,All-Rounder,38
+P3121,Player_3121,DC,Bowler,28
+P3122,Player_3122,CSK,All-Rounder,39
+P3123,Player_3123,PBKS,Batsman,28
+P3124,Player_3124,RCB,Wicket Keeper,30
+P3125,Player_3125,GT,Bowler,34
+P3126,Player_3126,LSG,Batsman,25
+P3127,Player_3127,RCB,Batsman,27
+P3128,Player_3128,KKR,Wicket Keeper,25
+P3129,Player_3129,LSG,Batsman,19
+P3130,Player_3130,CSK,All-Rounder,33
+P3131,Player_3131,SRH,Bowler,22
+P3132,Player_3132,DC,Bowler,38
+P3133,Player_3133,RCB,Bowler,37
+P3134,Player_3134,PBKS,All-Rounder,22
+P3135,Player_3135,SRH,All-Rounder,38
+P3136,Player_3136,RCB,Wicket Keeper,38
+P3137,Player_3137,SRH,Batsman,25
+P3138,Player_3138,RR,All-Rounder,25
+P3139,Player_3139,KKR,Batsman,39
+P3140,Player_3140,KKR,Bowler,37
+P3141,Player_3141,DC,All-Rounder,23
+P3142,Player_3142,PBKS,Batsman,20
+P3143,Player_3143,PBKS,Batsman,24
+P3144,Player_3144,RCB,Bowler,24
+P3145,Player_3145,CSK,Batsman,23
+P3146,Player_3146,LSG,Bowler,25
+P3147,Player_3147,GT,Batsman,31
+P3148,Player_3148,PBKS,All-Rounder,23
+P3149,Player_3149,KKR,Bowler,31
+P3150,Player_3150,CSK,Bowler,27
+P3151,Player_3151,SRH,Wicket Keeper,38
+P3152,Player_3152,KKR,All-Rounder,33
+P3153,Player_3153,MI,All-Rounder,30
+P3154,Player_3154,DC,Bowler,33
+P3155,Player_3155,PBKS,Wicket Keeper,34
+P3156,Player_3156,LSG,Wicket Keeper,22
+P3157,Player_3157,PBKS,Batsman,30
+P3158,Player_3158,DC,Batsman,27
+P3159,Player_3159,LSG,Bowler,35
+P3160,Player_3160,CSK,All-Rounder,30
+P3161,Player_3161,PBKS,All-Rounder,32
+P3162,Player_3162,SRH,Wicket Keeper,35
+P3163,Player_3163,LSG,Wicket Keeper,20
+P3164,Player_3164,RR,Bowler,40
+P3165,Player_3165,PBKS,Bowler,22
+P3166,Player_3166,KKR,Batsman,18
+P3167,Player_3167,GT,All-Rounder,33
+P3168,Player_3168,DC,Wicket Keeper,30
+P3169,Player_3169,RR,Wicket Keeper,33
+P3170,Player_3170,SRH,Batsman,31
+P3171,Player_3171,RCB,Batsman,30
+P3172,Player_3172,LSG,Bowler,24
+P3173,Player_3173,DC,All-Rounder,29
+P3174,Player_3174,GT,Wicket Keeper,38
+P3175,Player_3175,RR,Batsman,38
+P3176,Player_3176,DC,Wicket Keeper,25
+P3177,Player_3177,KKR,Wicket Keeper,19
+P3178,Player_3178,RR,Batsman,40
+P3179,Player_3179,CSK,All-Rounder,37
+P3180,Player_3180,PBKS,Bowler,26
+P3181,Player_3181,KKR,Bowler,18
+P3182,Player_3182,MI,Batsman,38
+P3183,Player_3183,DC,Wicket Keeper,40
+P3184,Player_3184,LSG,Batsman,34
+P3185,Player_3185,KKR,Wicket Keeper,23
+P3186,Player_3186,DC,All-Rounder,40
+P3187,Player_3187,SRH,Wicket Keeper,36
+P3188,Player_3188,SRH,Wicket Keeper,20
+P3189,Player_3189,MI,All-Rounder,22
+P3190,Player_3190,SRH,Bowler,30
+P3191,Player_3191,SRH,Batsman,23
+P3192,Player_3192,PBKS,Batsman,21
+P3193,Player_3193,MI,Wicket Keeper,34
+P3194,Player_3194,DC,All-Rounder,31
+P3195,Player_3195,CSK,Bowler,29
+P3196,Player_3196,CSK,Bowler,24
+P3197,Player_3197,PBKS,Bowler,34
+P3198,Player_3198,MI,Wicket Keeper,36
+P3199,Player_3199,KKR,Bowler,24
+P3200,Player_3200,RCB,Bowler,24
+P3201,Player_3201,SRH,Wicket Keeper,32
+P3202,Player_3202,LSG,Batsman,38
+P3203,Player_3203,CSK,Batsman,27
+P3204,Player_3204,MI,Wicket Keeper,21
+P3205,Player_3205,SRH,Batsman,28
+P3206,Player_3206,RCB,Bowler,33
+P3207,Player_3207,PBKS,Batsman,18
+P3208,Player_3208,RCB,All-Rounder,18
+P3209,Player_3209,LSG,Batsman,21
+P3210,Player_3210,KKR,Batsman,30
+P3211,Player_3211,LSG,All-Rounder,33
+P3212,Player_3212,PBKS,All-Rounder,37
+P3213,Player_3213,DC,All-Rounder,29
+P3214,Player_3214,RR,All-Rounder,25
+P3215,Player_3215,RR,Wicket Keeper,30
+P3216,Player_3216,LSG,Batsman,29
+P3217,Player_3217,RR,Batsman,18
+P3218,Player_3218,PBKS,Wicket Keeper,22
+P3219,Player_3219,RCB,Batsman,34
+P3220,Player_3220,SRH,Bowler,29
+P3221,Player_3221,PBKS,Wicket Keeper,34
+P3222,Player_3222,DC,Bowler,18
+P3223,Player_3223,RR,Batsman,38
+P3224,Player_3224,RR,Batsman,28
+P3225,Player_3225,PBKS,Bowler,37
+P3226,Player_3226,PBKS,Wicket Keeper,37
+P3227,Player_3227,MI,All-Rounder,31
+P3228,Player_3228,PBKS,Batsman,30
+P3229,Player_3229,SRH,Bowler,40
+P3230,Player_3230,CSK,Batsman,22
+P3231,Player_3231,PBKS,Batsman,27
+P3232,Player_3232,GT,Wicket Keeper,23
+P3233,Player_3233,PBKS,Batsman,33
+P3234,Player_3234,GT,Bowler,25
+P3235,Player_3235,KKR,Bowler,39
+P3236,Player_3236,MI,Batsman,31
+P3237,Player_3237,RCB,Bowler,28
+P3238,Player_3238,DC,All-Rounder,25
+P3239,Player_3239,SRH,Wicket Keeper,39
+P3240,Player_3240,MI,Bowler,35
+P3241,Player_3241,PBKS,Batsman,40
+P3242,Player_3242,RR,Bowler,36
+P3243,Player_3243,LSG,Batsman,38
+P3244,Player_3244,RR,Wicket Keeper,40
+P3245,Player_3245,DC,Wicket Keeper,25
+P3246,Player_3246,KKR,All-Rounder,21
+P3247,Player_3247,SRH,Batsman,21
+P3248,Player_3248,MI,All-Rounder,36
+P3249,Player_3249,KKR,Batsman,36
+P3250,Player_3250,RR,Bowler,28
+P3251,Player_3251,DC,Batsman,27
+P3252,Player_3252,RCB,Bowler,30
+P3253,Player_3253,DC,All-Rounder,29
+P3254,Player_3254,CSK,Bowler,21
+P3255,Player_3255,DC,Batsman,35
+P3256,Player_3256,PBKS,All-Rounder,22
+P3257,Player_3257,SRH,Bowler,33
+P3258,Player_3258,PBKS,Bowler,37
+P3259,Player_3259,SRH,Bowler,39
+P3260,Player_3260,RCB,All-Rounder,27
+P3261,Player_3261,GT,Batsman,26
+P3262,Player_3262,LSG,Wicket Keeper,38
+P3263,Player_3263,KKR,Wicket Keeper,27
+P3264,Player_3264,DC,Batsman,28
+P3265,Player_3265,CSK,Bowler,25
+P3266,Player_3266,RCB,Bowler,33
+P3267,Player_3267,DC,All-Rounder,39
+P3268,Player_3268,CSK,Batsman,35
+P3269,Player_3269,DC,All-Rounder,31
+P3270,Player_3270,PBKS,All-Rounder,30
+P3271,Player_3271,DC,Batsman,34
+P3272,Player_3272,SRH,All-Rounder,40
+P3273,Player_3273,KKR,Wicket Keeper,21
+P3274,Player_3274,CSK,All-Rounder,36
+P3275,Player_3275,RCB,All-Rounder,32
+P3276,Player_3276,CSK,Bowler,32
+P3277,Player_3277,PBKS,All-Rounder,22
+P3278,Player_3278,KKR,Bowler,24
+P3279,Player_3279,RCB,All-Rounder,36
+P3280,Player_3280,MI,Bowler,30
+P3281,Player_3281,DC,Bowler,19
+P3282,Player_3282,MI,All-Rounder,33
+P3283,Player_3283,CSK,Batsman,21
+P3284,Player_3284,GT,All-Rounder,36
+P3285,Player_3285,DC,Bowler,38
+P3286,Player_3286,DC,Bowler,19
+P3287,Player_3287,MI,Bowler,30
+P3288,Player_3288,PBKS,All-Rounder,40
+P3289,Player_3289,LSG,Bowler,38
+P3290,Player_3290,DC,Batsman,32
+P3291,Player_3291,DC,All-Rounder,38
+P3292,Player_3292,PBKS,All-Rounder,18
+P3293,Player_3293,MI,Batsman,20
+P3294,Player_3294,MI,Wicket Keeper,38
+P3295,Player_3295,GT,Bowler,18
+P3296,Player_3296,LSG,Wicket Keeper,26
+P3297,Player_3297,MI,Bowler,30
+P3298,Player_3298,PBKS,Wicket Keeper,27
+P3299,Player_3299,LSG,Bowler,21
+P3300,Player_3300,RR,Batsman,40
+P3301,Player_3301,GT,Bowler,30
+P3302,Player_3302,RCB,Wicket Keeper,35
+P3303,Player_3303,GT,Wicket Keeper,20
+P3304,Player_3304,GT,Batsman,24
+P3305,Player_3305,MI,Bowler,37
+P3306,Player_3306,CSK,Batsman,35
+P3307,Player_3307,PBKS,All-Rounder,21
+P3308,Player_3308,RCB,Bowler,36
+P3309,Player_3309,KKR,Bowler,20
+P3310,Player_3310,GT,All-Rounder,19
+P3311,Player_3311,MI,Batsman,34
+P3312,Player_3312,SRH,All-Rounder,35
+P3313,Player_3313,CSK,Wicket Keeper,39
+P3314,Player_3314,RCB,Bowler,27
+P3315,Player_3315,RCB,All-Rounder,39
+P3316,Player_3316,GT,Wicket Keeper,22
+P3317,Player_3317,LSG,Wicket Keeper,40
+P3318,Player_3318,RR,All-Rounder,37
+P3319,Player_3319,GT,Bowler,40
+P3320,Player_3320,MI,Batsman,25
+P3321,Player_3321,RCB,Bowler,22
+P3322,Player_3322,SRH,Bowler,22
+P3323,Player_3323,LSG,Bowler,36
+P3324,Player_3324,RR,All-Rounder,22
+P3325,Player_3325,LSG,Wicket Keeper,20
+P3326,Player_3326,GT,All-Rounder,26
+P3327,Player_3327,DC,Bowler,30
+P3328,Player_3328,PBKS,Batsman,26
+P3329,Player_3329,DC,Bowler,35
+P3330,Player_3330,KKR,Batsman,38
+P3331,Player_3331,SRH,Bowler,40
+P3332,Player_3332,RR,Bowler,31
+P3333,Player_3333,CSK,All-Rounder,31
+P3334,Player_3334,DC,Batsman,37
+P3335,Player_3335,KKR,Batsman,26
+P3336,Player_3336,MI,Batsman,39
+P3337,Player_3337,GT,Wicket Keeper,20
+P3338,Player_3338,RR,Batsman,29
+P3339,Player_3339,RR,All-Rounder,22
+P3340,Player_3340,KKR,All-Rounder,18
+P3341,Player_3341,MI,Wicket Keeper,25
+P3342,Player_3342,DC,Batsman,21
+P3343,Player_3343,CSK,All-Rounder,36
+P3344,Player_3344,PBKS,Batsman,34
+P3345,Player_3345,RR,All-Rounder,35
+P3346,Player_3346,SRH,Batsman,19
+P3347,Player_3347,CSK,All-Rounder,30
+P3348,Player_3348,CSK,All-Rounder,39
+P3349,Player_3349,GT,Wicket Keeper,33
+P3350,Player_3350,LSG,Bowler,26
+P3351,Player_3351,RCB,Bowler,39
+P3352,Player_3352,CSK,Bowler,30
+P3353,Player_3353,LSG,All-Rounder,19
+P3354,Player_3354,RR,Bowler,39
+P3355,Player_3355,LSG,Wicket Keeper,40
+P3356,Player_3356,PBKS,Bowler,32
+P3357,Player_3357,RR,Wicket Keeper,34
+P3358,Player_3358,SRH,All-Rounder,31
+P3359,Player_3359,GT,Bowler,27
+P3360,Player_3360,MI,All-Rounder,31
+P3361,Player_3361,RR,Batsman,38
+P3362,Player_3362,MI,Batsman,25
+P3363,Player_3363,MI,Bowler,36
+P3364,Player_3364,RCB,Batsman,27
+P3365,Player_3365,GT,Wicket Keeper,18
+P3366,Player_3366,DC,Bowler,33
+P3367,Player_3367,PBKS,Batsman,30
+P3368,Player_3368,RCB,Bowler,18
+P3369,Player_3369,DC,All-Rounder,25
+P3370,Player_3370,GT,Batsman,37
+P3371,Player_3371,PBKS,Bowler,39
+P3372,Player_3372,GT,Bowler,23
+P3373,Player_3373,MI,All-Rounder,22
+P3374,Player_3374,GT,All-Rounder,19
+P3375,Player_3375,DC,Wicket Keeper,30
+P3376,Player_3376,CSK,All-Rounder,21
+P3377,Player_3377,RR,Bowler,35
+P3378,Player_3378,MI,All-Rounder,27
+P3379,Player_3379,PBKS,All-Rounder,26
+P3380,Player_3380,KKR,Batsman,38
+P3381,Player_3381,LSG,Wicket Keeper,24
+P3382,Player_3382,SRH,Batsman,32
+P3383,Player_3383,LSG,Wicket Keeper,19
+P3384,Player_3384,RR,Batsman,37
+P3385,Player_3385,PBKS,All-Rounder,27
+P3386,Player_3386,RR,Batsman,18
+P3387,Player_3387,RR,Bowler,30
+P3388,Player_3388,RR,Batsman,21
+P3389,Player_3389,DC,Wicket Keeper,24
+P3390,Player_3390,MI,Bowler,31
+P3391,Player_3391,MI,Wicket Keeper,18
+P3392,Player_3392,CSK,All-Rounder,25
+P3393,Player_3393,PBKS,Wicket Keeper,29
+P3394,Player_3394,SRH,All-Rounder,31
+P3395,Player_3395,CSK,All-Rounder,21
+P3396,Player_3396,PBKS,Wicket Keeper,23
+P3397,Player_3397,CSK,All-Rounder,31
+P3398,Player_3398,RCB,All-Rounder,40
+P3399,Player_3399,KKR,Batsman,24
+P3400,Player_3400,SRH,Batsman,22
+P3401,Player_3401,DC,Wicket Keeper,28
+P3402,Player_3402,RCB,Bowler,39
+P3403,Player_3403,KKR,Wicket Keeper,39
+P3404,Player_3404,SRH,Batsman,31
+P3405,Player_3405,PBKS,Wicket Keeper,39
+P3406,Player_3406,CSK,All-Rounder,30
+P3407,Player_3407,GT,Wicket Keeper,22
+P3408,Player_3408,MI,Batsman,18
+P3409,Player_3409,CSK,Bowler,29
+P3410,Player_3410,GT,Batsman,39
+P3411,Player_3411,KKR,Batsman,39
+P3412,Player_3412,RR,Wicket Keeper,37
+P3413,Player_3413,RCB,Wicket Keeper,33
+P3414,Player_3414,SRH,All-Rounder,33
+P3415,Player_3415,MI,Wicket Keeper,25
+P3416,Player_3416,LSG,Bowler,34
+P3417,Player_3417,CSK,Bowler,26
+P3418,Player_3418,MI,All-Rounder,40
+P3419,Player_3419,KKR,Wicket Keeper,24
+P3420,Player_3420,PBKS,Batsman,40
+P3421,Player_3421,GT,Bowler,24
+P3422,Player_3422,LSG,Bowler,25
+P3423,Player_3423,MI,Bowler,30
+P3424,Player_3424,RCB,All-Rounder,24
+P3425,Player_3425,CSK,Wicket Keeper,18
+P3426,Player_3426,LSG,Bowler,20
+P3427,Player_3427,RCB,Wicket Keeper,31
+P3428,Player_3428,GT,All-Rounder,40
+P3429,Player_3429,KKR,Bowler,28
+P3430,Player_3430,DC,Wicket Keeper,19
+P3431,Player_3431,GT,Wicket Keeper,38
+P3432,Player_3432,RCB,All-Rounder,21
+P3433,Player_3433,SRH,All-Rounder,26
+P3434,Player_3434,RR,Wicket Keeper,25
+P3435,Player_3435,RR,Batsman,23
+P3436,Player_3436,RCB,Batsman,19
+P3437,Player_3437,RR,Bowler,27
+P3438,Player_3438,PBKS,All-Rounder,37
+P3439,Player_3439,MI,Wicket Keeper,23
+P3440,Player_3440,SRH,Wicket Keeper,29
+P3441,Player_3441,RR,All-Rounder,21
+P3442,Player_3442,MI,Batsman,39
+P3443,Player_3443,GT,Bowler,28
+P3444,Player_3444,RR,All-Rounder,36
+P3445,Player_3445,GT,All-Rounder,25
+P3446,Player_3446,SRH,Bowler,36
+P3447,Player_3447,DC,Batsman,21
+P3448,Player_3448,CSK,Batsman,19
+P3449,Player_3449,LSG,Bowler,24
+P3450,Player_3450,PBKS,Batsman,20
+P3451,Player_3451,GT,All-Rounder,27
+P3452,Player_3452,PBKS,Bowler,35
+P3453,Player_3453,CSK,Batsman,22
+P3454,Player_3454,KKR,Wicket Keeper,35
+P3455,Player_3455,SRH,All-Rounder,29
+P3456,Player_3456,PBKS,Batsman,31
+P3457,Player_3457,MI,Wicket Keeper,31
+P3458,Player_3458,GT,Batsman,23
+P3459,Player_3459,LSG,All-Rounder,40
+P3460,Player_3460,CSK,All-Rounder,19
+P3461,Player_3461,LSG,Batsman,40
+P3462,Player_3462,KKR,Wicket Keeper,33
+P3463,Player_3463,GT,Batsman,23
+P3464,Player_3464,PBKS,Wicket Keeper,35
+P3465,Player_3465,DC,Wicket Keeper,37
+P3466,Player_3466,SRH,Bowler,23
+P3467,Player_3467,RCB,Bowler,36
+P3468,Player_3468,KKR,Batsman,34
+P3469,Player_3469,PBKS,All-Rounder,27
+P3470,Player_3470,KKR,All-Rounder,40
+P3471,Player_3471,SRH,Batsman,23
+P3472,Player_3472,KKR,Batsman,35
+P3473,Player_3473,KKR,All-Rounder,19
+P3474,Player_3474,CSK,All-Rounder,22
+P3475,Player_3475,SRH,Batsman,38
+P3476,Player_3476,KKR,Bowler,35
+P3477,Player_3477,MI,Batsman,38
+P3478,Player_3478,RR,All-Rounder,28
+P3479,Player_3479,MI,All-Rounder,22
+P3480,Player_3480,DC,All-Rounder,28
+P3481,Player_3481,RCB,Batsman,29
+P3482,Player_3482,KKR,All-Rounder,23
+P3483,Player_3483,SRH,Batsman,35
+P3484,Player_3484,LSG,Batsman,40
+P3485,Player_3485,DC,All-Rounder,38
+P3486,Player_3486,LSG,Bowler,32
+P3487,Player_3487,KKR,All-Rounder,26
+P3488,Player_3488,KKR,Wicket Keeper,22
+P3489,Player_3489,PBKS,Bowler,31
+P3490,Player_3490,RR,Bowler,33
+P3491,Player_3491,MI,Wicket Keeper,23
+P3492,Player_3492,PBKS,Bowler,23
+P3493,Player_3493,KKR,Wicket Keeper,23
+P3494,Player_3494,SRH,Batsman,27
+P3495,Player_3495,CSK,Bowler,30
+P3496,Player_3496,LSG,Bowler,20
+P3497,Player_3497,CSK,Batsman,31
+P3498,Player_3498,KKR,Wicket Keeper,38
+P3499,Player_3499,DC,Batsman,34
+P3500,Player_3500,CSK,Batsman,37
+P3501,Player_3501,MI,Wicket Keeper,30
+P3502,Player_3502,RCB,Batsman,18
+P3503,Player_3503,RCB,Bowler,25
+P3504,Player_3504,MI,All-Rounder,22
+P3505,Player_3505,LSG,Batsman,18
+P3506,Player_3506,MI,All-Rounder,40
+P3507,Player_3507,MI,Bowler,22
+P3508,Player_3508,PBKS,Wicket Keeper,23
+P3509,Player_3509,SRH,All-Rounder,33
+P3510,Player_3510,CSK,Bowler,19
+P3511,Player_3511,GT,All-Rounder,38
+P3512,Player_3512,GT,Batsman,18
+P3513,Player_3513,RCB,Batsman,35
+P3514,Player_3514,SRH,Batsman,34
+P3515,Player_3515,DC,Bowler,18
+P3516,Player_3516,KKR,Batsman,25
+P3517,Player_3517,DC,Wicket Keeper,22
+P3518,Player_3518,RR,All-Rounder,25
+P3519,Player_3519,DC,Batsman,33
+P3520,Player_3520,CSK,Batsman,25
+P3521,Player_3521,MI,All-Rounder,29
+P3522,Player_3522,MI,All-Rounder,21
+P3523,Player_3523,RR,Batsman,19
+P3524,Player_3524,LSG,Bowler,23
+P3525,Player_3525,DC,All-Rounder,37
+P3526,Player_3526,CSK,Wicket Keeper,22
+P3527,Player_3527,SRH,All-Rounder,29
+P3528,Player_3528,MI,All-Rounder,33
+P3529,Player_3529,RR,All-Rounder,40
+P3530,Player_3530,MI,Batsman,22
+P3531,Player_3531,CSK,All-Rounder,22
+P3532,Player_3532,DC,Wicket Keeper,33
+P3533,Player_3533,MI,Batsman,36
+P3534,Player_3534,DC,All-Rounder,22
+P3535,Player_3535,MI,All-Rounder,22
+P3536,Player_3536,CSK,Wicket Keeper,29
+P3537,Player_3537,RR,Wicket Keeper,31
+P3538,Player_3538,PBKS,Wicket Keeper,37
+P3539,Player_3539,RR,Bowler,38
+P3540,Player_3540,KKR,Wicket Keeper,31
+P3541,Player_3541,GT,Wicket Keeper,35
+P3542,Player_3542,GT,Wicket Keeper,35
+P3543,Player_3543,GT,Bowler,30
+P3544,Player_3544,MI,Wicket Keeper,34
+P3545,Player_3545,LSG,Bowler,40
+P3546,Player_3546,MI,Bowler,29
+P3547,Player_3547,RCB,Bowler,18
+P3548,Player_3548,RR,Wicket Keeper,22
+P3549,Player_3549,MI,Batsman,29
+P3550,Player_3550,RR,Bowler,27
+P3551,Player_3551,PBKS,Bowler,35
+P3552,Player_3552,DC,Bowler,24
+P3553,Player_3553,KKR,Batsman,22
+P3554,Player_3554,MI,Bowler,30
+P3555,Player_3555,RCB,Wicket Keeper,29
+P3556,Player_3556,RCB,Batsman,39
+P3557,Player_3557,LSG,Batsman,33
+P3558,Player_3558,LSG,Bowler,18
+P3559,Player_3559,CSK,All-Rounder,22
+P3560,Player_3560,MI,Bowler,20
+P3561,Player_3561,RCB,Wicket Keeper,22
+P3562,Player_3562,CSK,Wicket Keeper,22
+P3563,Player_3563,GT,All-Rounder,33
+P3564,Player_3564,DC,All-Rounder,32
+P3565,Player_3565,RCB,All-Rounder,21
+P3566,Player_3566,CSK,Batsman,38
+P3567,Player_3567,RCB,Bowler,34
+P3568,Player_3568,CSK,Batsman,30
+P3569,Player_3569,DC,Wicket Keeper,35
+P3570,Player_3570,SRH,All-Rounder,40
+P3571,Player_3571,KKR,Wicket Keeper,23
+P3572,Player_3572,SRH,Batsman,34
+P3573,Player_3573,DC,Bowler,24
+P3574,Player_3574,DC,Batsman,25
+P3575,Player_3575,DC,Bowler,35
+P3576,Player_3576,LSG,Batsman,40
+P3577,Player_3577,PBKS,Wicket Keeper,28
+P3578,Player_3578,DC,Wicket Keeper,23
+P3579,Player_3579,RCB,All-Rounder,38
+P3580,Player_3580,DC,Bowler,26
+P3581,Player_3581,MI,Batsman,20
+P3582,Player_3582,RR,All-Rounder,18
+P3583,Player_3583,KKR,All-Rounder,23
+P3584,Player_3584,GT,Batsman,20
+P3585,Player_3585,KKR,Batsman,27
+P3586,Player_3586,KKR,Bowler,38
+P3587,Player_3587,RCB,Bowler,26
+P3588,Player_3588,MI,Batsman,36
+P3589,Player_3589,PBKS,Batsman,19
+P3590,Player_3590,RR,Batsman,27
+P3591,Player_3591,RCB,All-Rounder,27
+P3592,Player_3592,DC,Bowler,28
+P3593,Player_3593,DC,All-Rounder,22
+P3594,Player_3594,MI,All-Rounder,31
+P3595,Player_3595,GT,Batsman,34
+P3596,Player_3596,CSK,Batsman,36
+P3597,Player_3597,DC,Wicket Keeper,36
+P3598,Player_3598,RCB,All-Rounder,23
+P3599,Player_3599,CSK,Wicket Keeper,20
+P3600,Player_3600,MI,Bowler,24
+P3601,Player_3601,CSK,Bowler,34
+P3602,Player_3602,GT,All-Rounder,32
+P3603,Player_3603,CSK,All-Rounder,27
+P3604,Player_3604,RR,Wicket Keeper,19
+P3605,Player_3605,DC,Bowler,24
+P3606,Player_3606,LSG,Batsman,22
+P3607,Player_3607,LSG,Wicket Keeper,21
+P3608,Player_3608,RCB,Bowler,27
+P3609,Player_3609,GT,Batsman,33
+P3610,Player_3610,MI,Wicket Keeper,28
+P3611,Player_3611,CSK,All-Rounder,23
+P3612,Player_3612,MI,All-Rounder,36
+P3613,Player_3613,RR,All-Rounder,20
+P3614,Player_3614,MI,Bowler,40
+P3615,Player_3615,PBKS,All-Rounder,33
+P3616,Player_3616,SRH,Wicket Keeper,38
+P3617,Player_3617,CSK,Batsman,36
+P3618,Player_3618,PBKS,Batsman,29
+P3619,Player_3619,SRH,Wicket Keeper,31
+P3620,Player_3620,LSG,Bowler,32
+P3621,Player_3621,RR,All-Rounder,29
+P3622,Player_3622,MI,Wicket Keeper,34
+P3623,Player_3623,PBKS,All-Rounder,39
+P3624,Player_3624,RCB,Batsman,25
+P3625,Player_3625,GT,Batsman,22
+P3626,Player_3626,MI,All-Rounder,30
+P3627,Player_3627,CSK,Wicket Keeper,20
+P3628,Player_3628,KKR,Wicket Keeper,32
+P3629,Player_3629,MI,All-Rounder,32
+P3630,Player_3630,PBKS,Wicket Keeper,21
+P3631,Player_3631,MI,Bowler,21
+P3632,Player_3632,DC,Wicket Keeper,24
+P3633,Player_3633,DC,All-Rounder,20
+P3634,Player_3634,RR,All-Rounder,37
+P3635,Player_3635,PBKS,Bowler,40
+P3636,Player_3636,PBKS,Batsman,26
+P3637,Player_3637,PBKS,Batsman,35
+P3638,Player_3638,CSK,Wicket Keeper,22
+P3639,Player_3639,KKR,All-Rounder,36
+P3640,Player_3640,RCB,Wicket Keeper,19
+P3641,Player_3641,RR,Wicket Keeper,33
+P3642,Player_3642,KKR,Batsman,24
+P3643,Player_3643,RCB,Wicket Keeper,26
+P3644,Player_3644,SRH,Bowler,20
+P3645,Player_3645,CSK,Batsman,26
+P3646,Player_3646,DC,Batsman,27
+P3647,Player_3647,PBKS,Wicket Keeper,34
+P3648,Player_3648,KKR,All-Rounder,23
+P3649,Player_3649,RCB,Batsman,31
+P3650,Player_3650,RR,All-Rounder,23
+P3651,Player_3651,KKR,All-Rounder,31
+P3652,Player_3652,PBKS,Wicket Keeper,35
+P3653,Player_3653,CSK,Wicket Keeper,29
+P3654,Player_3654,LSG,Wicket Keeper,18
+P3655,Player_3655,GT,Bowler,20
+P3656,Player_3656,LSG,Bowler,28
+P3657,Player_3657,RR,Batsman,22
+P3658,Player_3658,PBKS,Bowler,33
+P3659,Player_3659,RR,Batsman,39
+P3660,Player_3660,DC,All-Rounder,34
+P3661,Player_3661,RCB,Wicket Keeper,22
+P3662,Player_3662,PBKS,Batsman,19
+P3663,Player_3663,KKR,Bowler,31
+P3664,Player_3664,GT,Bowler,37
+P3665,Player_3665,DC,Bowler,29
+P3666,Player_3666,KKR,Bowler,39
+P3667,Player_3667,LSG,Batsman,29
+P3668,Player_3668,RR,Batsman,27
+P3669,Player_3669,SRH,Batsman,40
+P3670,Player_3670,PBKS,Wicket Keeper,31
+P3671,Player_3671,DC,All-Rounder,29
+P3672,Player_3672,GT,Wicket Keeper,34
+P3673,Player_3673,RR,Batsman,23
+P3674,Player_3674,PBKS,Wicket Keeper,29
+P3675,Player_3675,CSK,Bowler,35
+P3676,Player_3676,DC,Wicket Keeper,27
+P3677,Player_3677,DC,All-Rounder,40
+P3678,Player_3678,LSG,Batsman,20
+P3679,Player_3679,MI,Batsman,38
+P3680,Player_3680,RCB,Wicket Keeper,21
+P3681,Player_3681,PBKS,Batsman,38
+P3682,Player_3682,PBKS,Batsman,39
+P3683,Player_3683,SRH,Wicket Keeper,24
+P3684,Player_3684,KKR,Wicket Keeper,35
+P3685,Player_3685,DC,Batsman,24
+P3686,Player_3686,PBKS,Batsman,29
+P3687,Player_3687,PBKS,Wicket Keeper,38
+P3688,Player_3688,DC,Batsman,29
+P3689,Player_3689,KKR,All-Rounder,26
+P3690,Player_3690,SRH,All-Rounder,31
+P3691,Player_3691,KKR,Batsman,31
+P3692,Player_3692,RCB,Batsman,18
+P3693,Player_3693,CSK,All-Rounder,34
+P3694,Player_3694,LSG,All-Rounder,28
+P3695,Player_3695,CSK,Wicket Keeper,25
+P3696,Player_3696,GT,Wicket Keeper,24
+P3697,Player_3697,LSG,Wicket Keeper,19
+P3698,Player_3698,LSG,Wicket Keeper,22
+P3699,Player_3699,DC,Bowler,30
+P3700,Player_3700,RR,Bowler,31
+P3701,Player_3701,KKR,Batsman,40
+P3702,Player_3702,CSK,Batsman,38
+P3703,Player_3703,LSG,Wicket Keeper,38
+P3704,Player_3704,SRH,Bowler,28
+P3705,Player_3705,KKR,Batsman,20
+P3706,Player_3706,RCB,Wicket Keeper,18
+P3707,Player_3707,LSG,Bowler,18
+P3708,Player_3708,LSG,Batsman,36
+P3709,Player_3709,DC,Batsman,22
+P3710,Player_3710,PBKS,All-Rounder,23
+P3711,Player_3711,KKR,Bowler,27
+P3712,Player_3712,KKR,Bowler,30
+P3713,Player_3713,SRH,Batsman,26
+P3714,Player_3714,MI,Bowler,38
+P3715,Player_3715,RCB,Batsman,21
+P3716,Player_3716,PBKS,Batsman,21
+P3717,Player_3717,CSK,All-Rounder,26
+P3718,Player_3718,CSK,Batsman,20
+P3719,Player_3719,PBKS,All-Rounder,24
+P3720,Player_3720,DC,Batsman,33
+P3721,Player_3721,RCB,Wicket Keeper,20
+P3722,Player_3722,PBKS,Batsman,24
+P3723,Player_3723,DC,Wicket Keeper,28
+P3724,Player_3724,PBKS,Bowler,23
+P3725,Player_3725,SRH,Batsman,23
+P3726,Player_3726,LSG,Batsman,21
+P3727,Player_3727,RR,All-Rounder,33
+P3728,Player_3728,LSG,Batsman,23
+P3729,Player_3729,GT,All-Rounder,21
+P3730,Player_3730,KKR,Batsman,35
+P3731,Player_3731,RCB,Bowler,24
+P3732,Player_3732,RR,Batsman,24
+P3733,Player_3733,RCB,All-Rounder,22
+P3734,Player_3734,KKR,Batsman,40
+P3735,Player_3735,CSK,All-Rounder,26
+P3736,Player_3736,PBKS,Bowler,20
+P3737,Player_3737,RR,All-Rounder,32
+P3738,Player_3738,PBKS,Wicket Keeper,34
+P3739,Player_3739,DC,Bowler,26
+P3740,Player_3740,CSK,Bowler,39
+P3741,Player_3741,SRH,Wicket Keeper,21
+P3742,Player_3742,LSG,All-Rounder,23
+P3743,Player_3743,KKR,Wicket Keeper,31
+P3744,Player_3744,PBKS,Wicket Keeper,37
+P3745,Player_3745,SRH,All-Rounder,37
+P3746,Player_3746,MI,Wicket Keeper,31
+P3747,Player_3747,KKR,All-Rounder,29
+P3748,Player_3748,MI,Wicket Keeper,23
+P3749,Player_3749,RCB,All-Rounder,36
+P3750,Player_3750,DC,All-Rounder,37
+P3751,Player_3751,GT,All-Rounder,30
+P3752,Player_3752,RCB,Batsman,23
+P3753,Player_3753,RR,Wicket Keeper,23
+P3754,Player_3754,RR,Bowler,20
+P3755,Player_3755,KKR,All-Rounder,29
+P3756,Player_3756,CSK,All-Rounder,21
+P3757,Player_3757,RCB,All-Rounder,40
+P3758,Player_3758,RCB,All-Rounder,24
+P3759,Player_3759,PBKS,All-Rounder,25
+P3760,Player_3760,GT,Batsman,30
+P3761,Player_3761,SRH,Bowler,34
+P3762,Player_3762,KKR,Batsman,35
+P3763,Player_3763,SRH,Batsman,36
+P3764,Player_3764,DC,Wicket Keeper,28
+P3765,Player_3765,RR,Bowler,24
+P3766,Player_3766,RCB,Wicket Keeper,33
+P3767,Player_3767,RCB,All-Rounder,31
+P3768,Player_3768,MI,Batsman,32
+P3769,Player_3769,CSK,All-Rounder,36
+P3770,Player_3770,DC,Bowler,36
+P3771,Player_3771,RCB,All-Rounder,18
+P3772,Player_3772,LSG,Batsman,32
+P3773,Player_3773,SRH,Bowler,30
+P3774,Player_3774,RCB,Batsman,28
+P3775,Player_3775,RCB,Batsman,33
+P3776,Player_3776,MI,Wicket Keeper,27
+P3777,Player_3777,SRH,All-Rounder,29
+P3778,Player_3778,DC,Batsman,35
+P3779,Player_3779,RR,Wicket Keeper,37
+P3780,Player_3780,RCB,Wicket Keeper,27
+P3781,Player_3781,PBKS,Wicket Keeper,38
+P3782,Player_3782,MI,All-Rounder,37
+P3783,Player_3783,MI,Batsman,25
+P3784,Player_3784,RCB,Batsman,22
+P3785,Player_3785,MI,All-Rounder,40
+P3786,Player_3786,DC,Bowler,23
+P3787,Player_3787,MI,Bowler,29
+P3788,Player_3788,GT,Batsman,40
+P3789,Player_3789,RCB,All-Rounder,19
+P3790,Player_3790,MI,Batsman,27
+P3791,Player_3791,MI,All-Rounder,28
+P3792,Player_3792,LSG,Wicket Keeper,26
+P3793,Player_3793,CSK,Bowler,36
+P3794,Player_3794,PBKS,Batsman,22
+P3795,Player_3795,RR,Bowler,36
+P3796,Player_3796,DC,Wicket Keeper,39
+P3797,Player_3797,MI,Bowler,36
+P3798,Player_3798,PBKS,Wicket Keeper,26
+P3799,Player_3799,RR,Wicket Keeper,25
+P3800,Player_3800,MI,All-Rounder,27
+P3801,Player_3801,MI,All-Rounder,35
+P3802,Player_3802,KKR,Bowler,40
+P3803,Player_3803,MI,Batsman,33
+P3804,Player_3804,RCB,Bowler,18
+P3805,Player_3805,KKR,Wicket Keeper,30
+P3806,Player_3806,KKR,Wicket Keeper,21
+P3807,Player_3807,RR,Bowler,36
+P3808,Player_3808,GT,All-Rounder,27
+P3809,Player_3809,PBKS,Bowler,34
+P3810,Player_3810,MI,Bowler,25
+P3811,Player_3811,RR,Wicket Keeper,32
+P3812,Player_3812,LSG,Bowler,30
+P3813,Player_3813,KKR,Batsman,26
+P3814,Player_3814,DC,Bowler,39
+P3815,Player_3815,SRH,Batsman,22
+P3816,Player_3816,PBKS,Batsman,21
+P3817,Player_3817,KKR,Batsman,32
+P3818,Player_3818,CSK,All-Rounder,18
+P3819,Player_3819,PBKS,Wicket Keeper,29
+P3820,Player_3820,SRH,Batsman,35
+P3821,Player_3821,MI,All-Rounder,31
+P3822,Player_3822,KKR,Bowler,30
+P3823,Player_3823,GT,Wicket Keeper,34
+P3824,Player_3824,RR,Batsman,32
+P3825,Player_3825,SRH,All-Rounder,21
+P3826,Player_3826,RCB,Wicket Keeper,31
+P3827,Player_3827,KKR,All-Rounder,24
+P3828,Player_3828,DC,Bowler,37
+P3829,Player_3829,SRH,Wicket Keeper,34
+P3830,Player_3830,DC,Batsman,39
+P3831,Player_3831,RCB,Bowler,21
+P3832,Player_3832,KKR,Batsman,19
+P3833,Player_3833,RCB,All-Rounder,25
+P3834,Player_3834,MI,Batsman,26
+P3835,Player_3835,KKR,Wicket Keeper,30
+P3836,Player_3836,DC,Batsman,25
+P3837,Player_3837,SRH,Wicket Keeper,24
+P3838,Player_3838,CSK,Bowler,29
+P3839,Player_3839,SRH,All-Rounder,18
+P3840,Player_3840,MI,Bowler,34
+P3841,Player_3841,LSG,Wicket Keeper,27
+P3842,Player_3842,KKR,Bowler,28
+P3843,Player_3843,MI,Bowler,23
+P3844,Player_3844,RR,Wicket Keeper,22
+P3845,Player_3845,RCB,Wicket Keeper,31
+P3846,Player_3846,RR,Batsman,23
+P3847,Player_3847,SRH,Batsman,23
+P3848,Player_3848,RCB,All-Rounder,33
+P3849,Player_3849,LSG,Batsman,33
+P3850,Player_3850,KKR,Wicket Keeper,21
+P3851,Player_3851,RCB,Batsman,36
+P3852,Player_3852,SRH,Bowler,34
+P3853,Player_3853,GT,Bowler,22
+P3854,Player_3854,MI,Batsman,27
+P3855,Player_3855,RR,Wicket Keeper,33
+P3856,Player_3856,RR,All-Rounder,39
+P3857,Player_3857,PBKS,All-Rounder,29
+P3858,Player_3858,PBKS,Batsman,29
+P3859,Player_3859,SRH,All-Rounder,34
+P3860,Player_3860,LSG,Wicket Keeper,21
+P3861,Player_3861,SRH,Batsman,22
+P3862,Player_3862,DC,Bowler,39
+P3863,Player_3863,CSK,All-Rounder,33
+P3864,Player_3864,RCB,Bowler,36
+P3865,Player_3865,DC,All-Rounder,24
+P3866,Player_3866,MI,Bowler,30
+P3867,Player_3867,MI,All-Rounder,38
+P3868,Player_3868,GT,Wicket Keeper,34
+P3869,Player_3869,CSK,All-Rounder,39
+P3870,Player_3870,RR,All-Rounder,30
+P3871,Player_3871,LSG,Wicket Keeper,26
+P3872,Player_3872,SRH,Bowler,19
+P3873,Player_3873,LSG,All-Rounder,37
+P3874,Player_3874,MI,Wicket Keeper,32
+P3875,Player_3875,LSG,All-Rounder,27
+P3876,Player_3876,MI,Batsman,33
+P3877,Player_3877,CSK,Wicket Keeper,39
+P3878,Player_3878,CSK,All-Rounder,37
+P3879,Player_3879,GT,Bowler,27
+P3880,Player_3880,PBKS,All-Rounder,20
+P3881,Player_3881,SRH,Batsman,32
+P3882,Player_3882,RCB,Bowler,27
+P3883,Player_3883,LSG,Batsman,19
+P3884,Player_3884,PBKS,All-Rounder,18
+P3885,Player_3885,DC,All-Rounder,39
+P3886,Player_3886,RCB,Batsman,26
+P3887,Player_3887,CSK,All-Rounder,27
+P3888,Player_3888,GT,Bowler,20
+P3889,Player_3889,SRH,Bowler,24
+P3890,Player_3890,DC,Batsman,27
+P3891,Player_3891,KKR,Batsman,33
+P3892,Player_3892,RR,Bowler,39
+P3893,Player_3893,DC,Wicket Keeper,30
+P3894,Player_3894,MI,All-Rounder,27
+P3895,Player_3895,LSG,All-Rounder,23
+P3896,Player_3896,LSG,Wicket Keeper,39
+P3897,Player_3897,RR,Bowler,39
+P3898,Player_3898,KKR,All-Rounder,22
+P3899,Player_3899,DC,Bowler,27
+P3900,Player_3900,SRH,Batsman,27
+P0001,Player_1,LSG,Wicket Keeper,35
+P0002,Player_2,CSK,Wicket Keeper,31
+P0003,Player_3,MI,Bowler,34
+P0004,Player_4,PBKS,All-Rounder,34
+P0005,Player_5,RR,Wicket Keeper,29
+P0006,Player_6,DC,Wicket Keeper,31
+P0007,Player_7,DC,Wicket Keeper,18
+P0008,Player_8,GT,Batsman,31
+P0009,Player_9,MI,Bowler,37
+P0010,Player_10,SRH,Bowler,36
+P0011,Player_11,GT,All-Rounder,22
+P0012,Player_12,LSG,All-Rounder,19
+P0013,Player_13,DC,Bowler,30
+P0014,Player_14,RCB,Wicket Keeper,34
+P0015,Player_15,PBKS,Batsman,20
+P0016,Player_16,RCB,All-Rounder,38
+P0017,Player_17,MI,All-Rounder,37
+P0018,Player_18,MI,All-Rounder,36
+P0019,Player_19,PBKS,All-Rounder,19
+P0020,Player_20,MI,Batsman,40
+P0021,Player_21,KKR,Bowler,35
+P0022,Player_22,PBKS,Bowler,25
+P0023,Player_23,CSK,All-Rounder,38
+P0024,Player_24,SRH,Batsman,33
+P0025,Player_25,LSG,Bowler,21
+P0026,Player_26,MI,Batsman,22
+P0027,Player_27,LSG,Batsman,34
+P0028,Player_28,MI,Bowler,24
+P0029,Player_29,MI,Wicket Keeper,18
+P0030,Player_30,GT,Wicket Keeper,30
+P0031,Player_31,RCB,Batsman,27
+P0032,Player_32,DC,Wicket Keeper,23
+P0033,Player_33,KKR,All-Rounder,37
+P0034,Player_34,PBKS,Batsman,31
+P0035,Player_35,CSK,Batsman,23
+P0036,Player_36,CSK,Bowler,23
+P0037,Player_37,GT,Bowler,33
+P0038,Player_38,PBKS,All-Rounder,27
+P0039,Player_39,MI,Wicket Keeper,29
+P0040,Player_40,SRH,Wicket Keeper,30
+P0041,Player_41,MI,Wicket Keeper,31
+P0042,Player_42,DC,Bowler,18
+P0043,Player_43,SRH,Wicket Keeper,21
+P0044,Player_44,LSG,Wicket Keeper,18
+P0045,Player_45,LSG,All-Rounder,19
+P0046,Player_46,LSG,Wicket Keeper,19
+P0047,Player_47,RR,Bowler,32
+P0048,Player_48,PBKS,All-Rounder,18
+P0049,Player_49,CSK,All-Rounder,34
+P0050,Player_50,GT,Bowler,29
+P0051,Player_51,GT,Wicket Keeper,34
+P0052,Player_52,MI,Bowler,38
+P0053,Player_53,CSK,All-Rounder,38
+P0054,Player_54,LSG,All-Rounder,32
+P0055,Player_55,CSK,All-Rounder,39
+P0056,Player_56,SRH,Wicket Keeper,20
+P0057,Player_57,PBKS,Wicket Keeper,33
+P0058,Player_58,LSG,Bowler,36
+P0059,Player_59,GT,All-Rounder,22
+P0060,Player_60,RR,All-Rounder,36
+P0061,Player_61,LSG,Wicket Keeper,20
+P0062,Player_62,RCB,Batsman,23
+P0063,Player_63,KKR,Batsman,39
+P0064,Player_64,MI,Wicket Keeper,39
+P0065,Player_65,PBKS,All-Rounder,25
+P0066,Player_66,KKR,Batsman,23
+P0067,Player_67,DC,Wicket Keeper,20
+P0068,Player_68,RCB,All-Rounder,21
+P0069,Player_69,RCB,Batsman,32
+P0070,Player_70,RR,Batsman,23
+P0071,Player_71,RR,Batsman,40
+P0072,Player_72,PBKS,Wicket Keeper,22
+P0073,Player_73,LSG,Bowler,24
+P0074,Player_74,SRH,Wicket Keeper,32
+P0075,Player_75,SRH,Bowler,24
+P0076,Player_76,CSK,Wicket Keeper,34
+P0077,Player_77,KKR,Batsman,36
+P0078,Player_78,RCB,Batsman,24
+P0079,Player_79,RCB,Bowler,18
+P0080,Player_80,RR,Wicket Keeper,36
+P0081,Player_81,GT,Batsman,28
+P0082,Player_82,CSK,Wicket Keeper,24
+P0083,Player_83,KKR,Wicket Keeper,34
+P0084,Player_84,RR,All-Rounder,37
+P0085,Player_85,GT,Bowler,20
+P0086,Player_86,PBKS,Wicket Keeper,38
+P0087,Player_87,DC,Batsman,36
+P0088,Player_88,MI,Bowler,34
+P0089,Player_89,SRH,Batsman,21
+P0090,Player_90,PBKS,Bowler,19
+P0091,Player_91,LSG,All-Rounder,18
+P0092,Player_92,KKR,All-Rounder,26
+P0093,Player_93,DC,All-Rounder,20
+P0094,Player_94,CSK,All-Rounder,20
+P0095,Player_95,GT,Bowler,34
+P0096,Player_96,LSG,All-Rounder,30
+P0097,Player_97,LSG,Batsman,35
+P0098,Player_98,MI,Wicket Keeper,26
+P0099,Player_99,RCB,Batsman,28
+P0100,Player_100,DC,All-Rounder,24
+P0001,Player_1,MI,Batsman,26
+P0002,Player_2,KKR,Bowler,22
+P0003,Player_3,MI,Batsman,36
+P0004,Player_4,DC,Batsman,18
+P0005,Player_5,MI,Bowler,25
+P0006,Player_6,GT,Batsman,35
+P0007,Player_7,KKR,Wicket Keeper,25
+P0008,Player_8,PBKS,All-Rounder,18
+P0009,Player_9,CSK,Wicket Keeper,28
+P0010,Player_10,SRH,Bowler,24
+P0011,,RR,Batsman,20
+P0012,,DC,Batsman,29
+P0013,,RR,All-Rounder,19
+P0014,,PBKS,Batsman,30
+P0015,,MI,All-Rounder,38
+P0016,,LSG,All-Rounder,36
+P0017,,KKR,Batsman,19
+P0018,,KKR,All-Rounder,20
+P0019,,KKR,Batsman,30
+P0020,,SRH,Wicket Keeper,38
+P0021,,RR,Bowler,29
+P0022,,RR,Bowler,39
+P0023,,SRH,Batsman,37
+P0024,,CSK,Bowler,23
+P0025,,PBKS,Wicket Keeper,26
+P0026,,GT,Bowler,39
+P0027,,RR,Batsman,25
+P0028,,RCB,All-Rounder,30
+P0029,,SRH,Batsman,24
+P0030,,LSG,All-Rounder,24
+P0031,,PBKS,Wicket Keeper,38
+P0032,,PBKS,Bowler,26
+P0033,,CSK,Bowler,35
+P0034,,GT,All-Rounder,36
+P0035,,DC,Wicket Keeper,29
+P0036,,KKR,Bowler,34
+P0037,,PBKS,Batsman,19
+P0038,,MI,Bowler,38
+P0039,,CSK,Wicket Keeper,37
+P0040,,MI,Wicket Keeper,30
+P0041,,LSG,Wicket Keeper,34
+P0042,Player_42,SRH,Batsman,39
+P0043,Player_43,MI,All-Rounder,38
+P0044,Player_44,RR,Batsman,27
+P0045,Player_45,DC,Bowler,32
+P0046,Player_46,RCB,All-Rounder,34
+P0047,Player_47,CSK,Batsman,38
+P0048,Player_48,SRH,Bowler,22
+P0049,Player_49,RR,Bowler,35
+P0050,Player_50,GT,Batsman,37
